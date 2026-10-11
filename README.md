@@ -20,7 +20,7 @@ Design richly furnished indoor spaces in your browser, **hand the boring parts t
 
 ---
 
-## Demonstration video: Fill any layout with any set of assets (at runtime, almost instantly)
+## Demonstration video: Fill any layout with any set of assets (~ instantly)
 
 <div align="center">
 GOTHIC

@@ -24,11 +24,12 @@ Design richly furnished indoor spaces in your browser, **hand the boring parts t
 
 <div align="center">
 GOTHIC
-<video src="docs/demo.mp4" controls muted loop playsinline width="100%">
+<video src="[docs/demo.mp4](https://github.com/user-attachments/assets/bb26f89f-c223-4fe9-8b82-cc8257e73eba)" controls muted loop playsinline width="100%">
   Your viewer can't play embedded video. <a href="docs/demo.mp4">Watch the demo (mp4)</a>.
 </video>
 SCIFI
-<video src="docs/demo-scifi.mp4" controls muted loop playsinline width="100%">
+<video src="[docs/demo-scifi.mp4](https://github.com/user-attachments/assets/1bead312-8d45-42cc-b9a5-4df93e673f0a
+)" controls muted loop playsinline width="100%">
   Your viewer can't play embedded video. <a href="docs/demo-scifi.mp4">Watch the sci-fi demo (mp4)</a>.
 </video>
 </div>

@@ -14,7 +14,7 @@ Design richly furnished indoor spaces in your browser, **hand the boring parts t
 
 <img src="docs/screenshots/overview.jpg" alt="A generated, furnished necromancer academy in LevelDez" width="100%">
 
-<img src="docs/decision-card.svg" alt="TL;DR: Decision-1 gives calibrated yes/no probabilities, batched in one cheap call. It shines at taste-style room judgments while deterministic code handles geometry." width="50%">
+<img src="docs/decision-card.svg" alt="TL;DR: Decision-1 gives calibrated yes/no probabilities, batched in one cheap call. It shines at taste-style room judgments while deterministic code handles geometry." width="100%">
 
 </div>
 

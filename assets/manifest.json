@@ -1,0 +1,7 @@
+{
+ "sofa": {
+  "file": "sofa.glb",
+  "tint": "fabric",
+  "source": "blender-mcp"
+ }
+}

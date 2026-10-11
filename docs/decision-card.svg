@@ -1,0 +1,76 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 400" width="900" height="400" role="img" aria-labelledby="t d">
+  <title id="t">TL;DR: why LevelDez uses Microsoft Decision-1</title>
+  <desc id="d">Decision-1 returns calibrated yes/no probabilities, batched in one cheap call. It shines at taste-style judgments about rooms; deterministic code handles geometry.</desc>
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#0b3d91"/>
+      <stop offset="0.55" stop-color="#0078d4"/>
+      <stop offset="1" stop-color="#50e6ff"/>
+    </linearGradient>
+    <linearGradient id="shine" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#fff" stop-opacity=".18"/>
+      <stop offset="1" stop-color="#fff" stop-opacity=".04"/>
+    </linearGradient>
+    <filter id="sh" x="-5%" y="-5%" width="110%" height="115%"><feDropShadow dx="0" dy="6" stdDeviation="8" flood-color="#00264d" flood-opacity=".35"/></filter>
+  </defs>
+  <style>
+    text{font-family:'Segoe UI',system-ui,-apple-system,Helvetica,Arial,sans-serif;fill:#fff}
+    .k{font-size:12px;letter-spacing:.14em;font-weight:600;opacity:.85}
+    .h{font-size:27px;font-weight:700}
+    .s{font-size:14.5px;opacity:.92}
+    .ct{font-size:15.5px;font-weight:700}
+    .cb{font-size:13px;opacity:.93}
+    .big{font-size:30px;font-weight:700}
+    .q{font-size:12.5px;font-style:italic;opacity:.95}
+  </style>
+  <rect x="8" y="8" width="884" height="384" rx="20" fill="url(#bg)" filter="url(#sh)"/>
+  <rect x="8" y="8" width="884" height="384" rx="20" fill="url(#shine)"/>
+  <!-- four tiles -->
+  <g>
+    <rect x="32" y="128" width="204" height="168" rx="14" fill="#fff" fill-opacity=".14" stroke="#fff" stroke-opacity=".35"/>
+    <rect x="248" y="128" width="204" height="168" rx="14" fill="#fff" fill-opacity=".14" stroke="#fff" stroke-opacity=".35"/>
+    <rect x="464" y="128" width="204" height="168" rx="14" fill="#fff" fill-opacity=".14" stroke="#fff" stroke-opacity=".35"/>
+    <rect x="680" y="128" width="188" height="168" rx="14" fill="#fff" fill-opacity=".14" stroke="#fff" stroke-opacity=".35"/>
+  </g>
+  <!-- header -->
+  <g transform="translate(34 32)">
+    <rect width="22" height="22" fill="#f25022"/><rect x="24" width="22" height="22" fill="#7fba00"/>
+    <rect y="24" width="22" height="22" fill="#00a4ef"/><rect x="24" y="24" width="22" height="22" fill="#ffb900"/>
+  </g>
+  <text class="k" x="92" y="46">TL;DR  ·  WHY MICROSOFT DECISION-1</text>
+  <text class="h" x="92" y="78">A tiny yes/no brain for a thousand small design calls.</text>
+  <text class="s" x="34" y="112">Interior design is mostly taste-sized questions. Decision-1 answers them with probabilities, so code stays in charge.</text>
+
+  <!-- tile 1 -->
+  <text class="big" x="52" y="170">P(yes)</text>
+  <text class="ct" x="52" y="198">Calibrated, not chatty</text>
+  <text class="cb" x="52" y="220">Every answer is a number.</text>
+  <text class="cb" x="52" y="238">Threshold it, rank it, mix it.</text>
+  <text class="cb" x="52" y="256">No prose to parse, no</text>
+  <text class="cb" x="52" y="274">invented tool arguments.</text>
+  <!-- tile 2 -->
+  <text class="big" x="268" y="170">1 call</text>
+  <text class="ct" x="268" y="198">Batched by design</text>
+  <text class="cb" x="268" y="220">Dozens of questions about one</text>
+  <text class="cb" x="268" y="238">room state, answered together.</text>
+  <text class="cb" x="268" y="256">A full autopilot run costs</text>
+  <text class="cb" x="268" y="274">about a tenth of a cent.</text>
+  <!-- tile 3 -->
+  <text class="big" x="484" y="170">Taste</text>
+  <text class="ct" x="484" y="198">Where it shines</text>
+  <text class="cb" x="484" y="220">"Needs a rug?" "Too cluttered?"</text>
+  <text class="cb" x="484" y="238">"Does a crypt want this theme?"</text>
+  <text class="cb" x="484" y="256">Local, binary judgments that</text>
+  <text class="cb" x="484" y="274">make rooms feel designed.</text>
+  <!-- tile 4 -->
+  <text class="big" x="700" y="170">Code</text>
+  <text class="ct" x="700" y="198">Does the geometry</text>
+  <text class="cb" x="700" y="220">The model decides what.</text>
+  <text class="cb" x="700" y="238">Deterministic code decides</text>
+  <text class="cb" x="700" y="256">where, so walls never clash</text>
+  <text class="cb" x="700" y="274">and undo always works.</text>
+
+  <!-- footer -->
+  <text class="q" x="34" y="332">Edge: cheap enough to ask constantly, structured enough to trust, small enough to run on every edit.</text>
+  <text class="k" x="34" y="364">LEVELDEZ  ·  microsoft/microsoft-decision-1 via OpenRouter  ·  /api/alpha/decisions</text>
+</svg>

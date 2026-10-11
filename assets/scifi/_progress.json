@@ -1,0 +1,2606 @@
+{
+ "done": {
+  "bed_pod": {
+   "faces": 716,
+   "bbox": [
+    1.6,
+    2.05,
+    1.45
+   ]
+  },
+  "bed_float": {
+   "faces": 644,
+   "bbox": [
+    1.6,
+    2.05,
+    1.2
+   ]
+  },
+  "bed_ribbed": {
+   "faces": 1696,
+   "bbox": [
+    1.6,
+    2.05,
+    1.4
+   ]
+  },
+  "bed_capsule": {
+   "faces": 690,
+   "bbox": [
+    1.6,
+    2.08,
+    1.258
+   ]
+  },
+  "bed_bunk_cot": {
+   "faces": 906,
+   "bbox": [
+    1.6,
+    2.05,
+    0.65
+   ]
+  },
+  "bed_hex": {
+   "faces": 600,
+   "bbox": [
+    1.58,
+    2.05,
+    1.2
+   ]
+  },
+  "nightstand_cube": {
+   "faces": 300,
+   "bbox": [
+    0.45,
+    0.414,
+    0.5
+   ]
+  },
+  "nightstand_drum": {
+   "faces": 252,
+   "bbox": [
+    0.46,
+    0.46,
+    0.5
+   ]
+  },
+  "nightstand_floating": {
+   "faces": 300,
+   "bbox": [
+    0.45,
+    0.41,
+    0.45
+   ]
+  },
+  "nightstand_tower": {
+   "faces": 508,
+   "bbox": [
+    0.4,
+    0.38,
+    0.58
+   ]
+  },
+  "nightstand_charger": {
+   "faces": 390,
+   "bbox": [
+    0.45,
+    0.41,
+    0.48
+   ]
+  },
+  "wardrobe_locker_wall": {
+   "faces": 794,
+   "bbox": [
+    1.3,
+    0.665,
+    2.1
+   ]
+  },
+  "wardrobe_sliding": {
+   "faces": 398,
+   "bbox": [
+    1.39,
+    0.7,
+    2.1
+   ]
+  },
+  "wardrobe_ribbed": {
+   "faces": 1286,
+   "bbox": [
+    1.3,
+    0.646,
+    2.1
+   ]
+  },
+  "wardrobe_cabinet_tall": {
+   "faces": 594,
+   "bbox": [
+    1.3,
+    0.665,
+    2.1
+   ]
+  },
+  "wardrobe_airlock_closet": {
+   "faces": 550,
+   "bbox": [
+    1.3,
+    0.705,
+    2.1
+   ]
+  },
+  "dresser_drawer_stack": {
+   "faces": 906,
+   "bbox": [
+    1.2,
+    0.486,
+    0.86
+   ]
+  },
+  "dresser_crate_low": {
+   "faces": 692,
+   "bbox": [
+    1.2,
+    0.486,
+    0.85
+   ]
+  },
+  "dresser_console_chest": {
+   "faces": 350,
+   "bbox": [
+    1.2,
+    0.486,
+    1.0
+   ]
+  },
+  "dresser_modular": {
+   "faces": 606,
+   "bbox": [
+    1.18,
+    0.486,
+    0.85
+   ]
+  },
+  "sofa_modular": {
+   "faces": 1280,
+   "bbox": [
+    2.1,
+    0.95,
+    0.8
+   ]
+  },
+  "sofa_curved": {
+   "faces": 1672,
+   "bbox": [
+    2.46,
+    2.448,
+    0.66
+   ]
+  },
+  "sofa_lounge_low": {
+   "faces": 496,
+   "bbox": [
+    2.1,
+    0.95,
+    0.55
+   ]
+  },
+  "sofa_pod_pair": {
+   "faces": 790,
+   "bbox": [
+    1.94,
+    0.85,
+    0.954
+   ]
+  },
+  "sofa_tufted_chrome": {
+   "faces": 974,
+   "bbox": [
+    2.1,
+    0.95,
+    0.88
+   ]
+  },
+  "sofa_bench_sofa": {
+   "faces": 790,
+   "bbox": [
+    2.1,
+    0.65,
+    0.82
+   ]
+  },
+  "armchair_egg": {
+   "faces": 826,
+   "bbox": [
+    0.84,
+    0.88,
+    0.97
+   ]
+  },
+  "armchair_recliner": {
+   "faces": 594,
+   "bbox": [
+    0.86,
+    1.025,
+    0.9
+   ]
+  },
+  "armchair_cube": {
+   "faces": 496,
+   "bbox": [
+    0.86,
+    0.865,
+    0.85
+   ]
+  },
+  "armchair_swivel_pod": {
+   "faces": 548,
+   "bbox": [
+    0.84,
+    0.8,
+    1.25
+   ]
+  },
+  "armchair_gaming": {
+   "faces": 531,
+   "bbox": [
+    0.67,
+    0.675,
+    1.2
+   ]
+  },
+  "armchair_lounger": {
+   "faces": 388,
+   "bbox": [
+    0.8,
+    0.865,
+    0.87
+   ]
+  },
+  "dining_chair_shell": {
+   "faces": 231,
+   "bbox": [
+    0.438,
+    0.43,
+    0.92
+   ]
+  },
+  "dining_chair_stool_back": {
+   "faces": 888,
+   "bbox": [
+    0.45,
+    0.45,
+    0.92
+   ]
+  },
+  "dining_chair_wire": {
+   "faces": 196,
+   "bbox": [
+    0.421,
+    0.426,
+    0.912
+   ]
+  },
+  "dining_chair_block": {
+   "faces": 300,
+   "bbox": [
+    0.45,
+    0.477,
+    0.93
+   ]
+  },
+  "dining_chair_ribbed": {
+   "faces": 1182,
+   "bbox": [
+    0.44,
+    0.44,
+    1.0
+   ]
+  },
+  "dining_chair_hover": {
+   "faces": 412,
+   "bbox": [
+    0.44,
+    0.46,
+    0.92
+   ]
+  },
+  "office_chair_task": {
+   "faces": 640,
+   "bbox": [
+    0.606,
+    0.593,
+    1.205
+   ]
+  },
+  "office_chair_command": {
+   "faces": 848,
+   "bbox": [
+    0.934,
+    0.626,
+    1.405
+   ]
+  },
+  "office_chair_mesh_high": {
+   "faces": 542,
+   "bbox": [
+    0.558,
+    0.606,
+    1.515
+   ]
+  },
+  "office_chair_stool_swivel": {
+   "faces": 460,
+   "bbox": [
+    0.586,
+    0.593,
+    0.625
+   ]
+  },
+  "bench_slab": {
+   "faces": 300,
+   "bbox": [
+    1.2,
+    0.4,
+    0.46
+   ]
+  },
+  "bench_locker_room": {
+   "faces": 496,
+   "bbox": [
+    1.2,
+    0.4,
+    0.455
+   ]
+  },
+  "bench_cushioned": {
+   "faces": 148,
+   "bbox": [
+    1.2,
+    0.4,
+    0.46
+   ]
+  },
+  "bench_lit_block": {
+   "faces": 202,
+   "bbox": [
+    1.2,
+    0.4,
+    0.49
+   ]
+  },
+  "bench_airlock": {
+   "faces": 398,
+   "bbox": [
+    1.2,
+    0.433,
+    0.5
+   ]
+  },
+  "ottoman_puck": {
+   "faces": 252,
+   "bbox": [
+    0.616,
+    0.616,
+    0.35
+   ]
+  },
+  "ottoman_cube_glow": {
+   "faces": 202,
+   "bbox": [
+    0.6,
+    0.6,
+    0.46
+   ]
+  },
+  "ottoman_pouf": {
+   "faces": 390,
+   "bbox": [
+    0.6,
+    0.6,
+    0.45
+   ]
+  },
+  "dining_table_slab": {
+   "faces": 398,
+   "bbox": [
+    1.8,
+    0.951,
+    0.75
+   ]
+  },
+  "dining_table_pedestal": {
+   "faces": 344,
+   "bbox": [
+    1.8,
+    0.95,
+    0.75
+   ]
+  },
+  "dining_table_holo_ring": {
+   "faces": 734,
+   "bbox": [
+    1.8,
+    0.95,
+    1.04
+   ]
+  },
+  "dining_table_mess_hall": {
+   "faces": 398,
+   "bbox": [
+    1.8,
+    0.956,
+    0.77
+   ]
+  },
+  "dining_table_glass_top": {
+   "faces": 796,
+   "bbox": [
+    1.8,
+    0.95,
+    0.75
+   ]
+  },
+  "desk_console": {
+   "faces": 698,
+   "bbox": [
+    1.4,
+    0.701,
+    1.11
+   ]
+  },
+  "desk_drafting": {
+   "faces": 562,
+   "bbox": [
+    1.4,
+    0.701,
+    0.779
+   ]
+  },
+  "desk_corner_tech": {
+   "faces": 906,
+   "bbox": [
+    1.4,
+    0.701,
+    1.07
+   ]
+  },
+  "desk_floating": {
+   "faces": 208,
+   "bbox": [
+    1.4,
+    0.7,
+    1.198
+   ]
+  },
+  "desk_terminal": {
+   "faces": 446,
+   "bbox": [
+    1.4,
+    0.7,
+    1.3
+   ]
+  },
+  "desk_workbench": {
+   "faces": 1182,
+   "bbox": [
+    1.4,
+    0.701,
+    1.15
+   ]
+  },
+  "coffee_table_glass_ring": {
+   "faces": 548,
+   "bbox": [
+    0.83,
+    0.83,
+    0.42
+   ]
+  },
+  "coffee_table_monolith": {
+   "faces": 202,
+   "bbox": [
+    1.06,
+    0.66,
+    0.42
+   ]
+  },
+  "coffee_table_hover_disc": {
+   "faces": 112,
+   "bbox": [
+    0.8,
+    0.8,
+    0.4
+   ]
+  },
+  "coffee_table_nested": {
+   "faces": 594,
+   "bbox": [
+    1.0,
+    0.606,
+    0.42
+   ]
+  },
+  "side_table_cylinder": {
+   "faces": 252,
+   "bbox": [
+    0.46,
+    0.46,
+    0.55
+   ]
+  },
+  "side_table_cube_pad": {
+   "faces": 202,
+   "bbox": [
+    0.45,
+    0.45,
+    0.57
+   ]
+  },
+  "side_table_tripod": {
+   "faces": 222,
+   "bbox": [
+    0.529,
+    0.51,
+    0.676
+   ]
+  },
+  "side_table_terminal_stand": {
+   "faces": 246,
+   "bbox": [
+    0.45,
+    0.45,
+    0.7
+   ]
+  },
+  "tv_unit_wall_screen": {
+   "faces": 306,
+   "bbox": [
+    1.6,
+    0.431,
+    1.2
+   ]
+  },
+  "tv_unit_media_console": {
+   "faces": 698,
+   "bbox": [
+    1.6,
+    0.438,
+    1.08
+   ]
+  },
+  "tv_unit_holo_stand": {
+   "faces": 338,
+   "bbox": [
+    1.6,
+    0.58,
+    1.232
+   ]
+  },
+  "bookshelf_data_rack": {
+   "faces": 2442,
+   "bbox": [
+    0.95,
+    0.32,
+    1.9
+   ]
+  },
+  "bookshelf_open_grid": {
+   "faces": 2872,
+   "bbox": [
+    0.95,
+    0.32,
+    1.9
+   ]
+  },
+  "bookshelf_archive_wall": {
+   "faces": 5292,
+   "bbox": [
+    0.95,
+    0.32,
+    1.9
+   ]
+  },
+  "bookshelf_slot_tower": {
+   "faces": 1432,
+   "bbox": [
+    0.95,
+    0.32,
+    1.9
+   ]
+  },
+  "bookshelf_crate_shelf": {
+   "faces": 1892,
+   "bbox": [
+    0.95,
+    0.32,
+    1.9
+   ]
+  },
+  "fridge_cryo_unit": {
+   "faces": 404,
+   "bbox": [
+    0.72,
+    0.736,
+    1.85
+   ]
+  },
+  "fridge_slab_steel": {
+   "faces": 398,
+   "bbox": [
+    0.72,
+    0.735,
+    1.85
+   ]
+  },
+  "fridge_ration_vault": {
+   "faces": 322,
+   "bbox": [
+    0.72,
+    0.775,
+    1.85
+   ]
+  },
+  "kitchen_counter_prep_unit": {
+   "faces": 616,
+   "bbox": [
+    1.22,
+    0.631,
+    0.94
+   ]
+  },
+  "kitchen_counter_galley_run": {
+   "faces": 832,
+   "bbox": [
+    1.22,
+    0.63,
+    0.938
+   ]
+  },
+  "kitchen_counter_nutri_synth": {
+   "faces": 796,
+   "bbox": [
+    1.22,
+    0.631,
+    1.32
+   ]
+  },
+  "kitchen_counter_island_block": {
+   "faces": 404,
+   "bbox": [
+    1.22,
+    0.646,
+    0.93
+   ]
+  },
+  "rug_neon_grid": {
+   "faces": 170,
+   "bbox": [
+    2.6,
+    1.8,
+    0.042
+   ]
+  },
+  "rug_hex_pad": {
+   "faces": 362,
+   "bbox": [
+    2.6,
+    1.8,
+    0.042
+   ]
+  },
+  "rug_circuit": {
+   "faces": 224,
+   "bbox": [
+    2.6,
+    1.8,
+    0.044
+   ]
+  },
+  "rug_hazard_border": {
+   "faces": 272,
+   "bbox": [
+    3.932,
+    3.64,
+    0.042
+   ]
+  },
+  "rug_orbit_rings": {
+   "faces": 1012,
+   "bbox": [
+    2.6,
+    1.8,
+    0.24
+   ]
+  },
+  "rug_landing_pad": {
+   "faces": 454,
+   "bbox": [
+    2.6,
+    1.8,
+    0.066
+   ]
+  },
+  "mirror_slim_neon": {
+   "faces": 116,
+   "bbox": [
+    0.64,
+    0.047,
+    1.2
+   ]
+  },
+  "mirror_round_halo": {
+   "faces": 468,
+   "bbox": [
+    0.88,
+    0.075,
+    0.88
+   ]
+  },
+  "mirror_smart_panel": {
+   "faces": 110,
+   "bbox": [
+    0.6,
+    0.062,
+    1.2
+   ]
+  },
+  "mirror_hex": {
+   "faces": 120,
+   "bbox": [
+    0.9,
+    0.05,
+    1.2
+   ]
+  },
+  "floor_lamp_stem": {
+   "faces": 84,
+   "bbox": [
+    0.32,
+    0.32,
+    1.63
+   ]
+  },
+  "floor_lamp_arc": {
+   "faces": 210,
+   "bbox": [
+    0.555,
+    0.32,
+    1.717
+   ]
+  },
+  "floor_lamp_tube": {
+   "faces": 86,
+   "bbox": [
+    0.32,
+    0.32,
+    1.63
+   ]
+  },
+  "floor_lamp_orb": {
+   "faces": 378,
+   "bbox": [
+    0.4,
+    0.4,
+    1.42
+   ]
+  },
+  "floor_lamp_cone": {
+   "faces": 92,
+   "bbox": [
+    0.4,
+    0.4,
+    1.54
+   ]
+  },
+  "table_lamp_cone": {
+   "faces": 84,
+   "bbox": [
+    0.217,
+    0.22,
+    0.385
+   ]
+  },
+  "table_lamp_orb": {
+   "faces": 172,
+   "bbox": [
+    0.2,
+    0.2,
+    0.36
+   ]
+  },
+  "table_lamp_cube": {
+   "faces": 218,
+   "bbox": [
+    0.2,
+    0.2,
+    0.22
+   ]
+  },
+  "table_lamp_desk_arm": {
+   "faces": 102,
+   "bbox": [
+    0.277,
+    0.2,
+    0.443
+   ]
+  },
+  "table_lamp_crystal": {
+   "faces": 52,
+   "bbox": [
+    0.2,
+    0.2,
+    0.33
+   ]
+  },
+  "ceiling_light_disc": {
+   "faces": 68,
+   "bbox": [
+    0.56,
+    0.56,
+    0.075
+   ]
+  },
+  "ceiling_light_ring": {
+   "faces": 376,
+   "bbox": [
+    0.56,
+    0.56,
+    0.095
+   ]
+  },
+  "ceiling_light_panel": {
+   "faces": 104,
+   "bbox": [
+    0.6,
+    0.6,
+    0.05
+   ]
+  },
+  "ceiling_light_pendant_orb": {
+   "faces": 206,
+   "bbox": [
+    0.31,
+    0.315,
+    0.44
+   ]
+  },
+  "ceiling_light_lantern_tube": {
+   "faces": 212,
+   "bbox": [
+    0.54,
+    0.1,
+    0.28
+   ]
+  },
+  "ceiling_light_cluster": {
+   "faces": 298,
+   "bbox": [
+    0.318,
+    0.32,
+    0.385
+   ]
+  },
+  "plant_hydro_tower": {
+   "faces": 1438,
+   "bbox": [
+    0.659,
+    1.067,
+    1.297
+   ]
+  },
+  "plant_fern_pod": {
+   "faces": 962,
+   "bbox": [
+    0.964,
+    1.475,
+    1.767
+   ]
+  },
+  "plant_bonsai_dome": {
+   "faces": 590,
+   "bbox": [
+    1.0,
+    1.0,
+    1.5
+   ]
+  },
+  "plant_vine_column": {
+   "faces": 916,
+   "bbox": [
+    0.36,
+    0.36,
+    1.86
+   ]
+  },
+  "plant_cactus_neon": {
+   "faces": 332,
+   "bbox": [
+    0.674,
+    0.4,
+    1.27
+   ]
+  },
+  "plant_ficus_planter": {
+   "faces": 552,
+   "bbox": [
+    0.8,
+    0.8,
+    1.38
+   ]
+  },
+  "plant_small_mini_pod": {
+   "faces": 251,
+   "bbox": [
+    0.212,
+    0.254,
+    0.353
+   ]
+  },
+  "plant_small_glow_succulent": {
+   "faces": 180,
+   "bbox": [
+    0.184,
+    0.172,
+    0.239
+   ]
+  },
+  "plant_small_moss_cube": {
+   "faces": 164,
+   "bbox": [
+    0.171,
+    0.18,
+    0.204
+   ]
+  },
+  "plant_small_bonsai_mini": {
+   "faces": 168,
+   "bbox": [
+    0.21,
+    0.15,
+    0.29
+   ]
+  },
+  "curtains_privacy_shutter": {
+   "faces": 1874,
+   "bbox": [
+    1.9,
+    0.1,
+    2.3
+   ]
+  },
+  "curtains_light_blind": {
+   "faces": 300,
+   "bbox": [
+    1.9,
+    0.1,
+    2.15
+   ]
+  },
+  "curtains_slat_panel": {
+   "faces": 1672,
+   "bbox": [
+    1.9,
+    0.1,
+    2.36
+   ]
+  },
+  "curtains_smart_glass": {
+   "faces": 208,
+   "bbox": [
+    1.9,
+    0.1,
+    2.38
+   ]
+  },
+  "toilet_sleek": {
+   "faces": 330,
+   "bbox": [
+    0.4,
+    0.68,
+    0.75
+   ]
+  },
+  "toilet_wall_hung": {
+   "faces": 254,
+   "bbox": [
+    0.4,
+    0.69,
+    0.8
+   ]
+  },
+  "toilet_zero_g": {
+   "faces": 316,
+   "bbox": [
+    0.42,
+    0.51,
+    0.75
+   ]
+  },
+  "bathtub_soak_capsule": {
+   "faces": 300,
+   "bbox": [
+    1.7,
+    0.791,
+    0.56
+   ]
+  },
+  "bathtub_oval_tub": {
+   "faces": 582,
+   "bbox": [
+    1.7,
+    0.78,
+    0.55
+   ]
+  },
+  "bathtub_sonic_bay": {
+   "faces": 446,
+   "bbox": [
+    1.7,
+    0.78,
+    0.6
+   ]
+  },
+  "sink_vanity_basin_unit": {
+   "faces": 322,
+   "bbox": [
+    0.8,
+    0.511,
+    0.98
+   ]
+  },
+  "sink_vanity_pedestal": {
+   "faces": 292,
+   "bbox": [
+    0.72,
+    0.54,
+    1.05
+   ]
+  },
+  "sink_vanity_wash_station": {
+   "faces": 426,
+   "bbox": [
+    0.8,
+    0.525,
+    1.01
+   ]
+  },
+  "sink_vanity_mirror_vanity": {
+   "faces": 404,
+   "bbox": [
+    0.8,
+    0.5,
+    1.314
+   ]
+  },
+  "cryo_pod_upright": {
+   "faces": 728,
+   "bbox": [
+    1.04,
+    1.055,
+    2.2
+   ]
+  },
+  "cryo_pod_twin": {
+   "faces": 748,
+   "bbox": [
+    1.8,
+    0.806,
+    2.15
+   ]
+  },
+  "cryo_pod_reclined": {
+   "faces": 428,
+   "bbox": [
+    1.012,
+    2.2,
+    1.013
+   ]
+  },
+  "cryo_pod_cracked": {
+   "faces": 252,
+   "bbox": [
+    1.361,
+    1.086,
+    2.2
+   ]
+  },
+  "cryo_pod_stasis_tube": {
+   "faces": 432,
+   "bbox": [
+    0.7,
+    0.7,
+    2.2
+   ]
+  },
+  "command_console_bridge_main": {
+   "faces": 420,
+   "bbox": [
+    2.693,
+    1.26,
+    1.65
+   ]
+  },
+  "command_console_nav_station": {
+   "faces": 712,
+   "bbox": [
+    1.3,
+    0.9,
+    1.2
+   ]
+  },
+  "command_console_tactical": {
+   "faces": 240,
+   "bbox": [
+    1.5,
+    0.9,
+    0.89
+   ]
+  },
+  "command_console_comms": {
+   "faces": 1166,
+   "bbox": [
+    1.2,
+    0.8,
+    1.31
+   ]
+  },
+  "command_console_pilot_yoke": {
+   "faces": 622,
+   "bbox": [
+    1.1,
+    0.9,
+    1.4
+   ]
+  },
+  "command_console_ops_desk": {
+   "faces": 606,
+   "bbox": [
+    1.4,
+    0.706,
+    1.07
+   ]
+  },
+  "holotable_round_map": {
+   "faces": 480,
+   "bbox": [
+    1.84,
+    1.84,
+    1.3
+   ]
+  },
+  "holotable_square_grid": {
+   "faces": 574,
+   "bbox": [
+    1.7,
+    1.7,
+    1.06
+   ]
+  },
+  "holotable_planet_orrery": {
+   "faces": 692,
+   "bbox": [
+    1.24,
+    1.24,
+    1.422
+   ]
+  },
+  "holotable_ship_blueprint": {
+   "faces": 466,
+   "bbox": [
+    2.1,
+    1.1,
+    1.07
+   ]
+  },
+  "reactor_core_plasma_column": {
+   "faces": 936,
+   "bbox": [
+    1.6,
+    1.6,
+    2.47
+   ]
+  },
+  "reactor_core_fusion_ring": {
+   "faces": 1424,
+   "bbox": [
+    1.64,
+    1.6,
+    1.82
+   ]
+  },
+  "reactor_core_crystal_heart": {
+   "faces": 612,
+   "bbox": [
+    1.6,
+    1.6,
+    1.52
+   ]
+  },
+  "server_rack_blade_full": {
+   "faces": 2154,
+   "bbox": [
+    0.7,
+    0.926,
+    2.1
+   ]
+  },
+  "server_rack_blade_cool": {
+   "faces": 2250,
+   "bbox": [
+    0.7,
+    0.926,
+    2.1
+   ]
+  },
+  "server_rack_core_stack": {
+   "faces": 348,
+   "bbox": [
+    0.7,
+    0.926,
+    2.1
+   ]
+  },
+  "server_rack_patch_panel": {
+   "faces": 842,
+   "bbox": [
+    0.7,
+    1.222,
+    2.1
+   ]
+  },
+  "server_rack_quantum_cabinet": {
+   "faces": 562,
+   "bbox": [
+    0.7,
+    0.93,
+    2.1
+   ]
+  },
+  "engineering_station_diagnostics": {
+   "faces": 888,
+   "bbox": [
+    1.3,
+    0.7,
+    1.5
+   ]
+  },
+  "engineering_station_power_panel": {
+   "faces": 652,
+   "bbox": [
+    1.3,
+    0.45,
+    2.1
+   ]
+  },
+  "engineering_station_fabricator": {
+   "faces": 370,
+   "bbox": [
+    1.2,
+    0.92,
+    1.4
+   ]
+  },
+  "engineering_station_valve_wall": {
+   "faces": 604,
+   "bbox": [
+    1.5,
+    0.275,
+    2.598
+   ]
+  },
+  "medbay_bed_scanner_bed": {
+   "faces": 828,
+   "bbox": [
+    1.32,
+    2.0,
+    1.66
+   ]
+  },
+  "medbay_bed_surgery_table": {
+   "faces": 380,
+   "bbox": [
+    0.88,
+    1.9,
+    2.024
+   ]
+  },
+  "medbay_bed_regen_tank": {
+   "faces": 378,
+   "bbox": [
+    1.1,
+    1.206,
+    2.1
+   ]
+  },
+  "scanner_arch_security_gate": {
+   "faces": 514,
+   "bbox": [
+    1.5,
+    1.015,
+    2.65
+   ]
+  },
+  "scanner_arch_body_scanner": {
+   "faces": 416,
+   "bbox": [
+    1.5,
+    1.011,
+    2.65
+   ]
+  },
+  "robot_arm_assembly": {
+   "faces": 530,
+   "bbox": [
+    1.338,
+    0.6,
+    1.3
+   ]
+  },
+  "robot_arm_ceiling_rail": {
+   "faces": 530,
+   "bbox": [
+    1.338,
+    0.6,
+    1.3
+   ]
+  },
+  "robot_arm_bar_arm": {
+   "faces": 530,
+   "bbox": [
+    1.338,
+    0.6,
+    1.3
+   ]
+  },
+  "drone_dock_quad": {
+   "faces": 524,
+   "bbox": [
+    0.64,
+    0.64,
+    0.672
+   ]
+  },
+  "drone_dock_orb_bot": {
+   "faces": 548,
+   "bbox": [
+    0.624,
+    0.624,
+    0.73
+   ]
+  },
+  "drone_dock_wall_charger": {
+   "faces": 384,
+   "bbox": [
+    0.624,
+    0.637,
+    1.0
+   ]
+  },
+  "drone_dock_cleaner": {
+   "faces": 274,
+   "bbox": [
+    0.624,
+    0.624,
+    0.24
+   ]
+  },
+  "vending_machine_snack_hex": {
+   "faces": 2890,
+   "bbox": [
+    1.0,
+    0.89,
+    2.15
+   ]
+  },
+  "vending_machine_drink_cooler": {
+   "faces": 2890,
+   "bbox": [
+    1.0,
+    0.89,
+    2.15
+   ]
+  },
+  "vending_machine_gear_vendor": {
+   "faces": 2890,
+   "bbox": [
+    1.0,
+    0.89,
+    2.15
+   ]
+  },
+  "vending_machine_noodle_dispenser": {
+   "faces": 2890,
+   "bbox": [
+    1.0,
+    0.89,
+    2.15
+   ]
+  },
+  "hydroponic_bed_rack_tall": {
+   "faces": 2156,
+   "bbox": [
+    1.21,
+    0.6,
+    2.07
+   ]
+  },
+  "hydroponic_bed_trough_long": {
+   "faces": 618,
+   "bbox": [
+    1.8,
+    0.611,
+    1.25
+   ]
+  },
+  "hydroponic_bed_tower_ring": {
+   "faces": 1730,
+   "bbox": [
+    0.797,
+    0.76,
+    2.0
+   ]
+  },
+  "hydroponic_bed_herb_wall": {
+   "faces": 2440,
+   "bbox": [
+    1.4,
+    0.275,
+    1.67
+   ]
+  },
+  "hydroponic_bed_algae_tank": {
+   "faces": 572,
+   "bbox": [
+    1.2,
+    0.6,
+    1.33
+   ]
+  },
+  "teleporter_pad_ring_pad": {
+   "faces": 1220,
+   "bbox": [
+    1.8,
+    1.8,
+    2.02
+   ]
+  },
+  "teleporter_pad_booth": {
+   "faces": 1702,
+   "bbox": [
+    1.9,
+    1.9,
+    2.42
+   ]
+  },
+  "captain_chair_command_throne": {
+   "faces": 1046,
+   "bbox": [
+    0.96,
+    0.81,
+    2.05
+   ]
+  },
+  "captain_chair_pilot_seat": {
+   "faces": 746,
+   "bbox": [
+    0.92,
+    0.8,
+    1.8
+   ]
+  },
+  "captain_chair_gunner_seat": {
+   "faces": 756,
+   "bbox": [
+    0.92,
+    0.91,
+    1.55
+   ]
+  },
+  "star_map_wall_globe": {
+   "faces": 1316,
+   "bbox": [
+    0.944,
+    0.902,
+    1.85
+   ]
+  },
+  "star_map_floor_sphere": {
+   "faces": 2222,
+   "bbox": [
+    1.26,
+    1.26,
+    1.63
+   ]
+  },
+  "cargo_crate_standard": {
+   "faces": 496,
+   "bbox": [
+    0.86,
+    0.846,
+    0.8
+   ]
+  },
+  "cargo_crate_ribbed_large": {
+   "faces": 790,
+   "bbox": [
+    1.2,
+    0.841,
+    1.0
+   ]
+  },
+  "cargo_crate_hazard": {
+   "faces": 232,
+   "bbox": [
+    1.296,
+    0.846,
+    1.383
+   ]
+  },
+  "cargo_crate_medical": {
+   "faces": 398,
+   "bbox": [
+    0.84,
+    0.64,
+    0.6
+   ]
+  },
+  "cargo_crate_stack_two": {
+   "faces": 202,
+   "bbox": [
+    0.8,
+    0.816,
+    1.1
+   ]
+  },
+  "cargo_crate_cryo_case": {
+   "faces": 306,
+   "bbox": [
+    1.0,
+    0.525,
+    0.55
+   ]
+  },
+  "cargo_crate_ammo_box": {
+   "faces": 300,
+   "bbox": [
+    0.62,
+    0.395,
+    0.34
+   ]
+  },
+  "cargo_crate_open_loot": {
+   "faces": 562,
+   "bbox": [
+    0.8,
+    0.864,
+    0.836
+   ]
+  },
+  "canister_gas_tall": {
+   "faces": 314,
+   "bbox": [
+    0.4,
+    0.4,
+    1.44
+   ]
+  },
+  "canister_fuel_drum": {
+   "faces": 474,
+   "bbox": [
+    0.63,
+    0.63,
+    0.94
+   ]
+  },
+  "canister_coolant": {
+   "faces": 94,
+   "bbox": [
+    0.6,
+    0.6,
+    0.96
+   ]
+  },
+  "canister_toxic": {
+   "faces": 86,
+   "bbox": [
+    0.56,
+    0.565,
+    0.8
+   ]
+  },
+  "noodle_stall_street_cart": {
+   "faces": 388,
+   "bbox": [
+    1.6,
+    1.015,
+    2.157
+   ]
+  },
+  "noodle_stall_counter_bar": {
+   "faces": 408,
+   "bbox": [
+    2.1,
+    0.7,
+    1.46
+   ]
+  },
+  "noodle_stall_ramen_booth": {
+   "faces": 674,
+   "bbox": [
+    2.0,
+    1.065,
+    2.3
+   ]
+  },
+  "suit_rack_eva_rack": {
+   "faces": 1284,
+   "bbox": [
+    1.419,
+    0.506,
+    2.0
+   ]
+  },
+  "suit_rack_armor_stand": {
+   "faces": 618,
+   "bbox": [
+    0.719,
+    0.6,
+    1.82
+   ]
+  },
+  "suit_rack_helmet_shelf": {
+   "faces": 1118,
+   "bbox": [
+    1.25,
+    0.311,
+    0.87
+   ]
+  },
+  "locker_bank_gym_row": {
+   "faces": 1690,
+   "bbox": [
+    1.6,
+    0.526,
+    1.9
+   ]
+  },
+  "locker_bank_crew_cubbies": {
+   "faces": 1762,
+   "bbox": [
+    1.6,
+    0.506,
+    1.9
+   ]
+  },
+  "locker_bank_security_lockers": {
+   "faces": 1690,
+   "bbox": [
+    1.6,
+    0.526,
+    1.9
+   ]
+  },
+  "locker_bank_mail_wall": {
+   "faces": 4258,
+   "bbox": [
+    1.6,
+    0.526,
+    1.9
+   ]
+  },
+  "locker_bank_bio_vault": {
+   "faces": 442,
+   "bbox": [
+    1.6,
+    0.535,
+    1.9
+   ]
+  },
+  "android_service_bot": {
+   "faces": 346,
+   "bbox": [
+    0.658,
+    0.56,
+    1.3
+   ]
+  },
+  "android_bartender": {
+   "faces": 476,
+   "bbox": [
+    0.8,
+    0.425,
+    1.89
+   ]
+  },
+  "android_guard_mech": {
+   "faces": 754,
+   "bbox": [
+    1.385,
+    0.676,
+    2.27
+   ]
+  },
+  "android_display_mannequin": {
+   "faces": 470,
+   "bbox": [
+    0.776,
+    0.6,
+    1.67
+   ]
+  },
+  "terminal_kiosk_info_pillar": {
+   "faces": 306,
+   "bbox": [
+    0.56,
+    0.4,
+    1.78
+   ]
+  },
+  "terminal_kiosk_ticket_booth": {
+   "faces": 410,
+   "bbox": [
+    1.1,
+    0.81,
+    2.11
+   ]
+  },
+  "terminal_kiosk_map_kiosk": {
+   "faces": 158,
+   "bbox": [
+    1.0,
+    0.6,
+    2.141
+   ]
+  },
+  "terminal_kiosk_hack_deck": {
+   "faces": 214,
+   "bbox": [
+    1.0,
+    0.782,
+    1.297
+   ]
+  },
+  "neon_sign_arrow": {
+   "faces": 130,
+   "bbox": [
+    1.0,
+    0.085,
+    0.6
+   ]
+  },
+  "neon_sign_bowl": {
+   "faces": 218,
+   "bbox": [
+    1.0,
+    0.085,
+    0.6
+   ]
+  },
+  "neon_sign_ring": {
+   "faces": 450,
+   "bbox": [
+    1.0,
+    0.085,
+    0.6
+   ]
+  },
+  "neon_sign_triangle": {
+   "faces": 166,
+   "bbox": [
+    1.0,
+    0.085,
+    0.6
+   ]
+  },
+  "neon_sign_hex": {
+   "faces": 162,
+   "bbox": [
+    1.0,
+    0.085,
+    0.704
+   ]
+  },
+  "neon_sign_bars": {
+   "faces": 140,
+   "bbox": [
+    1.0,
+    0.07,
+    0.6
+   ]
+  },
+  "neon_sign_glyphs": {
+   "faces": 170,
+   "bbox": [
+    1.0,
+    0.085,
+    0.6
+   ]
+  },
+  "neon_sign_cross": {
+   "faces": 306,
+   "bbox": [
+    1.0,
+    0.085,
+    0.61
+   ]
+  },
+  "light_strip_ceiling_bar": {
+   "faces": 300,
+   "bbox": [
+    1.8,
+    0.16,
+    0.07
+   ]
+  },
+  "light_strip_ceiling_cross": {
+   "faces": 208,
+   "bbox": [
+    1.6,
+    1.6,
+    0.06
+   ]
+  },
+  "light_strip_wall_run": {
+   "faces": 104,
+   "bbox": [
+    2.0,
+    0.065,
+    0.1
+   ]
+  },
+  "light_strip_wall_stairs": {
+   "faces": 72,
+   "bbox": [
+    2.38,
+    0.04,
+    0.63
+   ]
+  },
+  "light_strip_ceiling_panel_row": {
+   "faces": 416,
+   "bbox": [
+    2.3,
+    0.5,
+    0.05
+   ]
+  },
+  "wall_light_box_sconce": {
+   "faces": 104,
+   "bbox": [
+    0.2,
+    0.12,
+    0.3
+   ]
+  },
+  "wall_light_round_lamp": {
+   "faces": 124,
+   "bbox": [
+    0.24,
+    0.109,
+    0.24
+   ]
+  },
+  "wall_light_tube_pair": {
+   "faces": 208,
+   "bbox": [
+    0.18,
+    0.06,
+    0.5
+   ]
+  },
+  "wall_light_uplight_wing": {
+   "faces": 202,
+   "bbox": [
+    0.494,
+    0.1,
+    0.25
+   ]
+  },
+  "wall_light_porthole_glow": {
+   "faces": 250,
+   "bbox": [
+    0.34,
+    0.06,
+    0.34
+   ]
+  },
+  "wall_light_slit": {
+   "faces": 104,
+   "bbox": [
+    0.6,
+    0.075,
+    0.09
+   ]
+  },
+  "holo_lamp_cube": {
+   "faces": 196,
+   "bbox": [
+    0.214,
+    0.2,
+    0.287
+   ]
+  },
+  "holo_lamp_orbit": {
+   "faces": 362,
+   "bbox": [
+    0.217,
+    0.2,
+    0.253
+   ]
+  },
+  "holo_lamp_cone_beam": {
+   "faces": 182,
+   "bbox": [
+    0.2,
+    0.2,
+    0.295
+   ]
+  },
+  "floor_uplight_wedge": {
+   "faces": 104,
+   "bbox": [
+    0.299,
+    0.14,
+    1.6
+   ]
+  },
+  "floor_uplight_column": {
+   "faces": 68,
+   "bbox": [
+    0.24,
+    0.24,
+    1.85
+   ]
+  },
+  "floor_uplight_ground_pod": {
+   "faces": 192,
+   "bbox": [
+    0.5,
+    0.5,
+    0.2
+   ]
+  },
+  "beacon_warning_red": {
+   "faces": 170,
+   "bbox": [
+    0.14,
+    0.16,
+    0.14
+   ]
+  },
+  "beacon_rotary_amber": {
+   "faces": 136,
+   "bbox": [
+    0.197,
+    0.2,
+    0.17
+   ]
+  },
+  "beacon_status_ring": {
+   "faces": 194,
+   "bbox": [
+    0.24,
+    0.057,
+    0.24
+   ]
+  },
+  "beacon_alarm_panel": {
+   "faces": 140,
+   "bbox": [
+    0.35,
+    0.065,
+    0.25
+   ]
+  },
+  "holo_poster_planet": {
+   "faces": 816,
+   "bbox": [
+    0.9,
+    0.4,
+    0.65
+   ]
+  },
+  "holo_poster_skyline": {
+   "faces": 480,
+   "bbox": [
+    0.9,
+    0.066,
+    0.65
+   ]
+  },
+  "holo_poster_waveform": {
+   "faces": 266,
+   "bbox": [
+    0.9,
+    0.065,
+    0.65
+   ]
+  },
+  "holo_poster_nebula": {
+   "faces": 1376,
+   "bbox": [
+    0.9,
+    0.12,
+    0.65
+   ]
+  },
+  "holo_poster_ship": {
+   "faces": 135,
+   "bbox": [
+    0.9,
+    0.065,
+    0.65
+   ]
+  },
+  "holo_poster_circuit": {
+   "faces": 188,
+   "bbox": [
+    0.9,
+    0.065,
+    0.65
+   ]
+  },
+  "holo_poster_mountains": {
+   "faces": 145,
+   "bbox": [
+    0.9,
+    0.065,
+    0.65
+   ]
+  },
+  "holo_poster_eye": {
+   "faces": 542,
+   "bbox": [
+    0.9,
+    0.105,
+    0.65
+   ]
+  },
+  "wall_screen_wide_blue": {
+   "faces": 104,
+   "bbox": [
+    1.6,
+    0.053,
+    0.9
+   ]
+  },
+  "wall_screen_tall_cyan": {
+   "faces": 104,
+   "bbox": [
+    0.6,
+    0.053,
+    1.3
+   ]
+  },
+  "wall_screen_triple": {
+   "faces": 312,
+   "bbox": [
+    1.9,
+    0.053,
+    0.45
+   ]
+  },
+  "wall_screen_status_board": {
+   "faces": 158,
+   "bbox": [
+    1.2,
+    0.061,
+    0.8
+   ]
+  },
+  "wall_screen_data_ticker": {
+   "faces": 176,
+   "bbox": [
+    1.6,
+    0.066,
+    0.22
+   ]
+  },
+  "wall_screen_radar": {
+   "faces": 350,
+   "bbox": [
+    0.8,
+    0.068,
+    0.8
+   ]
+  },
+  "wall_vent_grille_square": {
+   "faces": 152,
+   "bbox": [
+    0.6,
+    0.076,
+    0.6
+   ]
+  },
+  "wall_vent_louver_wide": {
+   "faces": 134,
+   "bbox": [
+    1.2,
+    0.219,
+    0.35
+   ]
+  },
+  "wall_vent_fan_round": {
+   "faces": 263,
+   "bbox": [
+    0.624,
+    0.124,
+    0.624
+   ]
+  },
+  "wall_vent_duct_port": {
+   "faces": 264,
+   "bbox": [
+    0.5,
+    0.311,
+    0.5
+   ]
+  },
+  "wall_shelf_floating_plank": {
+   "faces": 104,
+   "bbox": [
+    0.9,
+    0.206,
+    0.04
+   ]
+  },
+  "wall_shelf_bracket_rack": {
+   "faces": 300,
+   "bbox": [
+    0.9,
+    0.206,
+    0.15
+   ]
+  },
+  "wall_shelf_glass_shelf": {
+   "faces": 32,
+   "bbox": [
+    0.9,
+    0.206,
+    0.113
+   ]
+  },
+  "wall_shelf_cargo_net": {
+   "faces": 158,
+   "bbox": [
+    0.9,
+    0.206,
+    0.22
+   ]
+  },
+  "pipe_run_horizontal_pair": {
+   "faces": 396,
+   "bbox": [
+    2.0,
+    0.127,
+    0.275
+   ]
+  },
+  "pipe_run_vertical_trunk": {
+   "faces": 396,
+   "bbox": [
+    0.312,
+    0.16,
+    2.4
+   ]
+  },
+  "pipe_run_corner_manifold": {
+   "faces": 174,
+   "bbox": [
+    1.082,
+    0.16,
+    1.275
+   ]
+  },
+  "pipe_run_valve_bank": {
+   "faces": 116,
+   "bbox": [
+    1.4,
+    0.215,
+    0.23
+   ]
+  },
+  "signage_exit_arrow": {
+   "faces": 118,
+   "bbox": [
+    0.6,
+    0.056,
+    0.22
+   ]
+  },
+  "signage_hazard_plate": {
+   "faces": 145,
+   "bbox": [
+    0.5,
+    0.065,
+    0.5
+   ]
+  },
+  "signage_deck_number": {
+   "faces": 122,
+   "bbox": [
+    0.5,
+    0.052,
+    0.3
+   ]
+  },
+  "signage_no_entry": {
+   "faces": 204,
+   "bbox": [
+    0.4,
+    0.062,
+    0.4
+   ]
+  },
+  "signage_restricted_zone": {
+   "faces": 140,
+   "bbox": [
+    0.991,
+    0.056,
+    1.014
+   ]
+  },
+  "control_panel_switch_bank": {
+   "faces": 722,
+   "bbox": [
+    0.6,
+    0.09,
+    0.4
+   ]
+  },
+  "control_panel_touch_slab": {
+   "faces": 110,
+   "bbox": [
+    0.5,
+    0.051,
+    0.7
+   ]
+  },
+  "control_panel_door_keypad": {
+   "faces": 986,
+   "bbox": [
+    0.22,
+    0.061,
+    0.34
+   ]
+  },
+  "datapad_tablet": {
+   "faces": 104,
+   "bbox": [
+    0.22,
+    0.16,
+    0.015
+   ]
+  },
+  "datapad_stack": {
+   "faces": 300,
+   "bbox": [
+    0.23,
+    0.16,
+    0.045
+   ]
+  },
+  "datapad_folding": {
+   "faces": 202,
+   "bbox": [
+    0.2,
+    0.148,
+    0.14
+   ]
+  },
+  "datapad_holo_slate": {
+   "faces": 110,
+   "bbox": [
+    0.14,
+    0.1,
+    0.164
+   ]
+  },
+  "cup_mug": {
+   "faces": 94,
+   "bbox": [
+    0.122,
+    0.08,
+    0.092
+   ]
+  },
+  "cup_flask": {
+   "faces": 104,
+   "bbox": [
+    0.08,
+    0.079,
+    0.17
+   ]
+  },
+  "cup_tumbler": {
+   "faces": 34,
+   "bbox": [
+    0.09,
+    0.09,
+    0.12
+   ]
+  },
+  "holo_cube_rotating": {
+   "faces": 114,
+   "bbox": [
+    0.146,
+    0.153,
+    0.216
+   ]
+  },
+  "holo_cube_planet_proj": {
+   "faces": 312,
+   "bbox": [
+    0.208,
+    0.192,
+    0.2
+   ]
+  },
+  "holo_cube_logo_prism": {
+   "faces": 106,
+   "bbox": [
+    0.14,
+    0.14,
+    0.16
+   ]
+  },
+  "minibot_crawler": {
+   "faces": 182,
+   "bbox": [
+    0.21,
+    0.21,
+    0.104
+   ]
+  },
+  "minibot_ball": {
+   "faces": 230,
+   "bbox": [
+    0.148,
+    0.159,
+    0.14
+   ]
+  },
+  "minibot_desk_buddy": {
+   "faces": 230,
+   "bbox": [
+    0.169,
+    0.1,
+    0.16
+   ]
+  },
+  "vial_set_rack_of_four": {
+   "faces": 178,
+   "bbox": [
+    0.22,
+    0.07,
+    0.115
+   ]
+  },
+  "vial_set_sample_tray": {
+   "faces": 230,
+   "bbox": [
+    0.24,
+    0.16,
+    0.045
+   ]
+  },
+  "vial_set_single_ampoule": {
+   "faces": 32,
+   "bbox": [
+    0.038,
+    0.04,
+    0.13
+   ]
+  },
+  "ship_model_cruiser": {
+   "faces": 234,
+   "bbox": [
+    0.2,
+    0.29,
+    0.13
+   ]
+  },
+  "ship_model_fighter": {
+   "faces": 228,
+   "bbox": [
+    0.199,
+    0.235,
+    0.12
+   ]
+  },
+  "ship_model_station_ring": {
+   "faces": 302,
+   "bbox": [
+    0.244,
+    0.244,
+    0.16
+   ]
+  },
+  "cable_bundle_coil": {
+   "faces": 583,
+   "bbox": [
+    0.696,
+    0.388,
+    0.105
+   ]
+  },
+  "cable_bundle_tangle_floor": {
+   "faces": 56,
+   "bbox": [
+    0.832,
+    0.865,
+    0.564
+   ]
+  },
+  "cable_bundle_spool": {
+   "faces": 170,
+   "bbox": [
+    0.4,
+    0.4,
+    0.3
+   ]
+  },
+  "pillar_plain_column": {
+   "faces": 358,
+   "bbox": [
+    0.68,
+    0.68,
+    2.7
+   ]
+  },
+  "pillar_ribbed_support": {
+   "faces": 894,
+   "bbox": [
+    0.64,
+    0.64,
+    2.7
+   ]
+  },
+  "pillar_hex_strut": {
+   "faces": 60,
+   "bbox": [
+    0.624,
+    0.72,
+    2.7
+   ]
+  },
+  "pillar_conduit_pillar": {
+   "faces": 380,
+   "bbox": [
+    0.7,
+    0.689,
+    2.7
+   ]
+  },
+  "pilaster_rib_panel": {
+   "faces": 1084,
+   "bbox": [
+    0.44,
+    0.181,
+    2.7
+   ]
+  },
+  "pilaster_strut_light": {
+   "faces": 202,
+   "bbox": [
+    0.3,
+    0.171,
+    2.7
+   ]
+  },
+  "pilaster_bulkhead_post": {
+   "faces": 324,
+   "bbox": [
+    0.5,
+    0.221,
+    2.7
+   ]
+  },
+  "door_surround_airlock_frame": {
+   "faces": 348,
+   "bbox": [
+    1.42,
+    0.151,
+    2.3
+   ]
+  },
+  "door_surround_slim_trim": {
+   "faces": 312,
+   "bbox": [
+    1.22,
+    0.091,
+    2.16
+   ]
+  },
+  "door_surround_bulkhead_arch": {
+   "faces": 314,
+   "bbox": [
+    1.5,
+    0.171,
+    2.1
+   ]
+  },
+  "window_surround_porthole_ring": {
+   "faces": 720,
+   "bbox": [
+    1.27,
+    0.114,
+    1.28
+   ]
+  },
+  "window_surround_slit_frame": {
+   "faces": 404,
+   "bbox": [
+    1.75,
+    0.111,
+    1.5
+   ]
+  },
+  "window_surround_panoramic_trim": {
+   "faces": 698,
+   "bbox": [
+    1.83,
+    0.131,
+    1.46
+   ]
+  },
+  "ceiling_detail_rib_vault": {
+   "faces": 1084,
+   "bbox": [
+    3.07,
+    3.0,
+    0.2
+   ]
+  },
+  "ceiling_detail_cable_tray": {
+   "faces": 903,
+   "bbox": [
+    0.4,
+    3.0,
+    0.14
+   ]
+  },
+  "ceiling_detail_light_grid": {
+   "faces": 936,
+   "bbox": [
+    2.8,
+    2.8,
+    0.055
+   ]
+  },
+  "ceiling_detail_duct_run": {
+   "faces": 748,
+   "bbox": [
+    0.48,
+    3.0,
+    0.48
+   ]
+  },
+  "floor_decal_hazard_stripes": {
+   "faces": 72,
+   "bbox": [
+    2.614,
+    2.367,
+    0.012
+   ]
+  },
+  "floor_decal_path_arrows": {
+   "faces": 54,
+   "bbox": [
+    1.915,
+    0.233,
+    0.044
+   ]
+  },
+  "floor_decal_deck_ring": {
+   "faces": 456,
+   "bbox": [
+    1.86,
+    1.86,
+    0.057
+   ]
+  }
+ },
+ "failed": {},
+ "placeholder": []
+}

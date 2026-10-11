@@ -1,0 +1,107 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width,initial-scale=1">
+<title>LevelDez</title>
+<link rel="icon" href="data:,">
+<style>
+:root{--bg:#0f1218;--panel:#161a22;--panel2:#1c212b;--line:#2a313f;--text:#e6e9ef;--dim:#8a93a6;--accent:#ffb454;--yes:#4cc38a;--no:#e5675d;--blue:#5aa7ff}
+*{box-sizing:border-box}
+html,body{margin:0;height:100%;background:var(--bg);color:var(--text);font:13px/1.4 system-ui,Segoe UI,Roboto,sans-serif;overflow:hidden}
+#app{display:grid;grid-template-rows:46px 1fr;height:100%}
+header{display:flex;align-items:center;gap:8px;padding:0 12px;background:var(--panel);border-bottom:1px solid var(--line)}
+header h1{font-size:15px;margin:0 10px 0 0;letter-spacing:.5px}
+header h1 b{color:var(--accent)}
+.sp{flex:1}
+main{display:grid;grid-template-columns:230px 1fr 360px;min-height:0}
+aside{background:var(--panel);overflow:auto;min-height:0}
+#left{border-right:1px solid var(--line)} #right{border-left:1px solid var(--line);display:flex;flex-direction:column}
+#view{position:relative;min-width:0;min-height:0}
+canvas{display:block;width:100%;height:100%}
+button,select,input,textarea{font:inherit;color:var(--text);background:var(--panel2);border:1px solid var(--line);border-radius:6px;padding:5px 9px}
+button{cursor:pointer} button:hover{border-color:var(--accent)} button.on{background:var(--accent);color:#1a1205;border-color:var(--accent)}
+button.pri{background:var(--accent);color:#1a1205;border-color:var(--accent);font-weight:600}
+button:disabled{opacity:.45;cursor:default}
+input,select,textarea{width:100%} input[type=checkbox]{width:auto}
+input[type=color]{padding:0;height:26px;width:44px}
+h3{margin:0;padding:10px 12px 6px;font-size:11px;text-transform:uppercase;letter-spacing:.8px;color:var(--dim)}
+.sec{padding:0 12px 12px}
+.row{display:flex;gap:6px;align-items:center;margin:4px 0}.row>label{width:70px;color:var(--dim);flex:none}
+.grid{display:grid;grid-template-columns:1fr 1fr;gap:5px}
+.grid button{text-align:left;padding:5px 8px;font-size:12px}
+.room{display:flex;gap:6px;align-items:center;padding:6px 10px;margin:3px 0;border:1px solid var(--line);border-radius:6px;cursor:pointer}
+.room.sel{border-color:var(--accent);background:#2a2216}
+.chip{margin-left:auto;font-size:11px;padding:1px 7px;border-radius:9px;background:#233;color:var(--yes)}
+.tabs{display:flex;border-bottom:1px solid var(--line);flex:none}
+.tabs button{flex:1;border:0;border-radius:0;background:transparent;padding:9px 4px;color:var(--dim)}
+.tabs button.on{color:var(--text);background:var(--panel2);box-shadow:inset 0 -2px var(--accent)}
+.pane{display:none;overflow:auto;flex:1;min-height:0}.pane.on{display:block}
+details.cat>summary{cursor:pointer;margin:8px 0 3px;font-size:11px;text-transform:uppercase;color:var(--dim)}
+details.cat>summary small{opacity:.7}
+.log{font-size:12px;padding:0 12px 12px}
+.log div{padding:3px 0;border-bottom:1px solid #1f2430;display:flex;gap:6px;align-items:flex-start}
+.tag{flex:none;font-size:10px;padding:1px 6px;border-radius:8px;background:#2a313f;color:var(--dim);margin-top:2px}
+.tag.yes,.tag.press{background:#17352a;color:var(--yes)}.tag.no{background:#3a1f1d;color:var(--no)}.tag.critic{background:#1d2a3d;color:var(--blue)}.tag.done{background:#3a2d12;color:var(--accent)}
+.bar{display:inline-block;height:6px;border-radius:3px;background:var(--dim);vertical-align:middle;margin-left:4px}
+textarea.code{height:calc(100vh - 220px);font:11px/1.35 Consolas,monospace;white-space:pre;resize:none}
+.btn-act{position:relative}
+.btn-act.hit{outline:2px solid var(--yes);animation:pulse 1.2s ease-out}
+@keyframes pulse{from{box-shadow:0 0 0 0 #4cc38a99}to{box-shadow:0 0 0 12px #4cc38a00}}
+#hud{position:absolute;left:10px;bottom:10px;background:#0b0d12cc;border:1px solid var(--line);padding:6px 10px;border-radius:8px;font-size:12px;pointer-events:none}
+#toast{position:absolute;left:50%;top:12px;transform:translateX(-50%);background:#000c;border:1px solid var(--line);padding:6px 14px;border-radius:8px;opacity:0;transition:opacity .25s;pointer-events:none}
+#toast.show{opacity:1}
+.dim{color:var(--dim)} .pill{padding:1px 8px;border-radius:9px;font-size:11px;background:#233;color:var(--yes)} .pill.bad{background:#3a1f1d;color:var(--no)}
+small{color:var(--dim)}
+</style>
+<script type="importmap">
+{"imports":{"three":"https://cdn.jsdelivr.net/npm/three@0.160.0/build/three.module.js","three/addons/":"https://cdn.jsdelivr.net/npm/three@0.160.0/examples/jsm/"}}
+</script>
+</head>
+<body>
+<div id="app">
+<header>
+  <h1>Level<b>Dez</b></h1>
+  <input id="lvlName" style="width:170px" title="Level name">
+  <select id="styleSel" style="width:110px" title="Style palette"></select>
+  <select id="packSel" style="width:130px" title="Asset pack (Blender models)"></select>
+  <select id="layoutSize" style="width:84px" title="Floor-plan size"><option>small</option><option selected>medium</option><option>large</option></select><button id="bLayout" title="Replace the level with a generated floor plan: corridors + rooms of varying size">Generate layout</button>
+  <button id="bNew" title="Start a blank level (undo with Ctrl+Z)">New</button>
+  <button id="bUndo" title="Ctrl+Z">Undo</button><button id="bRedo" title="Ctrl+Y">Redo</button>
+  <span class="sp"></span>
+  <button id="bTop" title="Toggle top-down view (T)">Top</button>
+  <button id="bCeil" title="Show ceilings">Ceiling</button>
+  <button id="bFx" class="on" title="Cinematic rendering: ambient occlusion, bloom, grading, dust, soft shadows">Fx</button>
+  <button id="bCut" class="on" title="Hide walls facing the camera">Cutaway</button>
+  <button id="bJson">Export JSON</button>
+  <button id="bGlb" class="pri">Export GLB</button>
+  <button id="bImport">Import</button><input id="fileIn" type="file" accept=".json" hidden>
+</header>
+<main>
+  <aside id="left">
+    <h3>Rooms</h3><div class="sec"><div id="roomList"></div>
+      <div class="row"><select id="newRoomType"></select><button id="bAddRoom">+ Room</button></div></div>
+    <h3>Furniture <small>(click, then click floor)</small></h3><div class="sec"><input id="catSearch" placeholder="Search assets…" style="margin-bottom:6px"><div id="catalog"></div></div>
+  </aside>
+  <div id="view"><div id="hud"></div><div id="toast"></div></div>
+  <aside id="right">
+    <div class="tabs"><button data-tab="insp" class="on">Inspect</button><button data-tab="dec">Decision</button><button data-tab="json">JSON</button><button data-tab="blender">Blender</button></div>
+    <div class="pane on" id="p-insp"></div>
+    <div class="pane" id="p-dec">
+      <h3>Decision-1 <span id="decStat" class="pill">…</span></h3>
+      <div class="sec">
+        <div class="row"><input id="cmd" placeholder="Tell it what you want: &quot;make the bedroom cosier&quot;"><button id="bRoute" class="pri">Go</button></div>
+        <div class="row"><button id="bAuto" class="pri" style="flex:1" title="Decision asks yes/no questions about each room and presses the buttons it approves">Autopilot</button><button id="bCrit" style="flex:1">Critic</button><label style="width:auto;display:flex;gap:4px;align-items:center"><input type="checkbox" id="scopeAll">all rooms</label></div>
+        <div class="row"><input id="ask" placeholder="Ask a yes/no question about this room…"><button id="bAsk">Ask</button></div>
+      </div>
+      <h3>Buttons <small>(Decision presses these - you can too)</small></h3><div class="sec" id="actions"></div>
+      <h3>Log <button id="bClearLog" style="padding:0 6px;font-size:10px">clear</button></h3><div class="log" id="log"></div>
+    </div>
+    <div class="pane" id="p-json"><div class="sec"><div class="row"><button id="bApplyJson" class="pri">Apply</button><button id="bCopyJson">Copy</button></div><textarea id="jsonBox" class="code" spellcheck="false"></textarea></div></div>
+    <div class="pane" id="p-blender"></div>
+  </aside>
+</main>
+</div>
+<script type="module" src="app.js"></script>
+</body>
+</html>

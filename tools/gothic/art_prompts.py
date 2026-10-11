@@ -1,0 +1,66 @@
+# Wall-art prompts for the necromancer academy. Image model: gemini-nano-banana-2.1 (Google Interactions API). Pure data.
+# kind: portrait (3:4) | landscape (4:3) | wide (16:9) | square (1:1) | tapestry (9:16) | window (9:16)
+MODEL = "gemini-nano-banana-2.1"
+
+STYLE = {
+    "painting": "Dark gothic Old Master oil painting, deep chiaroscuro, candlelight, muted crimson, bone white and black palette, visible craquelure, museum quality. No text, no frame, no border.",
+    "tapestry": "Medieval woven tapestry, flat heraldic composition, threadbare wool texture, deep crimson, black and tarnished gold, ornate border pattern. No readable text.",
+    "window": "Gothic stained glass window design, bold black lead lines, jewel tones of crimson, violet and deep blue with amber highlights, pointed arch composition. No text.",
+    "diagram": "Antique occult manuscript illustration on aged parchment, ink and faded watercolor, intricate linework, alchemical symbols. No readable text.",
+}
+
+ART = [
+    ("archlich_headmaster", "portrait", "painting", "Full portrait of the ancient archlich headmaster of a necromancer academy, skeletal face under a tall crown of bone, heavy crimson and black robes with gold embroidery, glowing teal eyes, holding a staff topped with a skull."),
+    ("professor_skull", "portrait", "painting", "Portrait of a stern necromancy professor in black academic robes with a crimson hood, pale gaunt face, holding a human skull like a lecture prop, bookshelves and candles behind."),
+    ("raven_student", "portrait", "painting", "Portrait of a young pale student necromancer with black hair, black academy robe with silver skull crest, a raven perched on one shoulder, dim library background."),
+    ("skeletal_bishop", "portrait", "painting", "Portrait of a skeletal bishop in tattered purple and gold vestments and mitre, bony hands clasped on a grimoire, cathedral shadows."),
+    ("bone_king", "portrait", "painting", "Portrait of an undead king seated on a throne of bones, tarnished iron crown, ragged ermine cloak, hollow glowing eyes, torchlit hall."),
+    ("hooded_scholar", "portrait", "painting", "Portrait of a faceless hooded scholar in a dark robe reading a glowing rune scroll, face lost in shadow except two teal pinpoints of light."),
+    ("witch_alchemist", "portrait", "painting", "Portrait of a witch alchemist with wild silver hair holding a glowing green potion flask, cluttered laboratory, stained leather apron, intense gaze."),
+    ("plague_surgeon", "portrait", "painting", "Portrait of a plague doctor surgeon in a long leather beaked mask and black coat holding surgical tools, candle-lit anatomical theatre."),
+    ("vampire_countess", "portrait", "painting", "Portrait of a pale vampire countess in a black velvet gown with high collar, ruby necklace, faint fangs, crimson drapery, ornate gothic chair."),
+    ("mourning_lady", "portrait", "painting", "Portrait of a ghostly lady in a black Victorian mourning veil, translucent and cold, holding wilted black roses, misty graveyard behind her."),
+    ("gravekeeper", "portrait", "painting", "Portrait of a grim old gravekeeper with a lantern and shovel, weathered face, long coat, cemetery gates and fog."),
+    ("undead_knight", "portrait", "painting", "Portrait of an undead knight in rusted black plate armour, helmet under arm revealing a skull, tattered crimson tabard, stormy sky."),
+    ("sorceress_noir", "portrait", "painting", "Portrait of a dark sorceress with violet glowing hands raised, jet black hair, high-collared robe embroidered with silver runes, swirling purple mist."),
+    ("child_lantern", "portrait", "painting", "Eerie portrait of a pale child in an old-fashioned black coat holding a glowing lantern with a raven at their feet, dark nursery wallpaper, unsettling calm."),
+    ("ruined_cathedral", "landscape", "painting", "Moonlit ruined gothic cathedral with broken arches and a roofless nave, ivy, fog, silhouetted crows, cold blue light."),
+    ("graveyard_fog", "landscape", "painting", "Misty cemetery at dusk with crooked tombstones, iron fence, a lone cloaked figure with a lantern, dead trees."),
+    ("necropolis_cliff", "landscape", "painting", "Vast necropolis city of black spires and mausoleums carved into a sea cliff under a blood-red sunset."),
+    ("danse_macabre", "landscape", "painting", "Danse macabre procession: skeletons dancing hand in hand with kings, bishops and peasants across a moonlit graveyard, medieval painting style."),
+    ("skeleton_army", "landscape", "painting", "Army of skeleton soldiers with ragged banners marching across a dark battlefield beneath storm clouds and a green moon."),
+    ("bone_forest", "landscape", "painting", "Eerie forest where the trees are made of bone and ribcages, pale mist, faint teal wisps floating between the trunks."),
+    ("haunted_manor", "landscape", "painting", "Gothic manor on a hill during a violent thunderstorm, one lit window, bats circling the towers, lightning."),
+    ("catacomb_corridor", "landscape", "painting", "Long catacomb corridor lined with skull-filled niches, flickering torches, perspective vanishing into darkness."),
+    ("soul_lake", "landscape", "painting", "Black still lake at night with hundreds of floating teal soul lights rising from the water, a ruined bridge, mist."),
+    ("lightning_castle", "landscape", "painting", "Towering mountain castle struck by lightning at midnight, black spires, a winding road, swirling storm clouds."),
+    ("funeral_ship", "landscape", "painting", "Funeral ship with black sails drifting on a dark sea, glowing coffin on deck, raven-covered rigging, pale dawn."),
+    ("crow_field", "landscape", "painting", "Twilight wheat field under a sky thick with crows, scarecrow with a skull head, orange and violet horizon."),
+    ("academy_panorama", "wide", "painting", "Panoramic view of a necromancer academy campus: black gothic towers, bridges, glowing green windows, bats and ravens over a stormy sky, students in robes crossing a courtyard."),
+    ("great_hall_feast", "wide", "painting", "Great hall banquet of necromancer scholars at long tables with candelabras, floating skulls and spectral servants, soaring gothic arches."),
+    ("skull_candles_still", "square", "painting", "Vanitas still life: human skull, melting candles, wilted roses and an hourglass on a dark table, dramatic single light."),
+    ("alchemist_table", "square", "painting", "Alchemist workbench still life with bubbling retorts, glowing green potions, herb bundles, an open grimoire and a raven skull."),
+    ("glowing_grimoire", "square", "painting", "Close view of an open ancient grimoire with glowing violet runes lifting off the pages, candle glow, dust motes."),
+    ("hourglass_vanitas", "square", "painting", "Vanitas still life of a bone-framed hourglass, a crown, a skull and scattered coins, memento mori, dark background."),
+    ("ritual_circle_top", "square", "diagram", "Top-down view of a necromantic summoning circle with concentric rune rings, pentagram, candles at the cardinal points, drawn as an old manuscript plate."),
+    ("star_chart", "square", "diagram", "Astrological star chart of a dark zodiac with moon phases, constellations drawn as skeletal creatures, gold ink on dark blue parchment."),
+    ("anatomy_study", "square", "diagram", "Anatomical study of a human skeleton with annotated necromantic channels glowing faintly, da Vinci style sketch on parchment."),
+    ("ouroboros_sigil", "square", "diagram", "Ornate ouroboros serpent eating its tail around a skull sigil, alchemical symbols in the corners, gold on black."),
+    ("moon_phases", "square", "diagram", "Chart of the thirteen moon phases each with a different occult rune beneath, ink on aged parchment."),
+    ("tree_of_death", "square", "diagram", "Occult tree-of-death diagram with branching bone limbs labelled by glyphs, skulls as fruit, roots forming a rune circle."),
+    ("tapestry_reaper", "tapestry", "tapestry", "Tapestry of the Grim Reaper triumphant, scythe raised, kneeling kings below, border of skulls and roses."),
+    ("tapestry_skeleton_ranks", "tapestry", "tapestry", "Tapestry of ranks of skeleton soldiers beneath a black banner with a crimson skull crest."),
+    ("tapestry_raven_heraldry", "tapestry", "tapestry", "Heraldic tapestry of a black raven over a crossed bone and sword coat of arms on a crimson field."),
+    ("tapestry_dragon_skull", "tapestry", "tapestry", "Tapestry emblem of a giant dragon skull with spread bone wings, gold thread on black."),
+    ("tapestry_ritual", "tapestry", "tapestry", "Tapestry depicting a robed ritual around a glowing coffin, candles, moon above, stylised medieval figures."),
+    ("tapestry_bone_tree", "tapestry", "tapestry", "Tapestry of a great tree of bones with ravens in its branches and tiny skeletons climbing, decorative border."),
+    ("tapestry_council", "tapestry", "tapestry", "Tapestry of seven hooded figures sitting at a round table with a single burning skull candle in the centre."),
+    ("tapestry_funeral", "tapestry", "tapestry", "Tapestry of a long funeral procession of mourners carrying a coffin under a crescent moon."),
+    ("glass_skeleton_angel", "window", "window", "Stained glass of a skeletal angel with ragged wings holding a lantern, crimson and violet."),
+    ("glass_skull_rose", "window", "window", "Stained glass rose window pattern built around a central skull with radiating petals, deep blues and reds."),
+    ("glass_raven_sunset", "window", "window", "Stained glass of a black raven against a blood-orange sunset and a crescent moon."),
+    ("glass_hooded_lantern", "window", "window", "Stained glass of a hooded figure carrying a green lantern through a graveyard, jewel tones."),
+]
+
+ASPECTS = {"portrait": "3:4", "landscape": "4:3", "wide": "16:9", "square": "1:1", "tapestry": "9:16", "window": "9:16"}
+SIZES = {"portrait": (0.72, 0.96), "landscape": (1.12, 0.84), "wide": (1.7, 0.96), "square": (0.82, 0.82), "tapestry": (0.9, 1.6), "window": (0.7, 1.25)}

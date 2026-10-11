@@ -1,0 +1,345 @@
+{
+ "wall_moss_stone": {
+  "file": "wall_moss_stone.jpg",
+  "kind": "wall",
+  "tile": 2.0,
+  "neutral": false,
+  "desc": "dark grey gothic castle stone blocks in running bond with green moss in the mortar"
+ },
+ "wall_stone_rough": {
+  "file": "wall_stone_rough.jpg",
+  "kind": "wall",
+  "tile": 2.0,
+  "neutral": false,
+  "desc": "rough hewn dark limestone blocks, chipped and weathered, damp stains"
+ },
+ "wall_stone_pale": {
+  "file": "wall_stone_pale.jpg",
+  "kind": "wall",
+  "tile": 2.0,
+  "neutral": false,
+  "desc": "pale grey cathedral ashlar stone blocks with fine mortar lines, subtle soot"
+ },
+ "wall_brick_dark": {
+  "file": "wall_brick_dark.jpg",
+  "kind": "wall",
+  "tile": 2.0,
+  "neutral": false,
+  "desc": "blackened old dungeon bricks in running bond, soot, crumbling mortar"
+ },
+ "wall_brick_warm": {
+  "file": "wall_brick_warm.jpg",
+  "kind": "wall",
+  "tile": 2.0,
+  "neutral": false,
+  "desc": "warm rust-red rough bricks in running bond, worn mortar, kitchen soot"
+ },
+ "wall_obsidian_blocks": {
+  "file": "wall_obsidian_blocks.jpg",
+  "kind": "wall",
+  "tile": 2.0,
+  "neutral": false,
+  "desc": "polished black obsidian stone blocks with thin violet glowing seams"
+ },
+ "wall_plaster_bone": {
+  "file": "wall_plaster_bone.jpg",
+  "kind": "wall",
+  "tile": 2.0,
+  "neutral": false,
+  "desc": "stained bone-white plaster with cracks, damp patches and peeling paint"
+ },
+ "wall_damask_crimson": {
+  "file": "wall_damask_crimson.jpg",
+  "kind": "wall",
+  "tile": 2.0,
+  "neutral": false,
+  "desc": "crimson and black victorian damask wallpaper with ornate gold fleur motifs, slightly aged"
+ },
+ "wall_damask_green": {
+  "file": "wall_damask_green.jpg",
+  "kind": "wall",
+  "tile": 2.0,
+  "neutral": false,
+  "desc": "deep emerald green damask wallpaper with antique gold ornamental pattern, aged paper"
+ },
+ "wall_damask_purple": {
+  "file": "wall_damask_purple.jpg",
+  "kind": "wall",
+  "tile": 2.0,
+  "neutral": false,
+  "desc": "deep violet damask wallpaper with silver ornamental pattern, aged paper"
+ },
+ "wall_damask_noir": {
+  "file": "wall_damask_noir.jpg",
+  "kind": "wall",
+  "tile": 2.0,
+  "neutral": false,
+  "desc": "black damask wallpaper with subtle silver-grey baroque pattern, aged"
+ },
+ "wall_stripes_burgundy": {
+  "file": "wall_stripes_burgundy.jpg",
+  "kind": "wall",
+  "tile": 2.0,
+  "neutral": false,
+  "desc": "burgundy and dark maroon vertical striped wallpaper with thin gold pinstripes, aged"
+ },
+ "wall_panels_oak": {
+  "file": "wall_panels_oak.jpg",
+  "kind": "wall",
+  "tile": 2.0,
+  "neutral": false,
+  "desc": "dark oak wood wall panelling with raised rectangular panels, polished with age"
+ },
+ "wall_tiles_teal": {
+  "file": "wall_tiles_teal.jpg",
+  "kind": "wall",
+  "tile": 2.0,
+  "neutral": false,
+  "desc": "dark teal glazed ceramic wall tiles with dark grout, some cracked and stained"
+ },
+ "wall_tiles_white": {
+  "file": "wall_tiles_white.jpg",
+  "kind": "wall",
+  "tile": 2.0,
+  "neutral": false,
+  "desc": "old white and black glazed bathroom wall tiles with grey grout, cracked and stained"
+ },
+ "floor_cobble_dark": {
+  "file": "floor_cobble_dark.jpg",
+  "kind": "floor",
+  "tile": 2.0,
+  "neutral": false,
+  "desc": "dark grey rounded dungeon cobblestones with damp moss between them"
+ },
+ "floor_flagstone_dark": {
+  "file": "floor_flagstone_dark.jpg",
+  "kind": "floor",
+  "tile": 2.0,
+  "neutral": false,
+  "desc": "large dark grey irregular flagstones with narrow grout, worn smooth"
+ },
+ "floor_flagstone_warm": {
+  "file": "floor_flagstone_warm.jpg",
+  "kind": "floor",
+  "tile": 2.0,
+  "neutral": false,
+  "desc": "warm brown-grey flagstone paving, worn, dusty"
+ },
+ "floor_checker_marble": {
+  "file": "floor_checker_marble.jpg",
+  "kind": "floor",
+  "tile": 2.0,
+  "neutral": false,
+  "desc": "black and white marble checkerboard floor tiles, polished, veined, slightly scuffed"
+ },
+ "floor_checker_dark": {
+  "file": "floor_checker_dark.jpg",
+  "kind": "floor",
+  "tile": 2.0,
+  "neutral": false,
+  "desc": "dark burgundy and black checkerboard floor tiles, glossy, worn"
+ },
+ "floor_plank_dark": {
+  "file": "floor_plank_dark.jpg",
+  "kind": "floor",
+  "tile": 2.0,
+  "neutral": false,
+  "desc": "dark ebony wide wooden floorboards with visible grain and nails, aged"
+ },
+ "floor_herringbone_oak": {
+  "file": "floor_herringbone_oak.jpg",
+  "kind": "floor",
+  "tile": 2.0,
+  "neutral": false,
+  "desc": "dark oak herringbone parquet wooden floor, polished with age"
+ },
+ "floor_herringbone_dark": {
+  "file": "floor_herringbone_dark.jpg",
+  "kind": "floor",
+  "tile": 2.0,
+  "neutral": false,
+  "desc": "very dark ebony herringbone parquet floor, subtle shine"
+ },
+ "floor_diamond_teal": {
+  "file": "floor_diamond_teal.jpg",
+  "kind": "floor",
+  "tile": 2.0,
+  "neutral": false,
+  "desc": "dark teal and charcoal diamond-pattern ceramic floor tiles, cracked, grimy"
+ },
+ "floor_diamond_bw": {
+  "file": "floor_diamond_bw.jpg",
+  "kind": "floor",
+  "tile": 2.0,
+  "neutral": false,
+  "desc": "black and white diamond-pattern ceramic floor tiles, old, scuffed"
+ },
+ "floor_marble_black": {
+  "file": "floor_marble_black.jpg",
+  "kind": "floor",
+  "tile": 2.0,
+  "neutral": false,
+  "desc": "black marble with violet and silver veins, high polish"
+ },
+ "floor_carpet_crimson": {
+  "file": "floor_carpet_crimson.jpg",
+  "kind": "floor",
+  "tile": 2.0,
+  "neutral": false,
+  "desc": "worn crimson victorian carpet with an ornate gold and black pattern"
+ },
+ "wain_oak_dark": {
+  "file": "wain_oak_dark.jpg",
+  "kind": "wain",
+  "tile": 1.0,
+  "neutral": false,
+  "desc": "dark oak wainscot panelling with raised rectangular panels"
+ },
+ "wain_stone": {
+  "file": "wain_stone.jpg",
+  "kind": "wain",
+  "tile": 1.0,
+  "neutral": false,
+  "desc": "dark carved stone plinth blocks"
+ },
+ "wain_planks": {
+  "file": "wain_planks.jpg",
+  "kind": "wain",
+  "tile": 1.0,
+  "neutral": false,
+  "desc": "vertical dark wooden planks, tongue and groove, aged"
+ },
+ "n_wall_plaster": {
+  "file": "n_wall_plaster.jpg",
+  "kind": "wall",
+  "tile": 2.0,
+  "neutral": true,
+  "desc": "desaturated light grey plastered wall with subtle trowel marks and faint stains, almost no colour"
+ },
+ "n_wall_brick": {
+  "file": "n_wall_brick.jpg",
+  "kind": "wall",
+  "tile": 2.0,
+  "neutral": true,
+  "desc": "desaturated mid grey brick wall in running bond, almost no colour"
+ },
+ "n_wall_stripes": {
+  "file": "n_wall_stripes.jpg",
+  "kind": "wall",
+  "tile": 2.0,
+  "neutral": true,
+  "desc": "wall surface painted in wide vertical bands of two very close light grey tones, soft hand-painted look, almost no colour"
+ },
+ "n_wall_damask": {
+  "file": "n_wall_damask.jpg",
+  "kind": "wall",
+  "tile": 2.0,
+  "neutral": true,
+  "desc": "desaturated light grey damask wallpaper with tone-on-tone pattern, almost no colour"
+ },
+ "n_wall_panels": {
+  "file": "n_wall_panels.jpg",
+  "kind": "wall",
+  "tile": 2.0,
+  "neutral": true,
+  "desc": "desaturated mid grey wood wall panelling with raised panels, almost no colour"
+ },
+ "n_wall_tiles": {
+  "file": "n_wall_tiles.jpg",
+  "kind": "wall",
+  "tile": 2.0,
+  "neutral": true,
+  "desc": "old plain grey bathroom wall surface made of small square matte tiles in slightly varied pale grey shades, thin dark grout, almost no colour"
+ },
+ "n_floor_plank": {
+  "file": "n_floor_plank.jpg",
+  "kind": "floor",
+  "tile": 2.0,
+  "neutral": true,
+  "desc": "desaturated mid grey wooden floorboards with grain, almost no colour"
+ },
+ "n_floor_herringbone": {
+  "file": "n_floor_herringbone.jpg",
+  "kind": "floor",
+  "tile": 2.0,
+  "neutral": true,
+  "desc": "desaturated mid grey herringbone parquet floor, almost no colour"
+ },
+ "n_floor_flagstone": {
+  "file": "n_floor_flagstone.jpg",
+  "kind": "floor",
+  "tile": 2.0,
+  "neutral": true,
+  "desc": "desaturated mid grey flagstone paving, almost no colour"
+ },
+ "n_floor_checker": {
+  "file": "n_floor_checker.jpg",
+  "kind": "floor",
+  "tile": 2.0,
+  "neutral": true,
+  "desc": "desaturated light and dark grey checkerboard floor tiles, almost no colour"
+ },
+ "n_floor_diamond": {
+  "file": "n_floor_diamond.jpg",
+  "kind": "floor",
+  "tile": 2.0,
+  "neutral": true,
+  "desc": "desaturated grey diamond-pattern floor tiles, almost no colour"
+ },
+ "detail_wood": {
+  "file": "detail_wood.jpg",
+  "kind": "detail",
+  "tile": 0.5,
+  "neutral": false,
+  "desc": "macro close-up of dark wooden plank grain with fine scratches and pores, strictly grayscale, no colour, mid-grey average tone"
+ },
+ "detail_stone": {
+  "file": "detail_stone.jpg",
+  "kind": "detail",
+  "tile": 0.5,
+  "neutral": false,
+  "desc": "macro close-up of rough chiselled stone surface with pits and chips, strictly grayscale, no colour, mid-grey average tone"
+ },
+ "detail_metal": {
+  "file": "detail_metal.jpg",
+  "kind": "detail",
+  "tile": 0.5,
+  "neutral": false,
+  "desc": "macro close-up of scratched hammered wrought iron metal with pits and wear, strictly grayscale, no colour, mid-grey average tone"
+ },
+ "detail_fabric": {
+  "file": "detail_fabric.jpg",
+  "kind": "detail",
+  "tile": 0.5,
+  "neutral": false,
+  "desc": "macro close-up of woven velvet cloth fabric weave texture, strictly grayscale, no colour, mid-grey average tone"
+ },
+ "detail_leather": {
+  "file": "detail_leather.jpg",
+  "kind": "detail",
+  "tile": 0.5,
+  "neutral": false,
+  "desc": "macro close-up of worn leather grain with creases, strictly grayscale, no colour, mid-grey average tone"
+ },
+ "detail_bone": {
+  "file": "detail_bone.jpg",
+  "kind": "detail",
+  "tile": 0.5,
+  "neutral": false,
+  "desc": "macro close-up of aged ivory bone surface with fine cracks and pores, strictly grayscale, no colour, mid-grey average tone"
+ },
+ "detail_paper": {
+  "file": "detail_paper.jpg",
+  "kind": "detail",
+  "tile": 0.5,
+  "neutral": false,
+  "desc": "macro close-up of old parchment paper with fibres, stains and wrinkles, strictly grayscale, no colour, mid-grey average tone"
+ },
+ "detail_grime": {
+  "file": "detail_grime.jpg",
+  "kind": "detail",
+  "tile": 1.5,
+  "neutral": false,
+  "desc": "large soft cloudy grime and soot stain mask, blotchy dirt patches, strictly grayscale, no colour, mid-grey average tone"
+ }
+}

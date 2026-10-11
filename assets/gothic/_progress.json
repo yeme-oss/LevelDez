@@ -1,0 +1,4614 @@
+{
+ "done": {
+  "column_plain": {
+   "faces": 474,
+   "bbox": [
+    0.6,
+    0.6,
+    2.7
+   ]
+  },
+  "column_fluted": {
+   "faces": 490,
+   "bbox": [
+    0.6,
+    0.6,
+    2.7
+   ]
+  },
+  "column_clustered": {
+   "faces": 478,
+   "bbox": [
+    0.6,
+    0.6,
+    2.7
+   ]
+  },
+  "column_twisted": {
+   "faces": 3920,
+   "bbox": [
+    0.6,
+    0.6,
+    2.7
+   ]
+  },
+  "column_bone": {
+   "faces": 3562,
+   "bbox": [
+    0.724,
+    0.724,
+    2.7
+   ]
+  },
+  "column_skull": {
+   "faces": 4986,
+   "bbox": [
+    0.707,
+    0.707,
+    2.7
+   ]
+  },
+  "column_banded": {
+   "faces": 1050,
+   "bbox": [
+    0.6,
+    0.6,
+    2.7
+   ]
+  },
+  "column_chained": {
+   "faces": 6116,
+   "bbox": [
+    0.6,
+    0.6,
+    2.7
+   ]
+  },
+  "column_broken": {
+   "faces": 768,
+   "bbox": [
+    0.991,
+    1.008,
+    1.586
+   ]
+  },
+  "column_rune": {
+   "faces": 546,
+   "bbox": [
+    0.6,
+    0.6,
+    2.7
+   ]
+  },
+  "pilaster_plain": {
+   "faces": 392,
+   "bbox": [
+    0.46,
+    0.16,
+    2.7
+   ]
+  },
+  "pilaster_fluted": {
+   "faces": 424,
+   "bbox": [
+    0.46,
+    0.163,
+    2.7
+   ]
+  },
+  "pilaster_rune": {
+   "faces": 410,
+   "bbox": [
+    0.46,
+    0.16,
+    2.7
+   ]
+  },
+  "pilaster_skull": {
+   "faces": 1520,
+   "bbox": [
+    0.46,
+    0.208,
+    2.7
+   ]
+  },
+  "pilaster_ribbed": {
+   "faces": 686,
+   "bbox": [
+    0.46,
+    0.19,
+    2.7
+   ]
+  },
+  "pilaster_banded": {
+   "faces": 686,
+   "bbox": [
+    0.46,
+    0.17,
+    2.7
+   ]
+  },
+  "pilaster_bone": {
+   "faces": 980,
+   "bbox": [
+    0.46,
+    0.216,
+    2.7
+   ]
+  },
+  "pilaster_shrine": {
+   "faces": 669,
+   "bbox": [
+    0.46,
+    0.25,
+    2.7
+   ]
+  },
+  "wall_arch_pointed": {
+   "faces": 1802,
+   "bbox": [
+    1.34,
+    0.13,
+    2.129
+   ]
+  },
+  "wall_arch_trefoil": {
+   "faces": 958,
+   "bbox": [
+    1.2,
+    0.14,
+    2.03
+   ]
+  },
+  "wall_arch_triple": {
+   "faces": 3240,
+   "bbox": [
+    1.2,
+    0.135,
+    2.03
+   ]
+  },
+  "wall_arch_rose": {
+   "faces": 1388,
+   "bbox": [
+    1.2,
+    0.18,
+    2.03
+   ]
+  },
+  "wall_arch_arcade": {
+   "faces": 3270,
+   "bbox": [
+    1.349,
+    0.135,
+    2.03
+   ]
+  },
+  "wall_arch_niche_candle": {
+   "faces": 1393,
+   "bbox": [
+    1.2,
+    0.23,
+    2.03
+   ]
+  },
+  "window_deco_lancet": {
+   "faces": 1812,
+   "bbox": [
+    1.78,
+    0.21,
+    2.169
+   ]
+  },
+  "window_deco_double_lancet": {
+   "faces": 2004,
+   "bbox": [
+    1.78,
+    0.21,
+    2.169
+   ]
+  },
+  "window_deco_triple_lancet": {
+   "faces": 1910,
+   "bbox": [
+    1.78,
+    0.21,
+    2.169
+   ]
+  },
+  "window_deco_rose": {
+   "faces": 2690,
+   "bbox": [
+    1.78,
+    0.21,
+    2.169
+   ]
+  },
+  "window_deco_trefoil": {
+   "faces": 2388,
+   "bbox": [
+    1.78,
+    0.21,
+    2.169
+   ]
+  },
+  "window_deco_quatrefoil": {
+   "faces": 2580,
+   "bbox": [
+    1.78,
+    0.21,
+    2.169
+   ]
+  },
+  "window_deco_iron_grid": {
+   "faces": 2498,
+   "bbox": [
+    1.78,
+    0.21,
+    2.169
+   ]
+  },
+  "door_deco_pointed": {
+   "faces": 1616,
+   "bbox": [
+    1.38,
+    0.2,
+    2.648
+   ]
+  },
+  "door_deco_skull_keystone": {
+   "faces": 1992,
+   "bbox": [
+    1.38,
+    0.318,
+    2.715
+   ]
+  },
+  "door_deco_iron_banded": {
+   "faces": 2204,
+   "bbox": [
+    1.4,
+    0.22,
+    2.648
+   ]
+  },
+  "door_deco_gargoyle_top": {
+   "faces": 1894,
+   "bbox": [
+    1.38,
+    0.36,
+    3.03
+   ]
+  },
+  "door_deco_double_arch": {
+   "faces": 3232,
+   "bbox": [
+    2.187,
+    0.215,
+    3.032
+   ]
+  },
+  "door_deco_bone_arch": {
+   "faces": 2744,
+   "bbox": [
+    1.525,
+    0.299,
+    2.679
+   ]
+  },
+  "ceiling_vault_round_boss": {
+   "faces": 881,
+   "bbox": [
+    0.9,
+    0.9,
+    0.35
+   ]
+  },
+  "ceiling_vault_skull_boss": {
+   "faces": 437,
+   "bbox": [
+    0.8,
+    0.8,
+    0.324
+   ]
+  },
+  "ceiling_vault_star_boss": {
+   "faces": 798,
+   "bbox": [
+    1.09,
+    1.09,
+    0.2
+   ]
+  },
+  "ceiling_vault_rune_boss": {
+   "faces": 497,
+   "bbox": [
+    1.0,
+    1.0,
+    0.205
+   ]
+  },
+  "ceiling_vault_rosette": {
+   "faces": 680,
+   "bbox": [
+    1.0,
+    1.0,
+    0.24
+   ]
+  },
+  "ceiling_vault_rib_cross": {
+   "faces": 245,
+   "bbox": [
+    2.5,
+    2.5,
+    0.25
+   ]
+  },
+  "ceiling_vault_rib_double": {
+   "faces": 441,
+   "bbox": [
+    2.5,
+    2.5,
+    0.25
+   ]
+  },
+  "ceiling_vault_rib_star": {
+   "faces": 637,
+   "bbox": [
+    2.5,
+    2.5,
+    0.25
+   ]
+  },
+  "cobweb_fan_small": {
+   "faces": 150,
+   "bbox": [
+    1.088,
+    0.007,
+    0.928
+   ]
+  },
+  "cobweb_fan_large": {
+   "faces": 150,
+   "bbox": [
+    1.812,
+    0.007,
+    1.546
+   ]
+  },
+  "cobweb_draped": {
+   "faces": 168,
+   "bbox": [
+    1.59,
+    0.007,
+    1.426
+   ]
+  },
+  "cobweb_spider_web": {
+   "faces": 246,
+   "bbox": [
+    1.45,
+    0.06,
+    1.237
+   ]
+  },
+  "wall_gear_shield_round": {
+   "faces": 326,
+   "bbox": [
+    0.68,
+    0.105,
+    0.68
+   ]
+  },
+  "wall_gear_shield_heater": {
+   "faces": 134,
+   "bbox": [
+    0.5,
+    0.08,
+    0.645
+   ]
+  },
+  "wall_gear_shield_skull": {
+   "faces": 702,
+   "bbox": [
+    0.68,
+    0.186,
+    0.68
+   ]
+  },
+  "wall_gear_shield_spiked": {
+   "faces": 380,
+   "bbox": [
+    0.68,
+    0.145,
+    0.68
+   ]
+  },
+  "wall_gear_shield_rune": {
+   "faces": 518,
+   "bbox": [
+    0.68,
+    0.105,
+    0.68
+   ]
+  },
+  "wall_gear_swords_crossed": {
+   "faces": 718,
+   "bbox": [
+    1.297,
+    0.115,
+    1.305
+   ]
+  },
+  "wall_gear_axes_crossed": {
+   "faces": 216,
+   "bbox": [
+    1.444,
+    0.04,
+    1.462
+   ]
+  },
+  "wall_gear_halberd_rack": {
+   "faces": 469,
+   "bbox": [
+    1.0,
+    0.091,
+    1.819
+   ]
+  },
+  "wall_gear_staff_rack": {
+   "faces": 476,
+   "bbox": [
+    0.9,
+    0.13,
+    1.685
+   ]
+  },
+  "wall_gear_whip_rack": {
+   "faces": 1908,
+   "bbox": [
+    0.9,
+    0.135,
+    0.309
+   ]
+  },
+  "skull_mount_demon": {
+   "faces": 530,
+   "bbox": [
+    0.618,
+    0.248,
+    0.801
+   ]
+  },
+  "skull_mount_ram": {
+   "faces": 754,
+   "bbox": [
+    0.478,
+    0.266,
+    0.505
+   ]
+  },
+  "skull_mount_stag": {
+   "faces": 546,
+   "bbox": [
+    0.563,
+    0.199,
+    0.758
+   ]
+  },
+  "skull_mount_bull": {
+   "faces": 538,
+   "bbox": [
+    0.839,
+    0.224,
+    0.624
+   ]
+  },
+  "skull_mount_dragon": {
+   "faces": 484,
+   "bbox": [
+    0.533,
+    0.581,
+    0.858
+   ]
+  },
+  "skull_mount_raven": {
+   "faces": 505,
+   "bbox": [
+    0.478,
+    0.19,
+    0.497
+   ]
+  },
+  "wall_chain_chains_short": {
+   "faces": 2832,
+   "bbox": [
+    0.9,
+    0.1,
+    0.685
+   ]
+  },
+  "wall_chain_chains_long": {
+   "faces": 6732,
+   "bbox": [
+    0.9,
+    0.1,
+    1.485
+   ]
+  },
+  "wall_chain_manacles_pair": {
+   "faces": 1592,
+   "bbox": [
+    0.769,
+    0.172,
+    0.494
+   ]
+  },
+  "wall_chain_manacles_high": {
+   "faces": 2542,
+   "bbox": [
+    0.769,
+    0.172,
+    0.494
+   ]
+  },
+  "wall_chain_hooks_row": {
+   "faces": 514,
+   "bbox": [
+    0.9,
+    0.215,
+    0.23
+   ]
+  },
+  "wall_chain_iron_rings": {
+   "faces": 630,
+   "bbox": [
+    0.668,
+    0.094,
+    0.564
+   ]
+  },
+  "floor_feature_grate_round": {
+   "faces": 284,
+   "bbox": [
+    0.9,
+    0.9,
+    0.045
+   ]
+  },
+  "floor_feature_grate_square": {
+   "faces": 226,
+   "bbox": [
+    0.86,
+    0.86,
+    0.04
+   ]
+  },
+  "floor_feature_trapdoor": {
+   "faces": 896,
+   "bbox": [
+    0.9,
+    0.9,
+    0.072
+   ]
+  },
+  "floor_feature_bone_pit": {
+   "faces": 1372,
+   "bbox": [
+    1.18,
+    1.18,
+    0.14
+   ]
+  },
+  "floor_feature_sigil_plate": {
+   "faces": 62,
+   "bbox": [
+    0.866,
+    1.0,
+    0.042
+   ]
+  },
+  "raised_floor_dais_square": {
+   "faces": 294,
+   "bbox": [
+    2.0,
+    1.6,
+    0.42
+   ]
+  },
+  "raised_floor_dais_round": {
+   "faces": 90,
+   "bbox": [
+    2.2,
+    2.2,
+    0.42
+   ]
+  },
+  "raised_floor_stair_steps": {
+   "faces": 392,
+   "bbox": [
+    1.3,
+    1.4,
+    0.64
+   ]
+  },
+  "raised_floor_well": {
+   "faces": 188,
+   "bbox": [
+    1.3,
+    1.24,
+    1.9
+   ]
+  },
+  "raised_floor_stone_font": {
+   "faces": 192,
+   "bbox": [
+    0.84,
+    0.84,
+    0.85
+   ]
+  },
+  "buttress_stone": {
+   "faces": 368,
+   "bbox": [
+    0.8,
+    0.6,
+    2.895
+   ]
+  },
+  "buttress_skull": {
+   "faces": 744,
+   "bbox": [
+    0.8,
+    0.684,
+    2.895
+   ]
+  },
+  "bed_coffin_bed": {
+   "faces": 887,
+   "bbox": [
+    1.7,
+    2.2,
+    1.392
+   ]
+  },
+  "bed_bone_frame": {
+   "faces": 2612,
+   "bbox": [
+    1.75,
+    2.222,
+    1.521
+   ]
+  },
+  "bed_black_canopy": {
+   "faces": 1568,
+   "bbox": [
+    1.78,
+    2.2,
+    2.06
+   ]
+  },
+  "bed_stone_slab": {
+   "faces": 1340,
+   "bbox": [
+    1.74,
+    2.211,
+    0.61
+   ]
+  },
+  "bed_sleigh_gothic": {
+   "faces": 961,
+   "bbox": [
+    1.8,
+    2.2,
+    1.56
+   ]
+  },
+  "bed_double_arch": {
+   "faces": 1254,
+   "bbox": [
+    1.74,
+    2.17,
+    2.081
+   ]
+  },
+  "wardrobe_carved_skull": {
+   "faces": 2516,
+   "bbox": [
+    1.36,
+    0.772,
+    2.401
+   ]
+  },
+  "wardrobe_iron_bound": {
+   "faces": 1682,
+   "bbox": [
+    1.36,
+    0.665,
+    2.401
+   ]
+  },
+  "wardrobe_bone_inlay": {
+   "faces": 1412,
+   "bbox": [
+    1.36,
+    0.66,
+    2.401
+   ]
+  },
+  "wardrobe_plain_tall": {
+   "faces": 1388,
+   "bbox": [
+    1.36,
+    0.657,
+    2.401
+   ]
+  },
+  "wardrobe_mirror_door": {
+   "faces": 1400,
+   "bbox": [
+    1.36,
+    0.665,
+    2.401
+   ]
+  },
+  "bookshelf_skull_crown": {
+   "faces": 8419,
+   "bbox": [
+    1.0,
+    0.341,
+    2.283
+   ]
+  },
+  "bookshelf_bone_trim": {
+   "faces": 7471,
+   "bbox": [
+    1.066,
+    0.373,
+    2.12
+   ]
+  },
+  "bookshelf_chained": {
+   "faces": 11535,
+   "bbox": [
+    1.144,
+    0.364,
+    2.12
+   ]
+  },
+  "bookshelf_scroll_rack": {
+   "faces": 1583,
+   "bbox": [
+    1.0,
+    0.34,
+    2.18
+   ]
+  },
+  "bookshelf_locked_cage": {
+   "faces": 7533,
+   "bbox": [
+    1.0,
+    0.38,
+    2.12
+   ]
+  },
+  "bookshelf_candle_ledge": {
+   "faces": 7341,
+   "bbox": [
+    1.0,
+    0.45,
+    2.12
+   ]
+  },
+  "bookshelf_cobwebbed": {
+   "faces": 7393,
+   "bbox": [
+    1.0,
+    0.343,
+    2.12
+   ]
+  },
+  "bookshelf_rune_carved": {
+   "faces": 8091,
+   "bbox": [
+    1.0,
+    0.35,
+    2.12
+   ]
+  },
+  "table_banquet": {
+   "faces": 588,
+   "bbox": [
+    1.8,
+    0.95,
+    0.78
+   ]
+  },
+  "table_stone_slab": {
+   "faces": 294,
+   "bbox": [
+    1.8,
+    0.95,
+    0.74
+   ]
+  },
+  "table_bone_legs": {
+   "faces": 522,
+   "bbox": [
+    1.8,
+    0.95,
+    0.976
+   ]
+  },
+  "table_round_pedestal": {
+   "faces": 356,
+   "bbox": [
+    1.14,
+    1.14,
+    0.78
+   ]
+  },
+  "table_coffin_lid": {
+   "faces": 342,
+   "bbox": [
+    1.796,
+    1.8,
+    0.755
+   ]
+  },
+  "table_ritual_inlay": {
+   "faces": 578,
+   "bbox": [
+    1.8,
+    0.95,
+    0.797
+   ]
+  },
+  "table_iron_trestle": {
+   "faces": 236,
+   "bbox": [
+    1.86,
+    1.249,
+    1.674
+   ]
+  },
+  "chair_bone": {
+   "faces": 1322,
+   "bbox": [
+    0.46,
+    0.485,
+    1.12
+   ]
+  },
+  "chair_small_throne": {
+   "faces": 783,
+   "bbox": [
+    0.45,
+    0.465,
+    1.6
+   ]
+  },
+  "chair_skull_back": {
+   "faces": 964,
+   "bbox": [
+    0.45,
+    0.503,
+    1.15
+   ]
+  },
+  "chair_iron": {
+   "faces": 1078,
+   "bbox": [
+    0.45,
+    0.45,
+    1.05
+   ]
+  },
+  "chair_spiked": {
+   "faces": 609,
+   "bbox": [
+    0.45,
+    0.465,
+    1.35
+   ]
+  },
+  "chair_tall_cushion": {
+   "faces": 795,
+   "bbox": [
+    0.45,
+    0.463,
+    1.393
+   ]
+  },
+  "throne_bone_throne": {
+   "faces": 1624,
+   "bbox": [
+    0.88,
+    0.856,
+    1.733
+   ]
+  },
+  "throne_lich_throne": {
+   "faces": 912,
+   "bbox": [
+    0.85,
+    0.85,
+    1.956
+   ]
+  },
+  "throne_wing_chair": {
+   "faces": 784,
+   "bbox": [
+    0.86,
+    0.8,
+    1.4
+   ]
+  },
+  "throne_stone_seat": {
+   "faces": 490,
+   "bbox": [
+    0.86,
+    0.85,
+    1.1
+   ]
+  },
+  "throne_spider_chair": {
+   "faces": 668,
+   "bbox": [
+    1.016,
+    1.016,
+    1.374
+   ]
+  },
+  "pew_stone": {
+   "faces": 964,
+   "bbox": [
+    1.2,
+    0.391,
+    0.95
+   ]
+  },
+  "pew_bone": {
+   "faces": 946,
+   "bbox": [
+    1.205,
+    0.405,
+    0.997
+   ]
+  },
+  "pew_coffin_wood": {
+   "faces": 588,
+   "bbox": [
+    1.2,
+    0.39,
+    0.95
+   ]
+  },
+  "pew_iron": {
+   "faces": 1568,
+   "bbox": [
+    1.2,
+    0.385,
+    0.9
+   ]
+  },
+  "desk_scholar": {
+   "faces": 696,
+   "bbox": [
+    1.4,
+    0.7,
+    0.76
+   ]
+  },
+  "desk_alchemist": {
+   "faces": 818,
+   "bbox": [
+    1.4,
+    0.7,
+    0.87
+   ]
+  },
+  "desk_bone": {
+   "faces": 1100,
+   "bbox": [
+    1.4,
+    0.7,
+    0.917
+   ]
+  },
+  "desk_coffin_top": {
+   "faces": 312,
+   "bbox": [
+    1.4,
+    0.7,
+    0.72
+   ]
+  },
+  "desk_scriptorium": {
+   "faces": 800,
+   "bbox": [
+    1.4,
+    0.7,
+    0.956
+   ]
+  },
+  "chest_skull_chest": {
+   "faces": 790,
+   "bbox": [
+    1.2,
+    0.548,
+    0.785
+   ]
+  },
+  "chest_bone_dresser": {
+   "faces": 956,
+   "bbox": [
+    1.26,
+    0.515,
+    0.91
+   ]
+  },
+  "chest_stone_coffer": {
+   "faces": 580,
+   "bbox": [
+    1.26,
+    0.5,
+    0.6
+   ]
+  },
+  "chest_drawers_black": {
+   "faces": 508,
+   "bbox": [
+    1.26,
+    0.51,
+    0.845
+   ]
+  },
+  "nightstand_skull_stand": {
+   "faces": 964,
+   "bbox": [
+    0.5,
+    0.49,
+    0.49
+   ]
+  },
+  "nightstand_coffin_stand": {
+   "faces": 152,
+   "bbox": [
+    0.435,
+    0.4,
+    0.57
+   ]
+  },
+  "nightstand_iron_stand": {
+   "faces": 588,
+   "bbox": [
+    0.45,
+    0.4,
+    0.52
+   ]
+  },
+  "nightstand_drawers_small": {
+   "faces": 592,
+   "bbox": [
+    0.5,
+    0.45,
+    0.54
+   ]
+  },
+  "side_table_tripod_iron": {
+   "faces": 210,
+   "bbox": [
+    0.509,
+    0.505,
+    0.547
+   ]
+  },
+  "side_table_skull_pedestal": {
+   "faces": 432,
+   "bbox": [
+    0.46,
+    0.46,
+    0.65
+   ]
+  },
+  "side_table_stone_pillar": {
+   "faces": 121,
+   "bbox": [
+    0.48,
+    0.48,
+    0.56
+   ]
+  },
+  "side_table_bone_stool": {
+   "faces": 446,
+   "bbox": [
+    0.44,
+    0.44,
+    0.566
+   ]
+  },
+  "side_table_cauldron_table": {
+   "faces": 144,
+   "bbox": [
+    0.46,
+    0.46,
+    0.52
+   ]
+  },
+  "chaise_velvet": {
+   "faces": 1072,
+   "bbox": [
+    2.1,
+    0.95,
+    1.1
+   ]
+  },
+  "chaise_bone": {
+   "faces": 1844,
+   "bbox": [
+    2.12,
+    0.933,
+    1.406
+   ]
+  },
+  "chaise_stone_couch": {
+   "faces": 490,
+   "bbox": [
+    2.1,
+    0.955,
+    1.1
+   ]
+  },
+  "chaise_coffin_settee": {
+   "faces": 511,
+   "bbox": [
+    2.1,
+    0.845,
+    0.764
+   ]
+  },
+  "low_table_sarcophagus_lid": {
+   "faces": 768,
+   "bbox": [
+    1.0,
+    0.6,
+    0.548
+   ]
+  },
+  "low_table_bone_low": {
+   "faces": 522,
+   "bbox": [
+    1.0,
+    0.6,
+    0.475
+   ]
+  },
+  "low_table_brazier_table": {
+   "faces": 672,
+   "bbox": [
+    1.0,
+    0.6,
+    0.437
+   ]
+  },
+  "low_table_coffin_coffee": {
+   "faces": 206,
+   "bbox": [
+    1.0,
+    0.56,
+    0.415
+   ]
+  },
+  "focus_stand_scrying_mirror": {
+   "faces": 617,
+   "bbox": [
+    1.6,
+    0.4,
+    1.591
+   ]
+  },
+  "focus_stand_crystal_dais": {
+   "faces": 422,
+   "bbox": [
+    1.6,
+    0.6,
+    1.2
+   ]
+  },
+  "lectern_bone": {
+   "faces": 792,
+   "bbox": [
+    0.587,
+    0.421,
+    1.306
+   ]
+  },
+  "lectern_iron": {
+   "faces": 330,
+   "bbox": [
+    0.869,
+    0.631,
+    1.468
+   ]
+  },
+  "lectern_eagle": {
+   "faces": 414,
+   "bbox": [
+    0.908,
+    0.462,
+    1.37
+   ]
+  },
+  "lectern_stone_pulpit": {
+   "faces": 584,
+   "bbox": [
+    0.9,
+    0.8,
+    1.176
+   ]
+  },
+  "stool_bone": {
+   "faces": 336,
+   "bbox": [
+    0.4,
+    0.4,
+    0.49
+   ]
+  },
+  "stool_iron": {
+   "faces": 176,
+   "bbox": [
+    0.415,
+    0.4,
+    0.468
+   ]
+  },
+  "stool_skull": {
+   "faces": 146,
+   "bbox": [
+    0.4,
+    0.44,
+    0.435
+   ]
+  },
+  "stool_cushion": {
+   "faces": 88,
+   "bbox": [
+    0.433,
+    0.44,
+    0.47
+   ]
+  },
+  "stool_stump": {
+   "faces": 57,
+   "bbox": [
+    0.52,
+    0.507,
+    0.42
+   ]
+  },
+  "cabinet_apothecary": {
+   "faces": 3166,
+   "bbox": [
+    1.06,
+    0.5,
+    1.86
+   ]
+  },
+  "cabinet_glass_display": {
+   "faces": 1348,
+   "bbox": [
+    1.06,
+    0.5,
+    1.86
+   ]
+  },
+  "cabinet_skull_cabinet": {
+   "faces": 6212,
+   "bbox": [
+    1.06,
+    0.523,
+    1.86
+   ]
+  },
+  "cabinet_specimen": {
+   "faces": 754,
+   "bbox": [
+    1.06,
+    0.5,
+    1.86
+   ]
+  },
+  "cabinet_potion_rack": {
+   "faces": 1222,
+   "bbox": [
+    1.06,
+    0.51,
+    1.86
+   ]
+  },
+  "cabinet_curio": {
+   "faces": 912,
+   "bbox": [
+    1.06,
+    0.5,
+    1.86
+   ]
+  },
+  "instrument_pipe_organ": {
+   "faces": 621,
+   "bbox": [
+    2.4,
+    1.35,
+    3.313
+   ]
+  },
+  "instrument_bone_harp": {
+   "faces": 274,
+   "bbox": [
+    0.704,
+    0.4,
+    1.52
+   ]
+  },
+  "instrument_harpsichord": {
+   "faces": 758,
+   "bbox": [
+    1.6,
+    1.111,
+    1.43
+   ]
+  },
+  "bath_fixture_bone_basin": {
+   "faces": 631,
+   "bbox": [
+    0.84,
+    0.54,
+    1.1
+   ]
+  },
+  "bath_fixture_stone_basin": {
+   "faces": 631,
+   "bbox": [
+    0.84,
+    0.54,
+    1.1
+   ]
+  },
+  "bath_fixture_blood_bath": {
+   "faces": 306,
+   "bbox": [
+    1.72,
+    0.82,
+    0.765
+   ]
+  },
+  "bath_fixture_stone_tub": {
+   "faces": 306,
+   "bbox": [
+    1.72,
+    0.82,
+    0.765
+   ]
+  },
+  "bath_fixture_garderobe": {
+   "faces": 230,
+   "bbox": [
+    0.4,
+    0.585,
+    0.95
+   ]
+  },
+  "kitchen_fixture_stone_counter": {
+   "faces": 592,
+   "bbox": [
+    1.24,
+    0.645,
+    0.92
+   ]
+  },
+  "kitchen_fixture_butcher_block": {
+   "faces": 208,
+   "bbox": [
+    1.26,
+    0.68,
+    0.975
+   ]
+  },
+  "kitchen_fixture_ice_vault": {
+   "faces": 490,
+   "bbox": [
+    0.72,
+    0.785,
+    1.85
+   ]
+  },
+  "altar_stone_slab": {
+   "faces": 852,
+   "bbox": [
+    1.6,
+    0.8,
+    1.0
+   ]
+  },
+  "altar_bone_altar": {
+   "faces": 4448,
+   "bbox": [
+    1.64,
+    0.84,
+    1.01
+   ]
+  },
+  "altar_sacrificial": {
+   "faces": 1948,
+   "bbox": [
+    1.6,
+    0.812,
+    1.04
+   ]
+  },
+  "altar_obsidian": {
+   "faces": 1098,
+   "bbox": [
+    1.6,
+    0.805,
+    1.017
+   ]
+  },
+  "altar_reliquary_altar": {
+   "faces": 864,
+   "bbox": [
+    1.65,
+    0.85,
+    1.02
+   ]
+  },
+  "altar_black_altar": {
+   "faces": 866,
+   "bbox": [
+    1.6,
+    0.83,
+    1.0
+   ]
+  },
+  "altar_tiered_altar": {
+   "faces": 956,
+   "bbox": [
+    1.6,
+    0.8,
+    1.061
+   ]
+  },
+  "sarcophagus_effigy": {
+   "faces": 1206,
+   "bbox": [
+    1.16,
+    2.32,
+    1.015
+   ]
+  },
+  "sarcophagus_knight": {
+   "faces": 1402,
+   "bbox": [
+    1.16,
+    2.32,
+    1.015
+   ]
+  },
+  "sarcophagus_winged": {
+   "faces": 1450,
+   "bbox": [
+    1.697,
+    2.32,
+    1.015
+   ]
+  },
+  "sarcophagus_skull_lid": {
+   "faces": 3086,
+   "bbox": [
+    1.16,
+    2.32,
+    1.125
+   ]
+  },
+  "sarcophagus_rune_carved": {
+   "faces": 1290,
+   "bbox": [
+    1.16,
+    2.32,
+    1.015
+   ]
+  },
+  "sarcophagus_open_lid": {
+   "faces": 1062,
+   "bbox": [
+    1.754,
+    2.57,
+    0.978
+   ]
+  },
+  "sarcophagus_double_effigy": {
+   "faces": 1726,
+   "bbox": [
+    1.66,
+    2.32,
+    1.015
+   ]
+  },
+  "coffin_plain": {
+   "faces": 628,
+   "bbox": [
+    0.6,
+    2.0,
+    0.642
+   ]
+  },
+  "coffin_iron_bound": {
+   "faces": 922,
+   "bbox": [
+    0.72,
+    2.0,
+    0.642
+   ]
+  },
+  "coffin_glass_lid": {
+   "faces": 842,
+   "bbox": [
+    0.6,
+    2.0,
+    0.631
+   ]
+  },
+  "coffin_ajar": {
+   "faces": 624,
+   "bbox": [
+    1.513,
+    2.246,
+    0.69
+   ]
+  },
+  "coffin_upright": {
+   "faces": 334,
+   "bbox": [
+    0.6,
+    0.57,
+    2.1
+   ]
+  },
+  "coffin_double": {
+   "faces": 628,
+   "bbox": [
+    1.14,
+    2.0,
+    0.642
+   ]
+  },
+  "coffin_chained": {
+   "faces": 3340,
+   "bbox": [
+    0.675,
+    2.0,
+    0.77
+   ]
+  },
+  "tombstone_celtic_cross": {
+   "faces": 454,
+   "bbox": [
+    0.8,
+    0.4,
+    1.3
+   ]
+  },
+  "tombstone_angel_marker": {
+   "faces": 558,
+   "bbox": [
+    0.879,
+    0.4,
+    1.299
+   ]
+  },
+  "tombstone_obelisk_small": {
+   "faces": 299,
+   "bbox": [
+    0.8,
+    0.4,
+    1.7
+   ]
+  },
+  "tombstone_broken_stone": {
+   "faces": 342,
+   "bbox": [
+    0.978,
+    0.506,
+    0.829
+   ]
+  },
+  "tombstone_skull_stone": {
+   "faces": 660,
+   "bbox": [
+    0.8,
+    0.4,
+    0.893
+   ]
+  },
+  "tombstone_urn_stone": {
+   "faces": 240,
+   "bbox": [
+    0.8,
+    0.4,
+    1.04
+   ]
+  },
+  "tombstone_iron_cross": {
+   "faces": 301,
+   "bbox": [
+    0.8,
+    0.4,
+    1.31
+   ]
+  },
+  "tombstone_twin_slabs": {
+   "faces": 470,
+   "bbox": [
+    0.8,
+    0.4,
+    0.645
+   ]
+  },
+  "crypt_niche_skull_niche": {
+   "faces": 2275,
+   "bbox": [
+    1.1,
+    0.42,
+    1.9
+   ]
+  },
+  "crypt_niche_ossuary_wall": {
+   "faces": 7936,
+   "bbox": [
+    1.147,
+    0.497,
+    1.9
+   ]
+  },
+  "crypt_niche_sealed_slab": {
+   "faces": 598,
+   "bbox": [
+    1.1,
+    0.398,
+    1.9
+   ]
+  },
+  "crypt_niche_coffin_slot": {
+   "faces": 306,
+   "bbox": [
+    1.1,
+    0.46,
+    1.9
+   ]
+  },
+  "statue_reaper": {
+   "faces": 983,
+   "bbox": [
+    1.169,
+    0.68,
+    2.03
+   ]
+  },
+  "statue_mourning_angel": {
+   "faces": 746,
+   "bbox": [
+    1.988,
+    1.027,
+    2.374
+   ]
+  },
+  "statue_knight": {
+   "faces": 908,
+   "bbox": [
+    1.03,
+    1.332,
+    1.443
+   ]
+  },
+  "statue_skeleton_warrior": {
+   "faces": 1768,
+   "bbox": [
+    0.68,
+    0.68,
+    1.391
+   ]
+  },
+  "statue_hooded_monk": {
+   "faces": 712,
+   "bbox": [
+    0.68,
+    0.68,
+    1.785
+   ]
+  },
+  "statue_gargoyle_perched": {
+   "faces": 1182,
+   "bbox": [
+    1.239,
+    0.876,
+    1.248
+   ]
+  },
+  "statue_gargoyle_winged": {
+   "faces": 1182,
+   "bbox": [
+    2.038,
+    0.876,
+    1.249
+   ]
+  },
+  "statue_raven": {
+   "faces": 615,
+   "bbox": [
+    1.0,
+    0.69,
+    1.57
+   ]
+  },
+  "statue_lich": {
+   "faces": 936,
+   "bbox": [
+    0.716,
+    0.68,
+    1.96
+   ]
+  },
+  "statue_demon": {
+   "faces": 902,
+   "bbox": [
+    2.098,
+    0.68,
+    1.552
+   ]
+  },
+  "statue_saint_praying": {
+   "faces": 774,
+   "bbox": [
+    0.68,
+    0.68,
+    1.709
+   ]
+  },
+  "statue_dragon_skull": {
+   "faces": 1022,
+   "bbox": [
+    0.713,
+    1.157,
+    1.105
+   ]
+  },
+  "slab_sacrificial_blood": {
+   "faces": 214,
+   "bbox": [
+    1.1,
+    2.1,
+    0.895
+   ]
+  },
+  "slab_dissection_chained": {
+   "faces": 2764,
+   "bbox": [
+    1.179,
+    2.1,
+    0.972
+   ]
+  },
+  "font_blood_font": {
+   "faces": 192,
+   "bbox": [
+    0.84,
+    0.84,
+    0.85
+   ]
+  },
+  "font_bone_font": {
+   "faces": 2448,
+   "bbox": [
+    1.1,
+    1.137,
+    0.85
+   ]
+  },
+  "font_soul_font": {
+   "faces": 216,
+   "bbox": [
+    0.84,
+    0.84,
+    1.4
+   ]
+  },
+  "reliquary_casket": {
+   "faces": 268,
+   "bbox": [
+    0.3,
+    0.183,
+    0.2
+   ]
+  },
+  "reliquary_skull_shrine": {
+   "faces": 502,
+   "bbox": [
+    0.24,
+    0.24,
+    0.24
+   ]
+  },
+  "reliquary_monstrance": {
+   "faces": 280,
+   "bbox": [
+    0.31,
+    0.2,
+    0.455
+   ]
+  },
+  "reliquary_bone_box": {
+   "faces": 572,
+   "bbox": [
+    0.28,
+    0.18,
+    0.173
+   ]
+  },
+  "bone_heap_skull_pile_big": {
+   "faces": 6016,
+   "bbox": [
+    0.463,
+    0.54,
+    0.318
+   ]
+  },
+  "bone_heap_bone_scatter": {
+   "faces": 2612,
+   "bbox": [
+    1.417,
+    1.434,
+    0.885
+   ]
+  },
+  "bone_heap_ribcage_heap": {
+   "faces": 1568,
+   "bbox": [
+    0.718,
+    0.416,
+    0.308
+   ]
+  },
+  "bone_heap_femur_stack": {
+   "faces": 954,
+   "bbox": [
+    0.76,
+    0.24,
+    0.14
+   ]
+  },
+  "bone_heap_ossuary_cart": {
+   "faces": 3334,
+   "bbox": [
+    1.05,
+    0.55,
+    0.665
+   ]
+  },
+  "bone_heap_skull_pyramid": {
+   "faces": 3760,
+   "bbox": [
+    0.704,
+    0.124,
+    0.424
+   ]
+  },
+  "hanging_remains_skeleton_wall": {
+   "faces": 3530,
+   "bbox": [
+    1.0,
+    0.271,
+    1.73
+   ]
+  },
+  "hanging_remains_skeleton_cage": {
+   "faces": 1838,
+   "bbox": [
+    0.921,
+    0.824,
+    1.713
+   ]
+  },
+  "hanging_remains_skeleton_seated": {
+   "faces": 1246,
+   "bbox": [
+    0.6,
+    0.68,
+    1.722
+   ]
+  },
+  "grave_mound_fresh_grave": {
+   "faces": 437,
+   "bbox": [
+    1.7,
+    1.7,
+    0.8
+   ]
+  },
+  "grave_mound_mossy_grave": {
+   "faces": 437,
+   "bbox": [
+    1.7,
+    1.7,
+    0.8
+   ]
+  },
+  "cauldron_copper_big": {
+   "faces": 906,
+   "bbox": [
+    0.946,
+    0.946,
+    0.935
+   ]
+  },
+  "cauldron_witch_small": {
+   "faces": 906,
+   "bbox": [
+    0.645,
+    0.645,
+    0.637
+   ]
+  },
+  "cauldron_bone_rim": {
+   "faces": 3162,
+   "bbox": [
+    0.878,
+    0.817,
+    0.808
+   ]
+  },
+  "cauldron_soul_cauldron": {
+   "faces": 906,
+   "bbox": [
+    0.86,
+    0.86,
+    0.85
+   ]
+  },
+  "cauldron_blood_cauldron": {
+   "faces": 906,
+   "bbox": [
+    0.86,
+    0.86,
+    0.85
+   ]
+  },
+  "cauldron_tripod_fire": {
+   "faces": 1440,
+   "bbox": [
+    0.922,
+    0.914,
+    0.933
+   ]
+  },
+  "lab_bench_apparatus_bench": {
+   "faces": 1092,
+   "bbox": [
+    1.8,
+    0.705,
+    1.35
+   ]
+  },
+  "lab_bench_herb_bench": {
+   "faces": 944,
+   "bbox": [
+    1.8,
+    0.705,
+    1.35
+   ]
+  },
+  "lab_bench_dissection_bench": {
+   "faces": 1034,
+   "bbox": [
+    1.8,
+    0.705,
+    1.35
+   ]
+  },
+  "lab_bench_grinding_bench": {
+   "faces": 948,
+   "bbox": [
+    1.8,
+    0.705,
+    1.35
+   ]
+  },
+  "apparatus_retort": {
+   "faces": 196,
+   "bbox": [
+    0.385,
+    0.2,
+    0.302
+   ]
+  },
+  "apparatus_alembic": {
+   "faces": 138,
+   "bbox": [
+    0.508,
+    0.273,
+    0.41
+   ]
+  },
+  "apparatus_distill_rig": {
+   "faces": 338,
+   "bbox": [
+    0.524,
+    0.2,
+    0.57
+   ]
+  },
+  "apparatus_bubbling_flask": {
+   "faces": 228,
+   "bbox": [
+    0.24,
+    0.234,
+    0.31
+   ]
+  },
+  "apparatus_burner_stand": {
+   "faces": 253,
+   "bbox": [
+    0.269,
+    0.189,
+    0.383
+   ]
+  },
+  "apparatus_crucible": {
+   "faces": 84,
+   "bbox": [
+    0.245,
+    0.225,
+    0.288
+   ]
+  },
+  "apparatus_scales": {
+   "faces": 1010,
+   "bbox": [
+    0.536,
+    0.16,
+    0.32
+   ]
+  },
+  "apparatus_mortar_pestle": {
+   "faces": 80,
+   "bbox": [
+    0.22,
+    0.214,
+    0.214
+   ]
+  },
+  "potion_round_potion": {
+   "faces": 103,
+   "bbox": [
+    0.17,
+    0.166,
+    0.24
+   ]
+  },
+  "potion_tall_red": {
+   "faces": 103,
+   "bbox": [
+    0.09,
+    0.088,
+    0.36
+   ]
+  },
+  "potion_flask_blue": {
+   "faces": 103,
+   "bbox": [
+    0.22,
+    0.214,
+    0.28
+   ]
+  },
+  "potion_skull_purple": {
+   "faces": 493,
+   "bbox": [
+    0.15,
+    0.168,
+    0.24
+   ]
+  },
+  "potion_vial_amber": {
+   "faces": 103,
+   "bbox": [
+    0.056,
+    0.055,
+    0.18
+   ]
+  },
+  "potion_jar_potion": {
+   "faces": 107,
+   "bbox": [
+    0.15,
+    0.146,
+    0.17
+   ]
+  },
+  "potion_decanter_red": {
+   "faces": 117,
+   "bbox": [
+    0.17,
+    0.166,
+    0.36
+   ]
+  },
+  "potion_triple_blue": {
+   "faces": 309,
+   "bbox": [
+    0.204,
+    0.062,
+    0.2
+   ]
+  },
+  "potion_hex_purple": {
+   "faces": 103,
+   "bbox": [
+    0.13,
+    0.127,
+    0.26
+   ]
+  },
+  "potion_teardrop_amber": {
+   "faces": 117,
+   "bbox": [
+    0.18,
+    0.175,
+    0.3
+   ]
+  },
+  "potion_corked_big_potion": {
+   "faces": 129,
+   "bbox": [
+    0.28,
+    0.273,
+    0.435
+   ]
+  },
+  "potion_tiny_set_red": {
+   "faces": 315,
+   "bbox": [
+    0.2,
+    0.06,
+    0.148
+   ]
+  },
+  "specimen_jar_brain": {
+   "faces": 276,
+   "bbox": [
+    0.22,
+    0.22,
+    0.292
+   ]
+  },
+  "specimen_jar_heart": {
+   "faces": 236,
+   "bbox": [
+    0.22,
+    0.22,
+    0.292
+   ]
+  },
+  "specimen_jar_eyes": {
+   "faces": 360,
+   "bbox": [
+    0.22,
+    0.22,
+    0.292
+   ]
+  },
+  "specimen_jar_hand": {
+   "faces": 690,
+   "bbox": [
+    0.22,
+    0.22,
+    0.292
+   ]
+  },
+  "specimen_jar_spider": {
+   "faces": 264,
+   "bbox": [
+    0.234,
+    0.22,
+    0.292
+   ]
+  },
+  "specimen_jar_tentacle": {
+   "faces": 192,
+   "bbox": [
+    0.22,
+    0.22,
+    0.292
+   ]
+  },
+  "specimen_jar_lungs": {
+   "faces": 264,
+   "bbox": [
+    0.22,
+    0.22,
+    0.292
+   ]
+  },
+  "specimen_jar_bat": {
+   "faces": 228,
+   "bbox": [
+    0.22,
+    0.22,
+    0.292
+   ]
+  },
+  "hanging_herbs_lavender": {
+   "faces": 313,
+   "bbox": [
+    0.385,
+    0.06,
+    0.581
+   ]
+  },
+  "hanging_herbs_nightshade": {
+   "faces": 313,
+   "bbox": [
+    0.385,
+    0.06,
+    0.581
+   ]
+  },
+  "hanging_herbs_garlic_braid": {
+   "faces": 373,
+   "bbox": [
+    0.379,
+    0.07,
+    0.619
+   ]
+  },
+  "hanging_herbs_mushroom_string": {
+   "faces": 373,
+   "bbox": [
+    0.379,
+    0.078,
+    0.628
+   ]
+  },
+  "hanging_herbs_root_bundle": {
+   "faces": 168,
+   "bbox": [
+    0.5,
+    0.04,
+    0.726
+   ]
+  },
+  "hanging_herbs_bat_wings": {
+   "faces": 163,
+   "bbox": [
+    0.397,
+    0.14,
+    0.579
+   ]
+  },
+  "grimoire_closed_red": {
+   "faces": 282,
+   "bbox": [
+    0.254,
+    0.353,
+    0.065
+   ]
+  },
+  "grimoire_closed_black": {
+   "faces": 282,
+   "bbox": [
+    0.254,
+    0.353,
+    0.065
+   ]
+  },
+  "grimoire_closed_green": {
+   "faces": 282,
+   "bbox": [
+    0.254,
+    0.353,
+    0.065
+   ]
+  },
+  "grimoire_open_pages": {
+   "faces": 294,
+   "bbox": [
+    0.46,
+    0.3,
+    0.11
+   ]
+  },
+  "grimoire_open_runes": {
+   "faces": 618,
+   "bbox": [
+    0.46,
+    0.3,
+    0.11
+   ]
+  },
+  "grimoire_chained": {
+   "faces": 950,
+   "bbox": [
+    0.267,
+    0.381,
+    0.125
+   ]
+  },
+  "grimoire_glowing": {
+   "faces": 430,
+   "bbox": [
+    0.225,
+    0.302,
+    0.276
+   ]
+  },
+  "grimoire_bone_cover": {
+   "faces": 578,
+   "bbox": [
+    0.254,
+    0.322,
+    0.128
+   ]
+  },
+  "grimoire_locked_clasp": {
+   "faces": 398,
+   "bbox": [
+    0.265,
+    0.322,
+    0.09
+   ]
+  },
+  "grimoire_giant": {
+   "faces": 444,
+   "bbox": [
+    0.41,
+    0.552,
+    0.158
+   ]
+  },
+  "scroll_single_roll": {
+   "faces": 20,
+   "bbox": [
+    0.338,
+    0.109,
+    0.048
+   ]
+  },
+  "scroll_scroll_stack": {
+   "faces": 50,
+   "bbox": [
+    0.284,
+    0.218,
+    0.095
+   ]
+  },
+  "scroll_scroll_open": {
+   "faces": 56,
+   "bbox": [
+    0.38,
+    0.26,
+    0.04
+   ]
+  },
+  "scroll_wax_sealed": {
+   "faces": 72,
+   "bbox": [
+    0.26,
+    0.07,
+    0.077
+   ]
+  },
+  "scroll_map_roll": {
+   "faces": 22,
+   "bbox": [
+    0.417,
+    0.22,
+    0.07
+   ]
+  },
+  "scroll_scroll_tube": {
+   "faces": 28,
+   "bbox": [
+    0.36,
+    0.13,
+    0.086
+   ]
+  },
+  "orb_crystal_ball": {
+   "faces": 362,
+   "bbox": [
+    0.2,
+    0.2,
+    0.27
+   ]
+  },
+  "orb_skull_orb": {
+   "faces": 508,
+   "bbox": [
+    0.104,
+    0.126,
+    0.172
+   ]
+  },
+  "orb_soul_jar": {
+   "faces": 150,
+   "bbox": [
+    0.16,
+    0.156,
+    0.23
+   ]
+  },
+  "orb_rune_crystal": {
+   "faces": 38,
+   "bbox": [
+    0.2,
+    0.2,
+    0.28
+   ]
+  },
+  "orb_shard_cluster": {
+   "faces": 42,
+   "bbox": [
+    0.275,
+    0.162,
+    0.308
+   ]
+  },
+  "orb_scrying_bowl": {
+   "faces": 134,
+   "bbox": [
+    0.3,
+    0.297,
+    0.1
+   ]
+  },
+  "rune_item_stone_set": {
+   "faces": 162,
+   "bbox": [
+    0.23,
+    0.13,
+    0.042
+   ]
+  },
+  "rune_item_glowing_runestone": {
+   "faces": 66,
+   "bbox": [
+    0.133,
+    0.101,
+    0.168
+   ]
+  },
+  "rune_item_bone_dice": {
+   "faces": 196,
+   "bbox": [
+    0.138,
+    0.088,
+    0.04
+   ]
+  },
+  "rune_item_rune_plate": {
+   "faces": 32,
+   "bbox": [
+    0.208,
+    0.24,
+    0.022
+   ]
+  },
+  "operating_table_wood_slab": {
+   "faces": 588,
+   "bbox": [
+    0.8,
+    1.9,
+    0.9
+   ]
+  },
+  "operating_table_stone_slab": {
+   "faces": 594,
+   "bbox": [
+    0.8,
+    1.9,
+    0.918
+   ]
+  },
+  "operating_table_strapped": {
+   "faces": 900,
+   "bbox": [
+    0.86,
+    1.9,
+    0.935
+   ]
+  },
+  "cage_small_cage": {
+   "faces": 415,
+   "bbox": [
+    0.6,
+    0.6,
+    0.64
+   ]
+  },
+  "cage_bird_cage": {
+   "faces": 681,
+   "bbox": [
+    0.5,
+    0.5,
+    1.423
+   ]
+  },
+  "cage_prison_cage": {
+   "faces": 817,
+   "bbox": [
+    1.03,
+    1.0,
+    1.94
+   ]
+  },
+  "cage_crow_cage": {
+   "faces": 511,
+   "bbox": [
+    0.6,
+    0.6,
+    0.74
+   ]
+  },
+  "occult_tool_ritual_dagger": {
+   "faces": 20,
+   "bbox": [
+    0.116,
+    0.3,
+    0.024
+   ]
+  },
+  "occult_tool_athame_set": {
+   "faces": 24,
+   "bbox": [
+    0.24,
+    0.235,
+    0.01
+   ]
+  },
+  "occult_tool_ritual_bowl": {
+   "faces": 120,
+   "bbox": [
+    0.24,
+    0.24,
+    0.08
+   ]
+  },
+  "occult_tool_ritual_bell": {
+   "faces": 109,
+   "bbox": [
+    0.14,
+    0.14,
+    0.222
+   ]
+  },
+  "skull_plain": {
+   "faces": 376,
+   "bbox": [
+    0.125,
+    0.149,
+    0.149
+   ]
+  },
+  "skull_cracked": {
+   "faces": 388,
+   "bbox": [
+    0.125,
+    0.149,
+    0.155
+   ]
+  },
+  "skull_crowned": {
+   "faces": 539,
+   "bbox": [
+    0.16,
+    0.16,
+    0.225
+   ]
+  },
+  "skull_horned": {
+   "faces": 392,
+   "bbox": [
+    0.245,
+    0.149,
+    0.209
+   ]
+  },
+  "skull_jawless": {
+   "faces": 272,
+   "bbox": [
+    0.125,
+    0.149,
+    0.128
+   ]
+  },
+  "skull_candle_skull": {
+   "faces": 445,
+   "bbox": [
+    0.126,
+    0.149,
+    0.345
+   ]
+  },
+  "skull_gem_eyes": {
+   "faces": 448,
+   "bbox": [
+    0.125,
+    0.151,
+    0.149
+   ]
+  },
+  "skull_mossy": {
+   "faces": 376,
+   "bbox": [
+    0.125,
+    0.149,
+    0.149
+   ]
+  },
+  "skull_gilded": {
+   "faces": 376,
+   "bbox": [
+    0.125,
+    0.149,
+    0.149
+   ]
+  },
+  "skull_small_pair": {
+   "faces": 752,
+   "bbox": [
+    0.241,
+    0.17,
+    0.1
+   ]
+  },
+  "bone_item_ribcage_small": {
+   "faces": 298,
+   "bbox": [
+    0.198,
+    0.139,
+    0.22
+   ]
+  },
+  "bone_item_hand_bones": {
+   "faces": 628,
+   "bbox": [
+    0.121,
+    0.151,
+    0.021
+   ]
+  },
+  "bone_item_spine_curl": {
+   "faces": 432,
+   "bbox": [
+    0.133,
+    0.121,
+    0.078
+   ]
+  },
+  "bone_item_femur_crossed": {
+   "faces": 212,
+   "bbox": [
+    0.427,
+    0.391,
+    0.217
+   ]
+  },
+  "candelabra_five_arm": {
+   "faces": 530,
+   "bbox": [
+    0.474,
+    0.498,
+    1.622
+   ]
+  },
+  "candelabra_bone_tall": {
+   "faces": 1280,
+   "bbox": [
+    0.488,
+    0.498,
+    1.692
+   ]
+  },
+  "candelabra_seven_branch": {
+   "faces": 666,
+   "bbox": [
+    0.608,
+    0.626,
+    1.622
+   ]
+  },
+  "candelabra_twisted_iron": {
+   "faces": 582,
+   "bbox": [
+    0.474,
+    0.498,
+    1.622
+   ]
+  },
+  "candelabra_skull_base": {
+   "faces": 808,
+   "bbox": [
+    0.474,
+    0.498,
+    1.622
+   ]
+  },
+  "candelabra_soul_flame": {
+   "faces": 506,
+   "bbox": [
+    0.474,
+    0.498,
+    1.622
+   ]
+  },
+  "chandelier_wagon_wheel": {
+   "faces": 1427,
+   "bbox": [
+    1.25,
+    1.25,
+    1.105
+   ]
+  },
+  "chandelier_bone_ring": {
+   "faces": 3083,
+   "bbox": [
+    0.85,
+    0.85,
+    1.105
+   ]
+  },
+  "chandelier_iron_cage": {
+   "faces": 883,
+   "bbox": [
+    0.85,
+    0.85,
+    1.105
+   ]
+  },
+  "chandelier_crystal_drops": {
+   "faces": 1091,
+   "bbox": [
+    0.85,
+    0.85,
+    1.105
+   ]
+  },
+  "chandelier_skull_crown": {
+   "faces": 2203,
+   "bbox": [
+    0.85,
+    0.85,
+    1.105
+   ]
+  },
+  "chandelier_soul_wheel": {
+   "faces": 683,
+   "bbox": [
+    0.852,
+    0.85,
+    1.105
+   ]
+  },
+  "sconce_iron_single": {
+   "faces": 464,
+   "bbox": [
+    0.14,
+    0.22,
+    0.359
+   ]
+  },
+  "sconce_iron_double": {
+   "faces": 258,
+   "bbox": [
+    0.366,
+    0.175,
+    0.399
+   ]
+  },
+  "sconce_skull_holder": {
+   "faces": 522,
+   "bbox": [
+    0.14,
+    0.147,
+    0.36
+   ]
+  },
+  "sconce_bone_hand": {
+   "faces": 680,
+   "bbox": [
+    0.14,
+    0.152,
+    0.389
+   ]
+  },
+  "sconce_torch_wall": {
+   "faces": 348,
+   "bbox": [
+    0.14,
+    0.29,
+    0.664
+   ]
+  },
+  "sconce_crystal_sconce": {
+   "faces": 220,
+   "bbox": [
+    0.14,
+    0.16,
+    0.3
+   ]
+  },
+  "sconce_brass_arm": {
+   "faces": 180,
+   "bbox": [
+    0.14,
+    0.28,
+    0.404
+   ]
+  },
+  "sconce_bat_sconce": {
+   "faces": 230,
+   "bbox": [
+    0.28,
+    0.17,
+    0.3
+   ]
+  },
+  "candle_group_drip_pile": {
+   "faces": 300,
+   "bbox": [
+    0.266,
+    0.26,
+    0.277
+   ]
+  },
+  "candle_group_tall_trio": {
+   "faces": 216,
+   "bbox": [
+    0.187,
+    0.07,
+    0.403
+   ]
+  },
+  "candle_group_black_candles": {
+   "faces": 114,
+   "bbox": [
+    0.24,
+    0.24,
+    0.357
+   ]
+  },
+  "candle_group_votive_row": {
+   "faces": 240,
+   "bbox": [
+    0.328,
+    0.05,
+    0.069
+   ]
+  },
+  "candle_group_pillar_big": {
+   "faces": 118,
+   "bbox": [
+    0.2,
+    0.2,
+    0.387
+   ]
+  },
+  "candle_group_bone_cluster": {
+   "faces": 662,
+   "bbox": [
+    0.336,
+    0.216,
+    0.255
+   ]
+  },
+  "lantern_hand_lantern": {
+   "faces": 847,
+   "bbox": [
+    0.165,
+    0.165,
+    0.448
+   ]
+  },
+  "lantern_standing_lantern": {
+   "faces": 881,
+   "bbox": [
+    0.39,
+    0.4,
+    1.368
+   ]
+  },
+  "lantern_hanging_lantern": {
+   "faces": 847,
+   "bbox": [
+    0.165,
+    0.165,
+    0.448
+   ]
+  },
+  "lantern_oil_lamp": {
+   "faces": 141,
+   "bbox": [
+    0.18,
+    0.175,
+    0.26
+   ]
+  },
+  "lantern_spirit_lantern": {
+   "faces": 847,
+   "bbox": [
+    0.165,
+    0.165,
+    0.448
+   ]
+  },
+  "lantern_skull_lantern": {
+   "faces": 688,
+   "bbox": [
+    0.156,
+    0.189,
+    0.321
+   ]
+  },
+  "brazier_tripod_bowl": {
+   "faces": 479,
+   "bbox": [
+    1.033,
+    0.888,
+    1.416
+   ]
+  },
+  "brazier_pedestal": {
+   "faces": 505,
+   "bbox": [
+    0.6,
+    0.594,
+    1.34
+   ]
+  },
+  "brazier_skull_brazier": {
+   "faces": 2043,
+   "bbox": [
+    0.785,
+    0.785,
+    0.98
+   ]
+  },
+  "brazier_iron_basket": {
+   "faces": 597,
+   "bbox": [
+    0.759,
+    0.48,
+    1.468
+   ]
+  },
+  "brazier_soul_brazier": {
+   "faces": 673,
+   "bbox": [
+    0.64,
+    0.64,
+    1.28
+   ]
+  },
+  "floating_light_wisp": {
+   "faces": 1192,
+   "bbox": [
+    0.19,
+    0.195,
+    0.835
+   ]
+  },
+  "floating_light_rune_orb": {
+   "faces": 1750,
+   "bbox": [
+    0.336,
+    0.336,
+    0.661
+   ]
+  },
+  "floating_light_ghost_flame": {
+   "faces": 1142,
+   "bbox": [
+    0.173,
+    0.18,
+    0.687
+   ]
+  },
+  "floating_light_hanging_crystal": {
+   "faces": 1044,
+   "bbox": [
+    0.156,
+    0.18,
+    0.793
+   ]
+  },
+  "book_stack_tall_stack": {
+   "faces": 1224,
+   "bbox": [
+    0.411,
+    0.457,
+    0.411
+   ]
+  },
+  "book_stack_scattered_pair": {
+   "faces": 606,
+   "bbox": [
+    0.543,
+    0.435,
+    0.077
+   ]
+  },
+  "book_stack_leaning_row": {
+   "faces": 490,
+   "bbox": [
+    0.207,
+    0.18,
+    0.251
+   ]
+  },
+  "book_stack_tome_pile": {
+   "faces": 1414,
+   "bbox": [
+    0.332,
+    0.388,
+    0.319
+   ]
+  },
+  "book_stack_red_stack": {
+   "faces": 808,
+   "bbox": [
+    0.412,
+    0.453,
+    0.213
+   ]
+  },
+  "book_stack_ledger_stack": {
+   "faces": 1010,
+   "bbox": [
+    0.404,
+    0.456,
+    0.255
+   ]
+  },
+  "book_stack_bone_bookends": {
+   "faces": 1536,
+   "bbox": [
+    0.3,
+    0.16,
+    0.227
+   ]
+  },
+  "book_stack_open_and_stack": {
+   "faces": 716,
+   "bbox": [
+    0.613,
+    0.3,
+    0.225
+   ]
+  },
+  "globe_astral": {
+   "faces": 794,
+   "bbox": [
+    0.316,
+    0.291,
+    0.406
+   ]
+  },
+  "globe_world": {
+   "faces": 644,
+   "bbox": [
+    0.316,
+    0.291,
+    0.406
+   ]
+  },
+  "globe_star_map": {
+   "faces": 644,
+   "bbox": [
+    0.316,
+    0.291,
+    0.406
+   ]
+  },
+  "globe_skull": {
+   "faces": 740,
+   "bbox": [
+    0.316,
+    0.291,
+    0.406
+   ]
+  },
+  "science_orrery": {
+   "faces": 594,
+   "bbox": [
+    0.446,
+    0.444,
+    0.31
+   ]
+  },
+  "science_astrolabe": {
+   "faces": 310,
+   "bbox": [
+    0.28,
+    0.267,
+    0.323
+   ]
+  },
+  "science_armillary": {
+   "faces": 566,
+   "bbox": [
+    0.272,
+    0.271,
+    0.396
+   ]
+  },
+  "science_sundial": {
+   "faces": 31,
+   "bbox": [
+    0.26,
+    0.26,
+    0.025
+   ]
+  },
+  "telescope_brass_tripod": {
+   "faces": 286,
+   "bbox": [
+    1.041,
+    1.165,
+    2.127
+   ]
+  },
+  "telescope_star_gazer": {
+   "faces": 346,
+   "bbox": [
+    1.041,
+    1.362,
+    2.208
+   ]
+  },
+  "hourglass_sand_small": {
+   "faces": 176,
+   "bbox": [
+    0.136,
+    0.14,
+    0.325
+   ]
+  },
+  "hourglass_bone_frame_big": {
+   "faces": 176,
+   "bbox": [
+    0.177,
+    0.182,
+    0.415
+   ]
+  },
+  "writing_set_inkwell_quill": {
+   "faces": 73,
+   "bbox": [
+    0.182,
+    0.156,
+    0.202
+   ]
+  },
+  "writing_set_quill_stand": {
+   "faces": 49,
+   "bbox": [
+    0.124,
+    0.1,
+    0.3
+   ]
+  },
+  "writing_set_seal_press": {
+   "faces": 86,
+   "bbox": [
+    0.185,
+    0.1,
+    0.16
+   ]
+  },
+  "study_furniture_map_table": {
+   "faces": 522,
+   "bbox": [
+    1.6,
+    1.0,
+    0.955
+   ]
+  },
+  "study_furniture_scroll_rack_a": {
+   "faces": 572,
+   "bbox": [
+    0.91,
+    0.3,
+    1.23
+   ]
+  },
+  "study_furniture_scroll_rack_b": {
+   "faces": 632,
+   "bbox": [
+    0.91,
+    0.3,
+    1.23
+   ]
+  },
+  "study_furniture_library_ladder": {
+   "faces": 1016,
+   "bbox": [
+    0.49,
+    0.505,
+    2.258
+   ]
+  },
+  "urn_funerary_tall": {
+   "faces": 492,
+   "bbox": [
+    0.294,
+    0.217,
+    0.36
+   ]
+  },
+  "urn_canopic_jar": {
+   "faces": 138,
+   "bbox": [
+    0.18,
+    0.177,
+    0.34
+   ]
+  },
+  "urn_pot_urn": {
+   "faces": 332,
+   "bbox": [
+    0.294,
+    0.276,
+    0.3
+   ]
+  },
+  "urn_ashes_urn": {
+   "faces": 90,
+   "bbox": [
+    0.22,
+    0.217,
+    0.25
+   ]
+  },
+  "urn_gold_ornate": {
+   "faces": 492,
+   "bbox": [
+    0.294,
+    0.236,
+    0.32
+   ]
+  },
+  "urn_cracked_urn": {
+   "faces": 78,
+   "bbox": [
+    0.24,
+    0.236,
+    0.201
+   ]
+  },
+  "chalice_gold": {
+   "faces": 112,
+   "bbox": [
+    0.11,
+    0.107,
+    0.2
+   ]
+  },
+  "chalice_skull_goblet": {
+   "faces": 303,
+   "bbox": [
+    0.1,
+    0.112,
+    0.21
+   ]
+  },
+  "chalice_bone_cup": {
+   "faces": 112,
+   "bbox": [
+    0.11,
+    0.107,
+    0.2
+   ]
+  },
+  "chalice_silver": {
+   "faces": 112,
+   "bbox": [
+    0.11,
+    0.107,
+    0.2
+   ]
+  },
+  "chalice_wine_pair": {
+   "faces": 224,
+   "bbox": [
+    0.25,
+    0.107,
+    0.2
+   ]
+  },
+  "chalice_blood_horn": {
+   "faces": 132,
+   "bbox": [
+    0.256,
+    0.09,
+    0.202
+   ]
+  },
+  "serving_bone_plate": {
+   "faces": 344,
+   "bbox": [
+    0.24,
+    0.24,
+    0.032
+   ]
+  },
+  "serving_tray_goblets": {
+   "faces": 176,
+   "bbox": [
+    0.34,
+    0.34,
+    0.105
+   ]
+  },
+  "serving_candle_plate": {
+   "faces": 224,
+   "bbox": [
+    0.197,
+    0.2,
+    0.203
+   ]
+  },
+  "raven_perched": {
+   "faces": 163,
+   "bbox": [
+    0.2,
+    0.257,
+    0.19
+   ]
+  },
+  "raven_pair": {
+   "faces": 326,
+   "bbox": [
+    0.34,
+    0.257,
+    0.194
+   ]
+  },
+  "raven_skull_raven": {
+   "faces": 539,
+   "bbox": [
+    0.2,
+    0.257,
+    0.19
+   ]
+  },
+  "raven_hooded": {
+   "faces": 172,
+   "bbox": [
+    0.2,
+    0.257,
+    0.19
+   ]
+  },
+  "barrel_wine_barrel": {
+   "faces": 642,
+   "bbox": [
+    0.648,
+    0.656,
+    0.805
+   ]
+  },
+  "barrel_big_cask": {
+   "faces": 652,
+   "bbox": [
+    0.9,
+    0.99,
+    1.105
+   ]
+  },
+  "barrel_small_keg": {
+   "faces": 642,
+   "bbox": [
+    0.455,
+    0.46,
+    0.455
+   ]
+  },
+  "barrel_rune_barrel": {
+   "faces": 660,
+   "bbox": [
+    0.648,
+    0.705,
+    0.805
+   ]
+  },
+  "crate_plain": {
+   "faces": 490,
+   "bbox": [
+    0.62,
+    0.62,
+    0.62
+   ]
+  },
+  "crate_stacked": {
+   "faces": 1470,
+   "bbox": [
+    1.12,
+    0.62,
+    1.07
+   ]
+  },
+  "crate_coffin_crate": {
+   "faces": 398,
+   "bbox": [
+    0.57,
+    1.62,
+    0.42
+   ]
+  },
+  "crate_trunk": {
+   "faces": 320,
+   "bbox": [
+    0.9,
+    0.53,
+    0.696
+   ]
+  },
+  "sack_pile": {
+   "faces": 480,
+   "bbox": [
+    0.975,
+    0.551,
+    0.6
+   ]
+  },
+  "sack_single": {
+   "faces": 154,
+   "bbox": [
+    0.5,
+    0.487,
+    0.6
+   ]
+  },
+  "sack_grain": {
+   "faces": 394,
+   "bbox": [
+    0.576,
+    0.536,
+    0.662
+   ]
+  },
+  "rug_pentagram_red": {
+   "faces": 708,
+   "bbox": [
+    2.6,
+    1.8,
+    0.038
+   ]
+  },
+  "rug_runic_circle": {
+   "faces": 942,
+   "bbox": [
+    2.6,
+    1.803,
+    0.034
+   ]
+  },
+  "rug_skull_border": {
+   "faces": 8886,
+   "bbox": [
+    2.6,
+    1.8,
+    0.075
+   ]
+  },
+  "rug_blood_ring": {
+   "faces": 890,
+   "bbox": [
+    2.6,
+    1.8,
+    0.1
+   ]
+  },
+  "rug_gold_border": {
+   "faces": 606,
+   "bbox": [
+    2.6,
+    1.8,
+    0.04
+   ]
+  },
+  "rug_tattered": {
+   "faces": 390,
+   "bbox": [
+    2.6,
+    2.218,
+    0.028
+   ]
+  },
+  "rug_moon_phases": {
+   "faces": 1302,
+   "bbox": [
+    2.6,
+    1.8,
+    0.034
+   ]
+  },
+  "rug_spiral_sigil": {
+   "faces": 534,
+   "bbox": [
+    2.6,
+    1.8,
+    0.027
+   ]
+  },
+  "banner_house_red": {
+   "faces": 416,
+   "bbox": [
+    0.996,
+    0.073,
+    1.677
+   ]
+  },
+  "banner_house_purple": {
+   "faces": 416,
+   "bbox": [
+    0.996,
+    0.073,
+    1.677
+   ]
+  },
+  "banner_black_skull": {
+   "faces": 604,
+   "bbox": [
+    0.996,
+    0.211,
+    1.677
+   ]
+  },
+  "banner_gold_rune": {
+   "faces": 416,
+   "bbox": [
+    0.996,
+    0.073,
+    1.677
+   ]
+  },
+  "banner_academy_crest": {
+   "faces": 1024,
+   "bbox": [
+    0.996,
+    0.162,
+    1.677
+   ]
+  },
+  "banner_long_pennant_red": {
+   "faces": 252,
+   "bbox": [
+    0.696,
+    0.069,
+    2.276
+   ]
+  },
+  "banner_long_pennant_black": {
+   "faces": 252,
+   "bbox": [
+    0.696,
+    0.069,
+    2.276
+   ]
+  },
+  "banner_scroll_banner": {
+   "faces": 258,
+   "bbox": [
+    0.996,
+    0.068,
+    1.677
+   ]
+  },
+  "banner_hex_banner": {
+   "faces": 440,
+   "bbox": [
+    0.996,
+    0.073,
+    1.777
+   ]
+  },
+  "banner_bone_banner": {
+   "faces": 604,
+   "bbox": [
+    0.996,
+    0.211,
+    1.677
+   ]
+  },
+  "banner_torn_banner": {
+   "faces": 276,
+   "bbox": [
+    0.996,
+    0.056,
+    1.777
+   ]
+  },
+  "banner_twin_pennants": {
+   "faces": 350,
+   "bbox": [
+    0.996,
+    0.056,
+    1.777
+   ]
+  },
+  "mirror_cracked": {
+   "faces": 396,
+   "bbox": [
+    0.7,
+    0.069,
+    1.093
+   ]
+  },
+  "mirror_ornate_gold": {
+   "faces": 564,
+   "bbox": [
+    0.76,
+    0.085,
+    1.093
+   ]
+  },
+  "mirror_bone_frame": {
+   "faces": 960,
+   "bbox": [
+    0.775,
+    0.098,
+    1.285
+   ]
+  },
+  "mirror_oval_black": {
+   "faces": 576,
+   "bbox": [
+    0.74,
+    0.104,
+    1.036
+   ]
+  },
+  "mirror_skull_crowned": {
+   "faces": 773,
+   "bbox": [
+    0.7,
+    0.124,
+    1.49
+   ]
+  },
+  "clock_grandfather": {
+   "faces": 795,
+   "bbox": [
+    0.5,
+    0.325,
+    2.13
+   ]
+  },
+  "clock_wall_skull": {
+   "faces": 636,
+   "bbox": [
+    0.44,
+    0.104,
+    0.44
+   ]
+  },
+  "clock_wall_sun": {
+   "faces": 116,
+   "bbox": [
+    0.66,
+    0.057,
+    0.66
+   ]
+  },
+  "mask_plague_doctor": {
+   "faces": 300,
+   "bbox": [
+    0.24,
+    0.254,
+    0.244
+   ]
+  },
+  "mask_demon": {
+   "faces": 306,
+   "bbox": [
+    0.326,
+    0.092,
+    0.389
+   ]
+  },
+  "mask_bone_mask": {
+   "faces": 314,
+   "bbox": [
+    0.24,
+    0.1,
+    0.244
+   ]
+  },
+  "mask_venetian_black": {
+   "faces": 302,
+   "bbox": [
+    0.404,
+    0.092,
+    0.404
+   ]
+  },
+  "drapes_ragged": {
+   "faces": 1088,
+   "bbox": [
+    2.1,
+    0.14,
+    2.255
+   ]
+  },
+  "drapes_purple_heavy": {
+   "faces": 1088,
+   "bbox": [
+    2.1,
+    0.14,
+    2.255
+   ]
+  },
+  "drapes_tattered_black": {
+   "faces": 1088,
+   "bbox": [
+    2.1,
+    0.14,
+    2.255
+   ]
+  },
+  "drapes_cobweb_curtain": {
+   "faces": 1118,
+   "bbox": [
+    2.1,
+    0.14,
+    2.255
+   ]
+  },
+  "withered_plant_dead_tree_a": {
+   "faces": 466,
+   "bbox": [
+    1.661,
+    1.023,
+    2.002
+   ]
+  },
+  "withered_plant_dead_tree_b": {
+   "faces": 570,
+   "bbox": [
+    0.981,
+    1.481,
+    1.909
+   ]
+  },
+  "withered_plant_dead_tree_c": {
+   "faces": 674,
+   "bbox": [
+    1.643,
+    1.696,
+    2.271
+   ]
+  },
+  "withered_plant_thorn_pot": {
+   "faces": 517,
+   "bbox": [
+    0.492,
+    0.426,
+    1.32
+   ]
+  },
+  "withered_sprig_bone_sprout": {
+   "faces": 332,
+   "bbox": [
+    0.132,
+    0.128,
+    0.352
+   ]
+  },
+  "withered_sprig_thorn_pot_small": {
+   "faces": 38,
+   "bbox": [
+    0.143,
+    0.142,
+    0.301
+   ]
+  },
+  "withered_sprig_mushroom_cluster": {
+   "faces": 182,
+   "bbox": [
+    0.15,
+    0.125,
+    0.261
+   ]
+  },
+  "withered_sprig_black_roses": {
+   "faces": 179,
+   "bbox": [
+    0.139,
+    0.13,
+    0.3
+   ]
+  },
+  "withered_sprig_fungus_log": {
+   "faces": 220,
+   "bbox": [
+    0.149,
+    0.12,
+    0.172
+   ]
+  },
+  "student_desk_slanted": {
+   "faces": 784,
+   "bbox": [
+    1.0,
+    0.6,
+    0.857
+   ]
+  },
+  "student_desk_bone_leg": {
+   "faces": 620,
+   "bbox": [
+    1.0,
+    0.6,
+    0.798
+   ]
+  },
+  "student_desk_inkwell": {
+   "faces": 674,
+   "bbox": [
+    1.0,
+    0.6,
+    0.825
+   ]
+  },
+  "student_desk_skull_desk": {
+   "faces": 1166,
+   "bbox": [
+    1.0,
+    0.6,
+    0.863
+   ]
+  },
+  "podium_lecture_bone": {
+   "faces": 996,
+   "bbox": [
+    0.862,
+    0.647,
+    1.443
+   ]
+  },
+  "podium_lecture_stone": {
+   "faces": 480,
+   "bbox": [
+    0.9,
+    0.7,
+    1.287
+   ]
+  },
+  "podium_teacher_lectern": {
+   "faces": 338,
+   "bbox": [
+    0.6,
+    0.5,
+    1.306
+   ]
+  },
+  "blackboard_rune_slate": {
+   "faces": 256,
+   "bbox": [
+    1.7,
+    0.095,
+    1.015
+   ]
+  },
+  "blackboard_anatomy_slate": {
+   "faces": 748,
+   "bbox": [
+    1.7,
+    0.248,
+    1.015
+   ]
+  },
+  "blackboard_spell_diagram": {
+   "faces": 670,
+   "bbox": [
+    1.7,
+    0.095,
+    1.015
+   ]
+  },
+  "trophy_case_skull_trophies": {
+   "faces": 3604,
+   "bbox": [
+    1.06,
+    0.5,
+    1.86
+   ]
+  },
+  "trophy_case_relic_case": {
+   "faces": 730,
+   "bbox": [
+    1.06,
+    0.5,
+    1.86
+   ]
+  },
+  "trophy_case_grimoire_case": {
+   "faces": 2038,
+   "bbox": [
+    1.06,
+    0.721,
+    1.86
+   ]
+  },
+  "mannequin_robe_red": {
+   "faces": 326,
+   "bbox": [
+    0.789,
+    0.6,
+    1.64
+   ]
+  },
+  "mannequin_robe_black": {
+   "faces": 326,
+   "bbox": [
+    0.789,
+    0.6,
+    1.64
+   ]
+  },
+  "mannequin_robe_purple": {
+   "faces": 326,
+   "bbox": [
+    0.789,
+    0.6,
+    1.64
+   ]
+  },
+  "mannequin_armor_stand": {
+   "faces": 266,
+   "bbox": [
+    0.674,
+    0.5,
+    1.64
+   ]
+  },
+  "rack_staff_stand": {
+   "faces": 486,
+   "bbox": [
+    0.9,
+    0.3,
+    1.78
+   ]
+  },
+  "rack_scythe_rack": {
+   "faces": 469,
+   "bbox": [
+    1.349,
+    0.3,
+    2.02
+   ]
+  },
+  "rack_broom_rack": {
+   "faces": 253,
+   "bbox": [
+    0.8,
+    0.3,
+    1.501
+   ]
+  },
+  "wand_rack_wall_wands": {
+   "faces": 362,
+   "bbox": [
+    0.7,
+    0.072,
+    0.5
+   ]
+  },
+  "wand_rack_wall_daggers": {
+   "faces": 206,
+   "bbox": [
+    0.7,
+    0.073,
+    0.5
+   ]
+  },
+  "hat_stand_pointed_hats": {
+   "faces": 145,
+   "bbox": [
+    0.589,
+    0.575,
+    1.92
+   ]
+  },
+  "hat_stand_cloak_tree": {
+   "faces": 268,
+   "bbox": [
+    0.919,
+    1.4,
+    1.64
+   ]
+  },
+  "academy_misc_student_trunk": {
+   "faces": 318,
+   "bbox": [
+    0.8,
+    0.475,
+    0.625
+   ]
+  },
+  "academy_misc_bone_locker": {
+   "faces": 782,
+   "bbox": [
+    0.5,
+    0.51,
+    1.8
+   ]
+  },
+  "academy_misc_notice_board": {
+   "faces": 308,
+   "bbox": [
+    1.0,
+    0.067,
+    0.702
+   ]
+  },
+  "academy_misc_dormitory_bell": {
+   "faces": 486,
+   "bbox": [
+    0.6,
+    0.4,
+    1.595
+   ]
+  },
+  "academy_misc_summoning_stand": {
+   "faces": 594,
+   "bbox": [
+    0.8,
+    0.8,
+    0.645
+   ]
+  },
+  "academy_misc_ritual_circle_stand": {
+   "faces": 794,
+   "bbox": [
+    0.9,
+    0.9,
+    0.299
+   ]
+  },
+  "art_archlich_headmaster": {
+   "faces": 591,
+   "bbox": [
+    0.86,
+    0.095,
+    1.1
+   ]
+  },
+  "art_professor_skull": {
+   "faces": 399,
+   "bbox": [
+    0.86,
+    0.077,
+    1.1
+   ]
+  },
+  "art_raven_student": {
+   "faces": 775,
+   "bbox": [
+    0.86,
+    0.077,
+    1.139
+   ]
+  },
+  "art_skeletal_bishop": {
+   "faces": 399,
+   "bbox": [
+    0.86,
+    0.077,
+    1.1
+   ]
+  },
+  "art_bone_king": {
+   "faces": 399,
+   "bbox": [
+    0.86,
+    0.077,
+    1.1
+   ]
+  },
+  "art_hooded_scholar": {
+   "faces": 591,
+   "bbox": [
+    0.86,
+    0.095,
+    1.1
+   ]
+  },
+  "art_witch_alchemist": {
+   "faces": 399,
+   "bbox": [
+    0.86,
+    0.077,
+    1.1
+   ]
+  },
+  "art_plague_surgeon": {
+   "faces": 775,
+   "bbox": [
+    0.86,
+    0.077,
+    1.139
+   ]
+  },
+  "art_vampire_countess": {
+   "faces": 399,
+   "bbox": [
+    0.86,
+    0.077,
+    1.1
+   ]
+  },
+  "art_mourning_lady": {
+   "faces": 399,
+   "bbox": [
+    0.86,
+    0.077,
+    1.1
+   ]
+  },
+  "art_gravekeeper": {
+   "faces": 591,
+   "bbox": [
+    0.86,
+    0.095,
+    1.1
+   ]
+  },
+  "art_undead_knight": {
+   "faces": 399,
+   "bbox": [
+    0.86,
+    0.077,
+    1.1
+   ]
+  },
+  "art_sorceress_noir": {
+   "faces": 775,
+   "bbox": [
+    0.86,
+    0.077,
+    1.139
+   ]
+  },
+  "art_child_lantern": {
+   "faces": 399,
+   "bbox": [
+    0.86,
+    0.077,
+    1.1
+   ]
+  },
+  "art_ruined_cathedral": {
+   "faces": 393,
+   "bbox": [
+    1.26,
+    0.06,
+    0.98
+   ]
+  },
+  "art_graveyard_fog": {
+   "faces": 585,
+   "bbox": [
+    1.26,
+    0.095,
+    0.98
+   ]
+  },
+  "art_necropolis_cliff": {
+   "faces": 393,
+   "bbox": [
+    1.26,
+    0.06,
+    0.98
+   ]
+  },
+  "art_danse_macabre": {
+   "faces": 769,
+   "bbox": [
+    1.26,
+    0.074,
+    1.019
+   ]
+  },
+  "art_skeleton_army": {
+   "faces": 393,
+   "bbox": [
+    1.26,
+    0.06,
+    0.98
+   ]
+  },
+  "art_bone_forest": {
+   "faces": 393,
+   "bbox": [
+    1.26,
+    0.06,
+    0.98
+   ]
+  },
+  "art_haunted_manor": {
+   "faces": 585,
+   "bbox": [
+    1.26,
+    0.095,
+    0.98
+   ]
+  },
+  "art_catacomb_corridor": {
+   "faces": 393,
+   "bbox": [
+    1.26,
+    0.06,
+    0.98
+   ]
+  },
+  "art_soul_lake": {
+   "faces": 769,
+   "bbox": [
+    1.26,
+    0.074,
+    1.019
+   ]
+  },
+  "art_lightning_castle": {
+   "faces": 393,
+   "bbox": [
+    1.26,
+    0.06,
+    0.98
+   ]
+  },
+  "art_funeral_ship": {
+   "faces": 393,
+   "bbox": [
+    1.26,
+    0.06,
+    0.98
+   ]
+  },
+  "art_crow_field": {
+   "faces": 585,
+   "bbox": [
+    1.26,
+    0.095,
+    0.98
+   ]
+  },
+  "art_academy_panorama": {
+   "faces": 399,
+   "bbox": [
+    1.84,
+    0.077,
+    1.1
+   ]
+  },
+  "art_great_hall_feast": {
+   "faces": 775,
+   "bbox": [
+    1.84,
+    0.077,
+    1.139
+   ]
+  },
+  "art_skull_candles_still": {
+   "faces": 393,
+   "bbox": [
+    0.96,
+    0.06,
+    0.96
+   ]
+  },
+  "art_alchemist_table": {
+   "faces": 393,
+   "bbox": [
+    0.96,
+    0.06,
+    0.96
+   ]
+  },
+  "art_glowing_grimoire": {
+   "faces": 585,
+   "bbox": [
+    0.96,
+    0.095,
+    0.96
+   ]
+  },
+  "art_hourglass_vanitas": {
+   "faces": 393,
+   "bbox": [
+    0.96,
+    0.06,
+    0.96
+   ]
+  },
+  "art_ritual_circle_top": {
+   "faces": 769,
+   "bbox": [
+    0.96,
+    0.074,
+    0.999
+   ]
+  },
+  "art_star_chart": {
+   "faces": 393,
+   "bbox": [
+    0.96,
+    0.06,
+    0.96
+   ]
+  },
+  "art_anatomy_study": {
+   "faces": 393,
+   "bbox": [
+    0.96,
+    0.06,
+    0.96
+   ]
+  },
+  "art_ouroboros_sigil": {
+   "faces": 585,
+   "bbox": [
+    0.96,
+    0.095,
+    0.96
+   ]
+  },
+  "art_moon_phases": {
+   "faces": 393,
+   "bbox": [
+    0.96,
+    0.06,
+    0.96
+   ]
+  },
+  "art_tree_of_death": {
+   "faces": 769,
+   "bbox": [
+    0.96,
+    0.074,
+    0.999
+   ]
+  },
+  "art_tapestry_reaper": {
+   "faces": 161,
+   "bbox": [
+    1.12,
+    0.06,
+    1.72
+   ]
+  },
+  "art_tapestry_skeleton_ranks": {
+   "faces": 161,
+   "bbox": [
+    1.12,
+    0.06,
+    1.72
+   ]
+  },
+  "art_tapestry_raven_heraldry": {
+   "faces": 161,
+   "bbox": [
+    1.12,
+    0.06,
+    1.72
+   ]
+  },
+  "art_tapestry_dragon_skull": {
+   "faces": 161,
+   "bbox": [
+    1.12,
+    0.06,
+    1.72
+   ]
+  },
+  "art_tapestry_ritual": {
+   "faces": 161,
+   "bbox": [
+    1.12,
+    0.06,
+    1.72
+   ]
+  },
+  "art_tapestry_bone_tree": {
+   "faces": 161,
+   "bbox": [
+    1.12,
+    0.06,
+    1.72
+   ]
+  },
+  "art_tapestry_council": {
+   "faces": 161,
+   "bbox": [
+    1.12,
+    0.06,
+    1.72
+   ]
+  },
+  "art_tapestry_funeral": {
+   "faces": 161,
+   "bbox": [
+    1.12,
+    0.06,
+    1.72
+   ]
+  },
+  "art_glass_skeleton_angel": {
+   "faces": 399,
+   "bbox": [
+    0.82,
+    0.1,
+    1.37
+   ]
+  },
+  "art_glass_skull_rose": {
+   "faces": 399,
+   "bbox": [
+    0.82,
+    0.1,
+    1.37
+   ]
+  },
+  "art_glass_raven_sunset": {
+   "faces": 399,
+   "bbox": [
+    0.82,
+    0.1,
+    1.37
+   ]
+  },
+  "art_glass_hooded_lantern": {
+   "faces": 399,
+   "bbox": [
+    0.82,
+    0.1,
+    1.37
+   ]
+  },
+  "fireplace_stone_hearth": {
+   "faces": 988,
+   "bbox": [
+    2.0,
+    0.85,
+    2.45
+   ]
+  },
+  "fireplace_arch_hearth": {
+   "faces": 1273,
+   "bbox": [
+    2.0,
+    0.85,
+    2.45
+   ]
+  },
+  "fireplace_bone_hearth": {
+   "faces": 3344,
+   "bbox": [
+    2.0,
+    0.85,
+    2.45
+   ]
+  },
+  "fireplace_grand_hearth": {
+   "faces": 1500,
+   "bbox": [
+    2.8,
+    0.945,
+    2.45
+   ]
+  },
+  "wall_bookcase_oak": {
+   "faces": 22746,
+   "bbox": [
+    2.58,
+    0.405,
+    2.39
+   ]
+  },
+  "wall_bookcase_arched": {
+   "faces": 21777,
+   "bbox": [
+    2.58,
+    0.38,
+    2.594
+   ]
+  },
+  "wall_bookcase_locked": {
+   "faces": 21428,
+   "bbox": [
+    2.58,
+    0.41,
+    2.39
+   ]
+  },
+  "kneeler_cushioned": {
+   "faces": 392,
+   "bbox": [
+    0.9,
+    0.44,
+    0.96
+   ]
+  },
+  "kneeler_bone": {
+   "faces": 938,
+   "bbox": [
+    0.9,
+    0.445,
+    0.89
+   ]
+  },
+  "grand_candelabra_tall_iron": {
+   "faces": 958,
+   "bbox": [
+    0.668,
+    0.681,
+    2.249
+   ]
+  },
+  "grand_candelabra_twin_skull": {
+   "faces": 1470,
+   "bbox": [
+    0.686,
+    0.61,
+    2.249
+   ]
+  },
+  "window_deco_stained_angel": {
+   "faces": 1753,
+   "bbox": [
+    1.78,
+    0.21,
+    2.169
+   ]
+  },
+  "window_deco_stained_rose": {
+   "faces": 1753,
+   "bbox": [
+    1.78,
+    0.21,
+    2.169
+   ]
+  },
+  "window_deco_stained_raven": {
+   "faces": 1753,
+   "bbox": [
+    1.78,
+    0.21,
+    2.169
+   ]
+  },
+  "window_deco_stained_lantern": {
+   "faces": 1753,
+   "bbox": [
+    1.78,
+    0.21,
+    2.169
+   ]
+  }
+ },
+ "failed": {},
+ "placeholder": []
+}

@@ -1,0 +1,6195 @@
+{
+ "bed_pod": {
+  "file": "bed_pod.glb",
+  "source": "blender-mcp",
+  "bbox": [
+   1.6,
+   2.05,
+   1.45
+  ],
+  "cat": "sleep",
+  "place": "floor",
+  "tags": [
+   "bed",
+   "headwall"
+  ],
+  "as": "bed",
+  "label": "Pod"
+ },
+ "bed_float": {
+  "file": "bed_float.glb",
+  "source": "blender-mcp",
+  "bbox": [
+   1.6,
+   2.05,
+   1.2
+  ],
+  "cat": "sleep",
+  "place": "floor",
+  "tags": [
+   "bed",
+   "headwall"
+  ],
+  "as": "bed",
+  "label": "Float"
+ },
+ "bed_ribbed": {
+  "file": "bed_ribbed.glb",
+  "source": "blender-mcp",
+  "bbox": [
+   1.6,
+   2.05,
+   1.4
+  ],
+  "cat": "sleep",
+  "place": "floor",
+  "tags": [
+   "bed",
+   "headwall"
+  ],
+  "as": "bed",
+  "label": "Ribbed"
+ },
+ "bed_capsule": {
+  "file": "bed_capsule.glb",
+  "source": "blender-mcp",
+  "bbox": [
+   1.6,
+   2.08,
+   1.258
+  ],
+  "cat": "sleep",
+  "place": "floor",
+  "tags": [
+   "bed",
+   "headwall"
+  ],
+  "as": "bed",
+  "label": "Capsule"
+ },
+ "bed_bunk_cot": {
+  "file": "bed_bunk_cot.glb",
+  "source": "blender-mcp",
+  "bbox": [
+   1.6,
+   2.05,
+   0.65
+  ],
+  "cat": "sleep",
+  "place": "floor",
+  "tags": [
+   "bed",
+   "headwall"
+  ],
+  "as": "bed",
+  "label": "Bunk Cot"
+ },
+ "bed_hex": {
+  "file": "bed_hex.glb",
+  "source": "blender-mcp",
+  "bbox": [
+   1.58,
+   2.05,
+   1.2
+  ],
+  "cat": "sleep",
+  "place": "floor",
+  "tags": [
+   "bed",
+   "headwall"
+  ],
+  "as": "bed",
+  "label": "Hex"
+ },
+ "nightstand_cube": {
+  "file": "nightstand_cube.glb",
+  "source": "blender-mcp",
+  "bbox": [
+   0.45,
+   0.414,
+   0.5
+  ],
+  "cat": "storage",
+  "place": "floor",
+  "tags": [
+   "holds-decor",
+   "beside"
+  ],
+  "as": "nightstand",
+  "label": "Cube"
+ },
+ "nightstand_drum": {
+  "file": "nightstand_drum.glb",
+  "source": "blender-mcp",
+  "bbox": [
+   0.46,
+   0.46,
+   0.5
+  ],
+  "cat": "storage",
+  "place": "floor",
+  "tags": [
+   "holds-decor",
+   "beside"
+  ],
+  "as": "nightstand",
+  "label": "Drum"
+ },
+ "nightstand_floating": {
+  "file": "nightstand_floating.glb",
+  "source": "blender-mcp",
+  "bbox": [
+   0.45,
+   0.41,
+   0.45
+  ],
+  "cat": "storage",
+  "place": "floor",
+  "tags": [
+   "holds-decor",
+   "beside"
+  ],
+  "as": "nightstand",
+  "label": "Floating"
+ },
+ "nightstand_tower": {
+  "file": "nightstand_tower.glb",
+  "source": "blender-mcp",
+  "bbox": [
+   0.4,
+   0.38,
+   0.58
+  ],
+  "cat": "storage",
+  "place": "floor",
+  "tags": [
+   "holds-decor",
+   "beside"
+  ],
+  "as": "nightstand",
+  "label": "Tower"
+ },
+ "nightstand_charger": {
+  "file": "nightstand_charger.glb",
+  "source": "blender-mcp",
+  "bbox": [
+   0.45,
+   0.41,
+   0.48
+  ],
+  "cat": "storage",
+  "place": "floor",
+  "tags": [
+   "holds-decor",
+   "beside"
+  ],
+  "as": "nightstand",
+  "label": "Charger"
+ },
+ "wardrobe_locker_wall": {
+  "file": "wardrobe_locker_wall.glb",
+  "source": "blender-mcp",
+  "bbox": [
+   1.3,
+   0.665,
+   2.1
+  ],
+  "cat": "storage",
+  "place": "floor",
+  "tags": [
+   "storage",
+   "wall-hug",
+   "tall"
+  ],
+  "as": "wardrobe",
+  "label": "Locker Wall"
+ },
+ "wardrobe_sliding": {
+  "file": "wardrobe_sliding.glb",
+  "source": "blender-mcp",
+  "bbox": [
+   1.39,
+   0.7,
+   2.1
+  ],
+  "cat": "storage",
+  "place": "floor",
+  "tags": [
+   "storage",
+   "wall-hug",
+   "tall"
+  ],
+  "as": "wardrobe",
+  "label": "Sliding"
+ },
+ "wardrobe_ribbed": {
+  "file": "wardrobe_ribbed.glb",
+  "source": "blender-mcp",
+  "bbox": [
+   1.3,
+   0.646,
+   2.1
+  ],
+  "cat": "storage",
+  "place": "floor",
+  "tags": [
+   "storage",
+   "wall-hug",
+   "tall"
+  ],
+  "as": "wardrobe",
+  "label": "Ribbed"
+ },
+ "wardrobe_cabinet_tall": {
+  "file": "wardrobe_cabinet_tall.glb",
+  "source": "blender-mcp",
+  "bbox": [
+   1.3,
+   0.665,
+   2.1
+  ],
+  "cat": "storage",
+  "place": "floor",
+  "tags": [
+   "storage",
+   "wall-hug",
+   "tall"
+  ],
+  "as": "wardrobe",
+  "label": "Cabinet Tall"
+ },
+ "wardrobe_airlock_closet": {
+  "file": "wardrobe_airlock_closet.glb",
+  "source": "blender-mcp",
+  "bbox": [
+   1.3,
+   0.705,
+   2.1
+  ],
+  "cat": "storage",
+  "place": "floor",
+  "tags": [
+   "storage",
+   "wall-hug",
+   "tall"
+  ],
+  "as": "wardrobe",
+  "label": "Airlock Closet"
+ },
+ "dresser_drawer_stack": {
+  "file": "dresser_drawer_stack.glb",
+  "source": "blender-mcp",
+  "bbox": [
+   1.2,
+   0.486,
+   0.86
+  ],
+  "cat": "storage",
+  "place": "floor",
+  "tags": [
+   "storage",
+   "wall-hug",
+   "holds-decor"
+  ],
+  "as": "dresser",
+  "label": "Drawer Stack"
+ },
+ "dresser_crate_low": {
+  "file": "dresser_crate_low.glb",
+  "source": "blender-mcp",
+  "bbox": [
+   1.2,
+   0.486,
+   0.85
+  ],
+  "cat": "storage",
+  "place": "floor",
+  "tags": [
+   "storage",
+   "wall-hug",
+   "holds-decor"
+  ],
+  "as": "dresser",
+  "label": "Crate Low"
+ },
+ "dresser_console_chest": {
+  "file": "dresser_console_chest.glb",
+  "source": "blender-mcp",
+  "bbox": [
+   1.2,
+   0.486,
+   1.0
+  ],
+  "cat": "storage",
+  "place": "floor",
+  "tags": [
+   "storage",
+   "wall-hug",
+   "holds-decor"
+  ],
+  "as": "dresser",
+  "label": "Console Chest"
+ },
+ "dresser_modular": {
+  "file": "dresser_modular.glb",
+  "source": "blender-mcp",
+  "bbox": [
+   1.18,
+   0.486,
+   0.85
+  ],
+  "cat": "storage",
+  "place": "floor",
+  "tags": [
+   "storage",
+   "wall-hug",
+   "holds-decor"
+  ],
+  "as": "dresser",
+  "label": "Modular"
+ },
+ "sofa_modular": {
+  "file": "sofa_modular.glb",
+  "source": "blender-mcp",
+  "bbox": [
+   2.1,
+   0.95,
+   0.8
+  ],
+  "cat": "seating",
+  "place": "floor",
+  "tags": [
+   "seating",
+   "faces-center"
+  ],
+  "as": "sofa",
+  "label": "Modular"
+ },
+ "sofa_curved": {
+  "file": "sofa_curved.glb",
+  "source": "blender-mcp",
+  "bbox": [
+   2.46,
+   2.448,
+   0.66
+  ],
+  "cat": "seating",
+  "place": "floor",
+  "tags": [
+   "seating",
+   "faces-center"
+  ],
+  "as": "sofa",
+  "label": "Curved"
+ },
+ "sofa_lounge_low": {
+  "file": "sofa_lounge_low.glb",
+  "source": "blender-mcp",
+  "bbox": [
+   2.1,
+   0.95,
+   0.55
+  ],
+  "cat": "seating",
+  "place": "floor",
+  "tags": [
+   "seating",
+   "faces-center"
+  ],
+  "as": "sofa",
+  "label": "Lounge Low"
+ },
+ "sofa_pod_pair": {
+  "file": "sofa_pod_pair.glb",
+  "source": "blender-mcp",
+  "bbox": [
+   1.94,
+   0.85,
+   0.954
+  ],
+  "cat": "seating",
+  "place": "floor",
+  "tags": [
+   "seating",
+   "faces-center"
+  ],
+  "as": "sofa",
+  "label": "Pod Pair"
+ },
+ "sofa_tufted_chrome": {
+  "file": "sofa_tufted_chrome.glb",
+  "source": "blender-mcp",
+  "bbox": [
+   2.1,
+   0.95,
+   0.88
+  ],
+  "cat": "seating",
+  "place": "floor",
+  "tags": [
+   "seating",
+   "faces-center"
+  ],
+  "as": "sofa",
+  "label": "Tufted Chrome"
+ },
+ "sofa_bench_sofa": {
+  "file": "sofa_bench_sofa.glb",
+  "source": "blender-mcp",
+  "bbox": [
+   2.1,
+   0.65,
+   0.82
+  ],
+  "cat": "seating",
+  "place": "floor",
+  "tags": [
+   "seating",
+   "faces-center"
+  ],
+  "as": "sofa",
+  "label": "Bench Sofa"
+ },
+ "armchair_egg": {
+  "file": "armchair_egg.glb",
+  "source": "blender-mcp",
+  "bbox": [
+   0.84,
+   0.88,
+   0.97
+  ],
+  "cat": "seating",
+  "place": "floor",
+  "tags": [
+   "seating",
+   "faces-center"
+  ],
+  "as": "armchair",
+  "label": "Egg"
+ },
+ "armchair_recliner": {
+  "file": "armchair_recliner.glb",
+  "source": "blender-mcp",
+  "bbox": [
+   0.86,
+   1.025,
+   0.9
+  ],
+  "cat": "seating",
+  "place": "floor",
+  "tags": [
+   "seating",
+   "faces-center"
+  ],
+  "as": "armchair",
+  "label": "Recliner"
+ },
+ "armchair_cube": {
+  "file": "armchair_cube.glb",
+  "source": "blender-mcp",
+  "bbox": [
+   0.86,
+   0.865,
+   0.85
+  ],
+  "cat": "seating",
+  "place": "floor",
+  "tags": [
+   "seating",
+   "faces-center"
+  ],
+  "as": "armchair",
+  "label": "Cube"
+ },
+ "armchair_swivel_pod": {
+  "file": "armchair_swivel_pod.glb",
+  "source": "blender-mcp",
+  "bbox": [
+   0.84,
+   0.8,
+   1.25
+  ],
+  "cat": "seating",
+  "place": "floor",
+  "tags": [
+   "seating",
+   "faces-center"
+  ],
+  "as": "armchair",
+  "label": "Swivel Pod"
+ },
+ "armchair_gaming": {
+  "file": "armchair_gaming.glb",
+  "source": "blender-mcp",
+  "bbox": [
+   0.67,
+   0.675,
+   1.2
+  ],
+  "cat": "seating",
+  "place": "floor",
+  "tags": [
+   "seating",
+   "faces-center"
+  ],
+  "as": "armchair",
+  "label": "Gaming"
+ },
+ "armchair_lounger": {
+  "file": "armchair_lounger.glb",
+  "source": "blender-mcp",
+  "bbox": [
+   0.8,
+   0.865,
+   0.87
+  ],
+  "cat": "seating",
+  "place": "floor",
+  "tags": [
+   "seating",
+   "faces-center"
+  ],
+  "as": "armchair",
+  "label": "Lounger"
+ },
+ "dining_chair_shell": {
+  "file": "dining_chair_shell.glb",
+  "source": "blender-mcp",
+  "bbox": [
+   0.438,
+   0.43,
+   0.92
+  ],
+  "cat": "seating",
+  "place": "floor",
+  "tags": [
+   "seating",
+   "chair"
+  ],
+  "as": "dining_chair",
+  "label": "Shell"
+ },
+ "dining_chair_stool_back": {
+  "file": "dining_chair_stool_back.glb",
+  "source": "blender-mcp",
+  "bbox": [
+   0.45,
+   0.45,
+   0.92
+  ],
+  "cat": "seating",
+  "place": "floor",
+  "tags": [
+   "seating",
+   "chair"
+  ],
+  "as": "dining_chair",
+  "label": "Stool Back"
+ },
+ "dining_chair_wire": {
+  "file": "dining_chair_wire.glb",
+  "source": "blender-mcp",
+  "bbox": [
+   0.421,
+   0.426,
+   0.912
+  ],
+  "cat": "seating",
+  "place": "floor",
+  "tags": [
+   "seating",
+   "chair"
+  ],
+  "as": "dining_chair",
+  "label": "Wire"
+ },
+ "dining_chair_block": {
+  "file": "dining_chair_block.glb",
+  "source": "blender-mcp",
+  "bbox": [
+   0.45,
+   0.477,
+   0.93
+  ],
+  "cat": "seating",
+  "place": "floor",
+  "tags": [
+   "seating",
+   "chair"
+  ],
+  "as": "dining_chair",
+  "label": "Block"
+ },
+ "dining_chair_ribbed": {
+  "file": "dining_chair_ribbed.glb",
+  "source": "blender-mcp",
+  "bbox": [
+   0.44,
+   0.44,
+   1.0
+  ],
+  "cat": "seating",
+  "place": "floor",
+  "tags": [
+   "seating",
+   "chair"
+  ],
+  "as": "dining_chair",
+  "label": "Ribbed"
+ },
+ "dining_chair_hover": {
+  "file": "dining_chair_hover.glb",
+  "source": "blender-mcp",
+  "bbox": [
+   0.44,
+   0.46,
+   0.92
+  ],
+  "cat": "seating",
+  "place": "floor",
+  "tags": [
+   "seating",
+   "chair"
+  ],
+  "as": "dining_chair",
+  "label": "Hover"
+ },
+ "office_chair_task": {
+  "file": "office_chair_task.glb",
+  "source": "blender-mcp",
+  "bbox": [
+   0.606,
+   0.593,
+   1.205
+  ],
+  "cat": "seating",
+  "place": "floor",
+  "tags": [
+   "seating",
+   "chair"
+  ],
+  "as": "office_chair",
+  "label": "Task"
+ },
+ "office_chair_command": {
+  "file": "office_chair_command.glb",
+  "source": "blender-mcp",
+  "bbox": [
+   0.934,
+   0.626,
+   1.405
+  ],
+  "cat": "seating",
+  "place": "floor",
+  "tags": [
+   "seating",
+   "chair"
+  ],
+  "as": "office_chair",
+  "label": "Command"
+ },
+ "office_chair_mesh_high": {
+  "file": "office_chair_mesh_high.glb",
+  "source": "blender-mcp",
+  "bbox": [
+   0.558,
+   0.606,
+   1.515
+  ],
+  "cat": "seating",
+  "place": "floor",
+  "tags": [
+   "seating",
+   "chair"
+  ],
+  "as": "office_chair",
+  "label": "Mesh High"
+ },
+ "office_chair_stool_swivel": {
+  "file": "office_chair_stool_swivel.glb",
+  "source": "blender-mcp",
+  "bbox": [
+   0.586,
+   0.593,
+   0.625
+  ],
+  "cat": "seating",
+  "place": "floor",
+  "tags": [
+   "seating",
+   "chair"
+  ],
+  "as": "office_chair",
+  "label": "Stool Swivel"
+ },
+ "bench_slab": {
+  "file": "bench_slab.glb",
+  "source": "blender-mcp",
+  "bbox": [
+   1.2,
+   0.4,
+   0.46
+  ],
+  "cat": "seating",
+  "place": "floor",
+  "tags": [
+   "seating",
+   "wall-hug"
+  ],
+  "as": "bench",
+  "label": "Slab"
+ },
+ "bench_locker_room": {
+  "file": "bench_locker_room.glb",
+  "source": "blender-mcp",
+  "bbox": [
+   1.2,
+   0.4,
+   0.455
+  ],
+  "cat": "seating",
+  "place": "floor",
+  "tags": [
+   "seating",
+   "wall-hug"
+  ],
+  "as": "bench",
+  "label": "Locker Room"
+ },
+ "bench_cushioned": {
+  "file": "bench_cushioned.glb",
+  "source": "blender-mcp",
+  "bbox": [
+   1.2,
+   0.4,
+   0.46
+  ],
+  "cat": "seating",
+  "place": "floor",
+  "tags": [
+   "seating",
+   "wall-hug"
+  ],
+  "as": "bench",
+  "label": "Cushioned"
+ },
+ "bench_lit_block": {
+  "file": "bench_lit_block.glb",
+  "source": "blender-mcp",
+  "bbox": [
+   1.2,
+   0.4,
+   0.49
+  ],
+  "cat": "seating",
+  "place": "floor",
+  "tags": [
+   "seating",
+   "wall-hug"
+  ],
+  "as": "bench",
+  "label": "Lit Block"
+ },
+ "bench_airlock": {
+  "file": "bench_airlock.glb",
+  "source": "blender-mcp",
+  "bbox": [
+   1.2,
+   0.433,
+   0.5
+  ],
+  "cat": "seating",
+  "place": "floor",
+  "tags": [
+   "seating",
+   "wall-hug"
+  ],
+  "as": "bench",
+  "label": "Airlock"
+ },
+ "ottoman_puck": {
+  "file": "ottoman_puck.glb",
+  "source": "blender-mcp",
+  "bbox": [
+   0.616,
+   0.616,
+   0.35
+  ],
+  "cat": "seating",
+  "place": "floor",
+  "tags": [
+   "seating"
+  ],
+  "as": "ottoman",
+  "label": "Puck"
+ },
+ "ottoman_cube_glow": {
+  "file": "ottoman_cube_glow.glb",
+  "source": "blender-mcp",
+  "bbox": [
+   0.6,
+   0.6,
+   0.46
+  ],
+  "cat": "seating",
+  "place": "floor",
+  "tags": [
+   "seating"
+  ],
+  "as": "ottoman",
+  "label": "Cube Glow"
+ },
+ "ottoman_pouf": {
+  "file": "ottoman_pouf.glb",
+  "source": "blender-mcp",
+  "bbox": [
+   0.6,
+   0.6,
+   0.45
+  ],
+  "cat": "seating",
+  "place": "floor",
+  "tags": [
+   "seating"
+  ],
+  "as": "ottoman",
+  "label": "Pouf"
+ },
+ "dining_table_slab": {
+  "file": "dining_table_slab.glb",
+  "source": "blender-mcp",
+  "bbox": [
+   1.8,
+   0.951,
+   0.75
+  ],
+  "cat": "table",
+  "place": "floor",
+  "tags": [
+   "table",
+   "holds-decor",
+   "center"
+  ],
+  "as": "dining_table",
+  "label": "Slab"
+ },
+ "dining_table_pedestal": {
+  "file": "dining_table_pedestal.glb",
+  "source": "blender-mcp",
+  "bbox": [
+   1.8,
+   0.95,
+   0.75
+  ],
+  "cat": "table",
+  "place": "floor",
+  "tags": [
+   "table",
+   "holds-decor",
+   "center"
+  ],
+  "as": "dining_table",
+  "label": "Pedestal"
+ },
+ "dining_table_holo_ring": {
+  "file": "dining_table_holo_ring.glb",
+  "source": "blender-mcp",
+  "bbox": [
+   1.8,
+   0.95,
+   1.04
+  ],
+  "cat": "table",
+  "place": "floor",
+  "tags": [
+   "table",
+   "holds-decor",
+   "center"
+  ],
+  "as": "dining_table",
+  "label": "Holo Ring"
+ },
+ "dining_table_mess_hall": {
+  "file": "dining_table_mess_hall.glb",
+  "source": "blender-mcp",
+  "bbox": [
+   1.8,
+   0.956,
+   0.77
+  ],
+  "cat": "table",
+  "place": "floor",
+  "tags": [
+   "table",
+   "holds-decor",
+   "center"
+  ],
+  "as": "dining_table",
+  "label": "Mess Hall"
+ },
+ "dining_table_glass_top": {
+  "file": "dining_table_glass_top.glb",
+  "source": "blender-mcp",
+  "bbox": [
+   1.8,
+   0.95,
+   0.75
+  ],
+  "cat": "table",
+  "place": "floor",
+  "tags": [
+   "table",
+   "holds-decor",
+   "center"
+  ],
+  "as": "dining_table",
+  "label": "Glass Top"
+ },
+ "desk_console": {
+  "file": "desk_console.glb",
+  "source": "blender-mcp",
+  "bbox": [
+   1.4,
+   0.701,
+   1.11
+  ],
+  "cat": "table",
+  "place": "floor",
+  "tags": [
+   "table",
+   "holds-decor",
+   "wall-hug",
+   "desk"
+  ],
+  "as": "desk",
+  "label": "Console"
+ },
+ "desk_drafting": {
+  "file": "desk_drafting.glb",
+  "source": "blender-mcp",
+  "bbox": [
+   1.4,
+   0.701,
+   0.779
+  ],
+  "cat": "table",
+  "place": "floor",
+  "tags": [
+   "table",
+   "holds-decor",
+   "wall-hug",
+   "desk"
+  ],
+  "as": "desk",
+  "label": "Drafting"
+ },
+ "desk_corner_tech": {
+  "file": "desk_corner_tech.glb",
+  "source": "blender-mcp",
+  "bbox": [
+   1.4,
+   0.701,
+   1.07
+  ],
+  "cat": "table",
+  "place": "floor",
+  "tags": [
+   "table",
+   "holds-decor",
+   "wall-hug",
+   "desk"
+  ],
+  "as": "desk",
+  "label": "Corner Tech"
+ },
+ "desk_floating": {
+  "file": "desk_floating.glb",
+  "source": "blender-mcp",
+  "bbox": [
+   1.4,
+   0.7,
+   1.198
+  ],
+  "cat": "table",
+  "place": "floor",
+  "tags": [
+   "table",
+   "holds-decor",
+   "wall-hug",
+   "desk"
+  ],
+  "as": "desk",
+  "label": "Floating"
+ },
+ "desk_terminal": {
+  "file": "desk_terminal.glb",
+  "source": "blender-mcp",
+  "bbox": [
+   1.4,
+   0.7,
+   1.3
+  ],
+  "cat": "table",
+  "place": "floor",
+  "tags": [
+   "table",
+   "holds-decor",
+   "wall-hug",
+   "desk"
+  ],
+  "as": "desk",
+  "label": "Terminal"
+ },
+ "desk_workbench": {
+  "file": "desk_workbench.glb",
+  "source": "blender-mcp",
+  "bbox": [
+   1.4,
+   0.701,
+   1.15
+  ],
+  "cat": "table",
+  "place": "floor",
+  "tags": [
+   "table",
+   "holds-decor",
+   "wall-hug",
+   "desk"
+  ],
+  "as": "desk",
+  "label": "Workbench"
+ },
+ "coffee_table_glass_ring": {
+  "file": "coffee_table_glass_ring.glb",
+  "source": "blender-mcp",
+  "bbox": [
+   0.83,
+   0.83,
+   0.42
+  ],
+  "cat": "table",
+  "place": "floor",
+  "tags": [
+   "table",
+   "holds-decor",
+   "center"
+  ],
+  "as": "coffee_table",
+  "label": "Glass Ring"
+ },
+ "coffee_table_monolith": {
+  "file": "coffee_table_monolith.glb",
+  "source": "blender-mcp",
+  "bbox": [
+   1.06,
+   0.66,
+   0.42
+  ],
+  "cat": "table",
+  "place": "floor",
+  "tags": [
+   "table",
+   "holds-decor",
+   "center"
+  ],
+  "as": "coffee_table",
+  "label": "Monolith"
+ },
+ "coffee_table_hover_disc": {
+  "file": "coffee_table_hover_disc.glb",
+  "source": "blender-mcp",
+  "bbox": [
+   0.8,
+   0.8,
+   0.4
+  ],
+  "cat": "table",
+  "place": "floor",
+  "tags": [
+   "table",
+   "holds-decor",
+   "center"
+  ],
+  "as": "coffee_table",
+  "label": "Hover Disc"
+ },
+ "coffee_table_nested": {
+  "file": "coffee_table_nested.glb",
+  "source": "blender-mcp",
+  "bbox": [
+   1.0,
+   0.606,
+   0.42
+  ],
+  "cat": "table",
+  "place": "floor",
+  "tags": [
+   "table",
+   "holds-decor",
+   "center"
+  ],
+  "as": "coffee_table",
+  "label": "Nested"
+ },
+ "side_table_cylinder": {
+  "file": "side_table_cylinder.glb",
+  "source": "blender-mcp",
+  "bbox": [
+   0.46,
+   0.46,
+   0.55
+  ],
+  "cat": "table",
+  "place": "floor",
+  "tags": [
+   "table",
+   "holds-decor",
+   "beside"
+  ],
+  "as": "side_table",
+  "label": "Cylinder"
+ },
+ "side_table_cube_pad": {
+  "file": "side_table_cube_pad.glb",
+  "source": "blender-mcp",
+  "bbox": [
+   0.45,
+   0.45,
+   0.57
+  ],
+  "cat": "table",
+  "place": "floor",
+  "tags": [
+   "table",
+   "holds-decor",
+   "beside"
+  ],
+  "as": "side_table",
+  "label": "Cube Pad"
+ },
+ "side_table_tripod": {
+  "file": "side_table_tripod.glb",
+  "source": "blender-mcp",
+  "bbox": [
+   0.529,
+   0.51,
+   0.676
+  ],
+  "cat": "table",
+  "place": "floor",
+  "tags": [
+   "table",
+   "holds-decor",
+   "beside"
+  ],
+  "as": "side_table",
+  "label": "Tripod"
+ },
+ "side_table_terminal_stand": {
+  "file": "side_table_terminal_stand.glb",
+  "source": "blender-mcp",
+  "bbox": [
+   0.45,
+   0.45,
+   0.7
+  ],
+  "cat": "table",
+  "place": "floor",
+  "tags": [
+   "table",
+   "holds-decor",
+   "beside"
+  ],
+  "as": "side_table",
+  "label": "Terminal Stand"
+ },
+ "tv_unit_wall_screen": {
+  "file": "tv_unit_wall_screen.glb",
+  "source": "blender-mcp",
+  "bbox": [
+   1.6,
+   0.431,
+   1.2
+  ],
+  "cat": "media",
+  "place": "floor",
+  "tags": [
+   "media",
+   "wall-hug",
+   "faces-center",
+   "focal"
+  ],
+  "as": "tv_unit",
+  "label": "Wall Screen"
+ },
+ "tv_unit_media_console": {
+  "file": "tv_unit_media_console.glb",
+  "source": "blender-mcp",
+  "bbox": [
+   1.6,
+   0.438,
+   1.08
+  ],
+  "cat": "media",
+  "place": "floor",
+  "tags": [
+   "media",
+   "wall-hug",
+   "faces-center",
+   "focal"
+  ],
+  "as": "tv_unit",
+  "label": "Media Console"
+ },
+ "tv_unit_holo_stand": {
+  "file": "tv_unit_holo_stand.glb",
+  "source": "blender-mcp",
+  "bbox": [
+   1.6,
+   0.58,
+   1.232
+  ],
+  "cat": "media",
+  "place": "floor",
+  "tags": [
+   "media",
+   "wall-hug",
+   "faces-center",
+   "focal"
+  ],
+  "as": "tv_unit",
+  "label": "Holo Stand"
+ },
+ "bookshelf_data_rack": {
+  "file": "bookshelf_data_rack.glb",
+  "source": "blender-mcp",
+  "bbox": [
+   0.95,
+   0.32,
+   1.9
+  ],
+  "cat": "storage",
+  "place": "floor",
+  "tags": [
+   "storage",
+   "wall-hug",
+   "holds-decor"
+  ],
+  "as": "bookshelf",
+  "label": "Data Rack"
+ },
+ "bookshelf_open_grid": {
+  "file": "bookshelf_open_grid.glb",
+  "source": "blender-mcp",
+  "bbox": [
+   0.95,
+   0.32,
+   1.9
+  ],
+  "cat": "storage",
+  "place": "floor",
+  "tags": [
+   "storage",
+   "wall-hug",
+   "holds-decor"
+  ],
+  "as": "bookshelf",
+  "label": "Open Grid"
+ },
+ "bookshelf_archive_wall": {
+  "file": "bookshelf_archive_wall.glb",
+  "source": "blender-mcp",
+  "bbox": [
+   0.95,
+   0.32,
+   1.9
+  ],
+  "cat": "storage",
+  "place": "floor",
+  "tags": [
+   "storage",
+   "wall-hug",
+   "holds-decor"
+  ],
+  "as": "bookshelf",
+  "label": "Archive Wall"
+ },
+ "bookshelf_slot_tower": {
+  "file": "bookshelf_slot_tower.glb",
+  "source": "blender-mcp",
+  "bbox": [
+   0.95,
+   0.32,
+   1.9
+  ],
+  "cat": "storage",
+  "place": "floor",
+  "tags": [
+   "storage",
+   "wall-hug",
+   "holds-decor"
+  ],
+  "as": "bookshelf",
+  "label": "Slot Tower"
+ },
+ "bookshelf_crate_shelf": {
+  "file": "bookshelf_crate_shelf.glb",
+  "source": "blender-mcp",
+  "bbox": [
+   0.95,
+   0.32,
+   1.9
+  ],
+  "cat": "storage",
+  "place": "floor",
+  "tags": [
+   "storage",
+   "wall-hug",
+   "holds-decor"
+  ],
+  "as": "bookshelf",
+  "label": "Crate Shelf"
+ },
+ "fridge_cryo_unit": {
+  "file": "fridge_cryo_unit.glb",
+  "source": "blender-mcp",
+  "bbox": [
+   0.72,
+   0.736,
+   1.85
+  ],
+  "cat": "kitchen",
+  "place": "floor",
+  "tags": [
+   "kitchen",
+   "wall-hug",
+   "tall"
+  ],
+  "as": "fridge",
+  "label": "Cryo Unit"
+ },
+ "fridge_slab_steel": {
+  "file": "fridge_slab_steel.glb",
+  "source": "blender-mcp",
+  "bbox": [
+   0.72,
+   0.735,
+   1.85
+  ],
+  "cat": "kitchen",
+  "place": "floor",
+  "tags": [
+   "kitchen",
+   "wall-hug",
+   "tall"
+  ],
+  "as": "fridge",
+  "label": "Slab Steel"
+ },
+ "fridge_ration_vault": {
+  "file": "fridge_ration_vault.glb",
+  "source": "blender-mcp",
+  "bbox": [
+   0.72,
+   0.775,
+   1.85
+  ],
+  "cat": "kitchen",
+  "place": "floor",
+  "tags": [
+   "kitchen",
+   "wall-hug",
+   "tall"
+  ],
+  "as": "fridge",
+  "label": "Ration Vault"
+ },
+ "kitchen_counter_prep_unit": {
+  "file": "kitchen_counter_prep_unit.glb",
+  "source": "blender-mcp",
+  "bbox": [
+   1.22,
+   0.631,
+   0.94
+  ],
+  "cat": "kitchen",
+  "place": "floor",
+  "tags": [
+   "kitchen",
+   "wall-hug",
+   "holds-decor",
+   "run"
+  ],
+  "as": "kitchen_counter",
+  "label": "Prep Unit"
+ },
+ "kitchen_counter_galley_run": {
+  "file": "kitchen_counter_galley_run.glb",
+  "source": "blender-mcp",
+  "bbox": [
+   1.22,
+   0.63,
+   0.938
+  ],
+  "cat": "kitchen",
+  "place": "floor",
+  "tags": [
+   "kitchen",
+   "wall-hug",
+   "holds-decor",
+   "run"
+  ],
+  "as": "kitchen_counter",
+  "label": "Galley Run"
+ },
+ "kitchen_counter_nutri_synth": {
+  "file": "kitchen_counter_nutri_synth.glb",
+  "source": "blender-mcp",
+  "bbox": [
+   1.22,
+   0.631,
+   1.32
+  ],
+  "cat": "kitchen",
+  "place": "floor",
+  "tags": [
+   "kitchen",
+   "wall-hug",
+   "holds-decor",
+   "run"
+  ],
+  "as": "kitchen_counter",
+  "label": "Nutri Synth"
+ },
+ "kitchen_counter_island_block": {
+  "file": "kitchen_counter_island_block.glb",
+  "source": "blender-mcp",
+  "bbox": [
+   1.22,
+   0.646,
+   0.93
+  ],
+  "cat": "kitchen",
+  "place": "floor",
+  "tags": [
+   "kitchen",
+   "wall-hug",
+   "holds-decor",
+   "run"
+  ],
+  "as": "kitchen_counter",
+  "label": "Island Block"
+ },
+ "rug_neon_grid": {
+  "file": "rug_neon_grid.glb",
+  "source": "blender-mcp",
+  "bbox": [
+   2.6,
+   1.8,
+   0.042
+  ],
+  "cat": "decor",
+  "place": "floor",
+  "tags": [
+   "rug",
+   "flat",
+   "center"
+  ],
+  "as": "rug",
+  "label": "Neon Grid"
+ },
+ "rug_hex_pad": {
+  "file": "rug_hex_pad.glb",
+  "source": "blender-mcp",
+  "bbox": [
+   2.6,
+   1.8,
+   0.042
+  ],
+  "cat": "decor",
+  "place": "floor",
+  "tags": [
+   "rug",
+   "flat",
+   "center"
+  ],
+  "as": "rug",
+  "label": "Hex Pad"
+ },
+ "rug_circuit": {
+  "file": "rug_circuit.glb",
+  "source": "blender-mcp",
+  "bbox": [
+   2.6,
+   1.8,
+   0.044
+  ],
+  "cat": "decor",
+  "place": "floor",
+  "tags": [
+   "rug",
+   "flat",
+   "center"
+  ],
+  "as": "rug",
+  "label": "Circuit"
+ },
+ "rug_hazard_border": {
+  "file": "rug_hazard_border.glb",
+  "source": "blender-mcp",
+  "bbox": [
+   3.932,
+   3.64,
+   0.042
+  ],
+  "cat": "decor",
+  "place": "floor",
+  "tags": [
+   "rug",
+   "flat",
+   "center"
+  ],
+  "as": "rug",
+  "label": "Hazard Border"
+ },
+ "rug_orbit_rings": {
+  "file": "rug_orbit_rings.glb",
+  "source": "blender-mcp",
+  "bbox": [
+   2.6,
+   1.8,
+   0.24
+  ],
+  "cat": "decor",
+  "place": "floor",
+  "tags": [
+   "rug",
+   "flat",
+   "center"
+  ],
+  "as": "rug",
+  "label": "Orbit Rings"
+ },
+ "rug_landing_pad": {
+  "file": "rug_landing_pad.glb",
+  "source": "blender-mcp",
+  "bbox": [
+   2.6,
+   1.8,
+   0.066
+  ],
+  "cat": "decor",
+  "place": "floor",
+  "tags": [
+   "rug",
+   "flat",
+   "center"
+  ],
+  "as": "rug",
+  "label": "Landing Pad"
+ },
+ "mirror_slim_neon": {
+  "file": "mirror_slim_neon.glb",
+  "source": "blender-mcp",
+  "bbox": [
+   0.64,
+   0.047,
+   1.2
+  ],
+  "cat": "wallart",
+  "place": "wall",
+  "y": 0.9,
+  "tags": [
+   "wallart",
+   "decor"
+  ],
+  "as": "mirror",
+  "label": "Slim Neon"
+ },
+ "mirror_round_halo": {
+  "file": "mirror_round_halo.glb",
+  "source": "blender-mcp",
+  "bbox": [
+   0.88,
+   0.075,
+   0.88
+  ],
+  "cat": "wallart",
+  "place": "wall",
+  "y": 0.9,
+  "tags": [
+   "wallart",
+   "decor"
+  ],
+  "as": "mirror",
+  "label": "Round Halo"
+ },
+ "mirror_smart_panel": {
+  "file": "mirror_smart_panel.glb",
+  "source": "blender-mcp",
+  "bbox": [
+   0.6,
+   0.062,
+   1.2
+  ],
+  "cat": "wallart",
+  "place": "wall",
+  "y": 0.9,
+  "tags": [
+   "wallart",
+   "decor"
+  ],
+  "as": "mirror",
+  "label": "Smart Panel"
+ },
+ "mirror_hex": {
+  "file": "mirror_hex.glb",
+  "source": "blender-mcp",
+  "bbox": [
+   0.9,
+   0.05,
+   1.2
+  ],
+  "cat": "wallart",
+  "place": "wall",
+  "y": 0.9,
+  "tags": [
+   "wallart",
+   "decor"
+  ],
+  "as": "mirror",
+  "label": "Hex"
+ },
+ "floor_lamp_stem": {
+  "file": "floor_lamp_stem.glb",
+  "source": "blender-mcp",
+  "bbox": [
+   0.32,
+   0.32,
+   1.63
+  ],
+  "cat": "light",
+  "place": "floor",
+  "tags": [
+   "light",
+   "corner",
+   "glow"
+  ],
+  "as": "floor_lamp",
+  "light": 0.6,
+  "lightColor": "#5fe6ff",
+  "lightY": 1.5,
+  "label": "Stem"
+ },
+ "floor_lamp_arc": {
+  "file": "floor_lamp_arc.glb",
+  "source": "blender-mcp",
+  "bbox": [
+   0.555,
+   0.32,
+   1.717
+  ],
+  "cat": "light",
+  "place": "floor",
+  "tags": [
+   "light",
+   "corner",
+   "glow"
+  ],
+  "as": "floor_lamp",
+  "light": 0.66,
+  "lightColor": "#ffb35a",
+  "lightY": 1.7,
+  "label": "Arc"
+ },
+ "floor_lamp_tube": {
+  "file": "floor_lamp_tube.glb",
+  "source": "blender-mcp",
+  "bbox": [
+   0.32,
+   0.32,
+   1.63
+  ],
+  "cat": "light",
+  "place": "floor",
+  "tags": [
+   "light",
+   "corner",
+   "glow"
+  ],
+  "as": "floor_lamp",
+  "light": 0.6,
+  "lightColor": "#ff4fb8",
+  "lightY": 1.4,
+  "label": "Tube"
+ },
+ "floor_lamp_orb": {
+  "file": "floor_lamp_orb.glb",
+  "source": "blender-mcp",
+  "bbox": [
+   0.4,
+   0.4,
+   1.42
+  ],
+  "cat": "light",
+  "place": "floor",
+  "tags": [
+   "light",
+   "corner",
+   "glow"
+  ],
+  "as": "floor_lamp",
+  "light": 0.54,
+  "lightColor": "#6dff8a",
+  "lightY": 1.4,
+  "label": "Orb"
+ },
+ "floor_lamp_cone": {
+  "file": "floor_lamp_cone.glb",
+  "source": "blender-mcp",
+  "bbox": [
+   0.4,
+   0.4,
+   1.54
+  ],
+  "cat": "light",
+  "place": "floor",
+  "tags": [
+   "light",
+   "corner",
+   "glow"
+  ],
+  "as": "floor_lamp",
+  "light": 0.6,
+  "lightColor": "#a56bff",
+  "lightY": 1.5,
+  "label": "Cone"
+ },
+ "table_lamp_cone": {
+  "file": "table_lamp_cone.glb",
+  "source": "blender-mcp",
+  "bbox": [
+   0.217,
+   0.22,
+   0.385
+  ],
+  "cat": "light",
+  "place": "surface",
+  "tags": [
+   "light",
+   "glow",
+   "decor"
+  ],
+  "as": "table_lamp",
+  "light": 0.3,
+  "lightColor": "#5fe6ff",
+  "lightY": 0.3,
+  "label": "Cone"
+ },
+ "table_lamp_orb": {
+  "file": "table_lamp_orb.glb",
+  "source": "blender-mcp",
+  "bbox": [
+   0.2,
+   0.2,
+   0.36
+  ],
+  "cat": "light",
+  "place": "surface",
+  "tags": [
+   "light",
+   "glow",
+   "decor"
+  ],
+  "as": "table_lamp",
+  "light": 0.3,
+  "lightColor": "#ff4fb8",
+  "lightY": 0.28,
+  "label": "Orb"
+ },
+ "table_lamp_cube": {
+  "file": "table_lamp_cube.glb",
+  "source": "blender-mcp",
+  "bbox": [
+   0.2,
+   0.2,
+   0.22
+  ],
+  "cat": "light",
+  "place": "surface",
+  "tags": [
+   "light",
+   "glow",
+   "decor"
+  ],
+  "as": "table_lamp",
+  "light": 0.3,
+  "lightColor": "#ffb35a",
+  "lightY": 0.25,
+  "label": "Cube"
+ },
+ "table_lamp_desk_arm": {
+  "file": "table_lamp_desk_arm.glb",
+  "source": "blender-mcp",
+  "bbox": [
+   0.277,
+   0.2,
+   0.443
+  ],
+  "cat": "light",
+  "place": "surface",
+  "tags": [
+   "light",
+   "glow",
+   "decor"
+  ],
+  "as": "table_lamp",
+  "light": 0.3,
+  "lightColor": "#6dff8a",
+  "lightY": 0.4,
+  "label": "Desk Arm"
+ },
+ "table_lamp_crystal": {
+  "file": "table_lamp_crystal.glb",
+  "source": "blender-mcp",
+  "bbox": [
+   0.2,
+   0.2,
+   0.33
+  ],
+  "cat": "light",
+  "place": "surface",
+  "tags": [
+   "light",
+   "glow",
+   "decor"
+  ],
+  "as": "table_lamp",
+  "light": 0.3,
+  "lightColor": "#a56bff",
+  "lightY": 0.3,
+  "label": "Crystal"
+ },
+ "ceiling_light_disc": {
+  "file": "ceiling_light_disc.glb",
+  "source": "blender-mcp",
+  "bbox": [
+   0.56,
+   0.56,
+   0.075
+  ],
+  "cat": "light",
+  "place": "ceiling",
+  "tags": [
+   "light",
+   "glow"
+  ],
+  "as": "ceiling_light",
+  "light": 0.84,
+  "lightColor": "#fff1dc",
+  "lightY": 0.1,
+  "label": "Disc"
+ },
+ "ceiling_light_ring": {
+  "file": "ceiling_light_ring.glb",
+  "source": "blender-mcp",
+  "bbox": [
+   0.56,
+   0.56,
+   0.095
+  ],
+  "cat": "light",
+  "place": "ceiling",
+  "tags": [
+   "light",
+   "glow"
+  ],
+  "as": "ceiling_light",
+  "light": 0.84,
+  "lightColor": "#5fe6ff",
+  "lightY": 0.1,
+  "label": "Ring"
+ },
+ "ceiling_light_panel": {
+  "file": "ceiling_light_panel.glb",
+  "source": "blender-mcp",
+  "bbox": [
+   0.6,
+   0.6,
+   0.05
+  ],
+  "cat": "light",
+  "place": "ceiling",
+  "tags": [
+   "light",
+   "glow"
+  ],
+  "as": "ceiling_light",
+  "light": 0.9,
+  "lightColor": "#fff1dc",
+  "lightY": 0.08,
+  "label": "Panel"
+ },
+ "ceiling_light_pendant_orb": {
+  "file": "ceiling_light_pendant_orb.glb",
+  "source": "blender-mcp",
+  "bbox": [
+   0.31,
+   0.315,
+   0.44
+  ],
+  "cat": "light",
+  "place": "ceiling",
+  "tags": [
+   "light",
+   "glow"
+  ],
+  "as": "ceiling_light",
+  "light": 0.84,
+  "lightColor": "#ffb35a",
+  "lightY": 0.2,
+  "label": "Pendant Orb"
+ },
+ "ceiling_light_lantern_tube": {
+  "file": "ceiling_light_lantern_tube.glb",
+  "source": "blender-mcp",
+  "bbox": [
+   0.54,
+   0.1,
+   0.28
+  ],
+  "cat": "light",
+  "place": "ceiling",
+  "tags": [
+   "light",
+   "glow"
+  ],
+  "as": "ceiling_light",
+  "light": 0.84,
+  "lightColor": "#ff4fb8",
+  "lightY": 0.2,
+  "label": "Lantern Tube"
+ },
+ "ceiling_light_cluster": {
+  "file": "ceiling_light_cluster.glb",
+  "source": "blender-mcp",
+  "bbox": [
+   0.318,
+   0.32,
+   0.385
+  ],
+  "cat": "light",
+  "place": "ceiling",
+  "tags": [
+   "light",
+   "glow"
+  ],
+  "as": "ceiling_light",
+  "light": 0.84,
+  "lightColor": "#a56bff",
+  "lightY": 0.25,
+  "label": "Cluster"
+ },
+ "plant_hydro_tower": {
+  "file": "plant_hydro_tower.glb",
+  "source": "blender-mcp",
+  "bbox": [
+   0.659,
+   1.067,
+   1.297
+  ],
+  "cat": "decor",
+  "place": "floor",
+  "tags": [
+   "plant",
+   "corner",
+   "decor"
+  ],
+  "as": "plant",
+  "label": "Hydro Tower"
+ },
+ "plant_fern_pod": {
+  "file": "plant_fern_pod.glb",
+  "source": "blender-mcp",
+  "bbox": [
+   0.964,
+   1.475,
+   1.767
+  ],
+  "cat": "decor",
+  "place": "floor",
+  "tags": [
+   "plant",
+   "corner",
+   "decor"
+  ],
+  "as": "plant",
+  "label": "Fern Pod"
+ },
+ "plant_bonsai_dome": {
+  "file": "plant_bonsai_dome.glb",
+  "source": "blender-mcp",
+  "bbox": [
+   1.0,
+   1.0,
+   1.5
+  ],
+  "cat": "decor",
+  "place": "floor",
+  "tags": [
+   "plant",
+   "corner",
+   "decor"
+  ],
+  "as": "plant",
+  "label": "Bonsai Dome"
+ },
+ "plant_vine_column": {
+  "file": "plant_vine_column.glb",
+  "source": "blender-mcp",
+  "bbox": [
+   0.36,
+   0.36,
+   1.86
+  ],
+  "cat": "decor",
+  "place": "floor",
+  "tags": [
+   "plant",
+   "corner",
+   "decor"
+  ],
+  "as": "plant",
+  "label": "Vine Column"
+ },
+ "plant_cactus_neon": {
+  "file": "plant_cactus_neon.glb",
+  "source": "blender-mcp",
+  "bbox": [
+   0.674,
+   0.4,
+   1.27
+  ],
+  "cat": "decor",
+  "place": "floor",
+  "tags": [
+   "plant",
+   "corner",
+   "decor"
+  ],
+  "as": "plant",
+  "label": "Cactus Neon"
+ },
+ "plant_ficus_planter": {
+  "file": "plant_ficus_planter.glb",
+  "source": "blender-mcp",
+  "bbox": [
+   0.8,
+   0.8,
+   1.38
+  ],
+  "cat": "decor",
+  "place": "floor",
+  "tags": [
+   "plant",
+   "corner",
+   "decor"
+  ],
+  "as": "plant",
+  "label": "Ficus Planter"
+ },
+ "plant_small_mini_pod": {
+  "file": "plant_small_mini_pod.glb",
+  "source": "blender-mcp",
+  "bbox": [
+   0.212,
+   0.254,
+   0.353
+  ],
+  "cat": "decor",
+  "place": "surface",
+  "tags": [
+   "plant",
+   "decor"
+  ],
+  "as": "plant_small",
+  "label": "Mini Pod"
+ },
+ "plant_small_glow_succulent": {
+  "file": "plant_small_glow_succulent.glb",
+  "source": "blender-mcp",
+  "bbox": [
+   0.184,
+   0.172,
+   0.239
+  ],
+  "cat": "decor",
+  "place": "surface",
+  "tags": [
+   "plant",
+   "decor"
+  ],
+  "as": "plant_small",
+  "label": "Glow Succulent"
+ },
+ "plant_small_moss_cube": {
+  "file": "plant_small_moss_cube.glb",
+  "source": "blender-mcp",
+  "bbox": [
+   0.171,
+   0.18,
+   0.204
+  ],
+  "cat": "decor",
+  "place": "surface",
+  "tags": [
+   "plant",
+   "decor"
+  ],
+  "as": "plant_small",
+  "label": "Moss Cube"
+ },
+ "plant_small_bonsai_mini": {
+  "file": "plant_small_bonsai_mini.glb",
+  "source": "blender-mcp",
+  "bbox": [
+   0.21,
+   0.15,
+   0.29
+  ],
+  "cat": "decor",
+  "place": "surface",
+  "tags": [
+   "plant",
+   "decor"
+  ],
+  "as": "plant_small",
+  "label": "Bonsai Mini"
+ },
+ "curtains_privacy_shutter": {
+  "file": "curtains_privacy_shutter.glb",
+  "source": "blender-mcp",
+  "bbox": [
+   1.9,
+   0.1,
+   2.3
+  ],
+  "cat": "wallart",
+  "place": "wall",
+  "y": 0.05,
+  "tags": [
+   "curtain"
+  ],
+  "as": "curtains",
+  "label": "Privacy Shutter"
+ },
+ "curtains_light_blind": {
+  "file": "curtains_light_blind.glb",
+  "source": "blender-mcp",
+  "bbox": [
+   1.9,
+   0.1,
+   2.15
+  ],
+  "cat": "wallart",
+  "place": "wall",
+  "y": 0.05,
+  "tags": [
+   "curtain"
+  ],
+  "as": "curtains",
+  "label": "Light Blind"
+ },
+ "curtains_slat_panel": {
+  "file": "curtains_slat_panel.glb",
+  "source": "blender-mcp",
+  "bbox": [
+   1.9,
+   0.1,
+   2.36
+  ],
+  "cat": "wallart",
+  "place": "wall",
+  "y": 0.05,
+  "tags": [
+   "curtain"
+  ],
+  "as": "curtains",
+  "label": "Slat Panel"
+ },
+ "curtains_smart_glass": {
+  "file": "curtains_smart_glass.glb",
+  "source": "blender-mcp",
+  "bbox": [
+   1.9,
+   0.1,
+   2.38
+  ],
+  "cat": "wallart",
+  "place": "wall",
+  "y": 0.05,
+  "tags": [
+   "curtain"
+  ],
+  "as": "curtains",
+  "label": "Smart Glass"
+ },
+ "toilet_sleek": {
+  "file": "toilet_sleek.glb",
+  "source": "blender-mcp",
+  "bbox": [
+   0.4,
+   0.68,
+   0.75
+  ],
+  "cat": "bath",
+  "place": "floor",
+  "tags": [
+   "bath",
+   "wall-hug"
+  ],
+  "as": "toilet",
+  "label": "Sleek"
+ },
+ "toilet_wall_hung": {
+  "file": "toilet_wall_hung.glb",
+  "source": "blender-mcp",
+  "bbox": [
+   0.4,
+   0.69,
+   0.8
+  ],
+  "cat": "bath",
+  "place": "floor",
+  "tags": [
+   "bath",
+   "wall-hug"
+  ],
+  "as": "toilet",
+  "label": "Wall Hung"
+ },
+ "toilet_zero_g": {
+  "file": "toilet_zero_g.glb",
+  "source": "blender-mcp",
+  "bbox": [
+   0.42,
+   0.51,
+   0.75
+  ],
+  "cat": "bath",
+  "place": "floor",
+  "tags": [
+   "bath",
+   "wall-hug"
+  ],
+  "as": "toilet",
+  "label": "Zero G"
+ },
+ "bathtub_soak_capsule": {
+  "file": "bathtub_soak_capsule.glb",
+  "source": "blender-mcp",
+  "bbox": [
+   1.7,
+   0.791,
+   0.56
+  ],
+  "cat": "bath",
+  "place": "floor",
+  "tags": [
+   "bath",
+   "wall-hug",
+   "long"
+  ],
+  "as": "bathtub",
+  "label": "Soak Capsule"
+ },
+ "bathtub_oval_tub": {
+  "file": "bathtub_oval_tub.glb",
+  "source": "blender-mcp",
+  "bbox": [
+   1.7,
+   0.78,
+   0.55
+  ],
+  "cat": "bath",
+  "place": "floor",
+  "tags": [
+   "bath",
+   "wall-hug",
+   "long"
+  ],
+  "as": "bathtub",
+  "label": "Oval Tub"
+ },
+ "bathtub_sonic_bay": {
+  "file": "bathtub_sonic_bay.glb",
+  "source": "blender-mcp",
+  "bbox": [
+   1.7,
+   0.78,
+   0.6
+  ],
+  "cat": "bath",
+  "place": "floor",
+  "tags": [
+   "bath",
+   "wall-hug",
+   "long"
+  ],
+  "as": "bathtub",
+  "label": "Sonic Bay"
+ },
+ "sink_vanity_basin_unit": {
+  "file": "sink_vanity_basin_unit.glb",
+  "source": "blender-mcp",
+  "bbox": [
+   0.8,
+   0.511,
+   0.98
+  ],
+  "cat": "bath",
+  "place": "floor",
+  "tags": [
+   "bath",
+   "wall-hug",
+   "holds-decor"
+  ],
+  "as": "sink_vanity",
+  "label": "Basin Unit"
+ },
+ "sink_vanity_pedestal": {
+  "file": "sink_vanity_pedestal.glb",
+  "source": "blender-mcp",
+  "bbox": [
+   0.72,
+   0.54,
+   1.05
+  ],
+  "cat": "bath",
+  "place": "floor",
+  "tags": [
+   "bath",
+   "wall-hug",
+   "holds-decor"
+  ],
+  "as": "sink_vanity",
+  "label": "Pedestal"
+ },
+ "sink_vanity_wash_station": {
+  "file": "sink_vanity_wash_station.glb",
+  "source": "blender-mcp",
+  "bbox": [
+   0.8,
+   0.525,
+   1.01
+  ],
+  "cat": "bath",
+  "place": "floor",
+  "tags": [
+   "bath",
+   "wall-hug",
+   "holds-decor"
+  ],
+  "as": "sink_vanity",
+  "label": "Wash Station"
+ },
+ "sink_vanity_mirror_vanity": {
+  "file": "sink_vanity_mirror_vanity.glb",
+  "source": "blender-mcp",
+  "bbox": [
+   0.8,
+   0.5,
+   1.314
+  ],
+  "cat": "bath",
+  "place": "floor",
+  "tags": [
+   "bath",
+   "wall-hug",
+   "holds-decor"
+  ],
+  "as": "sink_vanity",
+  "label": "Mirror Vanity"
+ },
+ "cryo_pod_upright": {
+  "file": "cryo_pod_upright.glb",
+  "source": "blender-mcp",
+  "bbox": [
+   1.04,
+   1.055,
+   2.2
+  ],
+  "cat": "scifi",
+  "place": "floor",
+  "tags": [
+   "decor",
+   "wall-hug",
+   "light",
+   "glow"
+  ],
+  "light": 0.42,
+  "label": "Upright",
+  "lightColor": "#5fe6ff",
+  "lightY": 1.2
+ },
+ "cryo_pod_twin": {
+  "file": "cryo_pod_twin.glb",
+  "source": "blender-mcp",
+  "bbox": [
+   1.8,
+   0.806,
+   2.15
+  ],
+  "cat": "scifi",
+  "place": "floor",
+  "tags": [
+   "decor",
+   "wall-hug",
+   "light",
+   "glow"
+  ],
+  "light": 0.42,
+  "label": "Twin",
+  "lightColor": "#6a8cff",
+  "lightY": 1.2
+ },
+ "cryo_pod_reclined": {
+  "file": "cryo_pod_reclined.glb",
+  "source": "blender-mcp",
+  "bbox": [
+   1.012,
+   2.2,
+   1.013
+  ],
+  "cat": "scifi",
+  "place": "floor",
+  "tags": [
+   "decor",
+   "wall-hug",
+   "light",
+   "glow"
+  ],
+  "light": 0.42,
+  "label": "Reclined",
+  "lightColor": "#6dff8a",
+  "lightY": 1.2
+ },
+ "cryo_pod_cracked": {
+  "file": "cryo_pod_cracked.glb",
+  "source": "blender-mcp",
+  "bbox": [
+   1.361,
+   1.086,
+   2.2
+  ],
+  "cat": "scifi",
+  "place": "floor",
+  "tags": [
+   "decor",
+   "wall-hug",
+   "light",
+   "glow"
+  ],
+  "light": 0.42,
+  "label": "Cracked",
+  "lightColor": "#ff5555",
+  "lightY": 1.2
+ },
+ "cryo_pod_stasis_tube": {
+  "file": "cryo_pod_stasis_tube.glb",
+  "source": "blender-mcp",
+  "bbox": [
+   0.7,
+   0.7,
+   2.2
+  ],
+  "cat": "scifi",
+  "place": "floor",
+  "tags": [
+   "decor",
+   "wall-hug",
+   "light",
+   "glow"
+  ],
+  "light": 0.42,
+  "label": "Stasis Tube",
+  "lightColor": "#a56bff",
+  "lightY": 1.2
+ },
+ "command_console_bridge_main": {
+  "file": "command_console_bridge_main.glb",
+  "source": "blender-mcp",
+  "bbox": [
+   2.693,
+   1.26,
+   1.65
+  ],
+  "cat": "scifi",
+  "place": "floor",
+  "tags": [
+   "table",
+   "holds-decor",
+   "wall-hug",
+   "desk"
+  ],
+  "light": 0.3,
+  "label": "Bridge Main",
+  "lightColor": "#5fe6ff",
+  "lightY": 1.2
+ },
+ "command_console_nav_station": {
+  "file": "command_console_nav_station.glb",
+  "source": "blender-mcp",
+  "bbox": [
+   1.3,
+   0.9,
+   1.2
+  ],
+  "cat": "scifi",
+  "place": "floor",
+  "tags": [
+   "table",
+   "holds-decor",
+   "wall-hug",
+   "desk"
+  ],
+  "light": 0.3,
+  "label": "Nav Station",
+  "lightColor": "#ffb35a",
+  "lightY": 1.2
+ },
+ "command_console_tactical": {
+  "file": "command_console_tactical.glb",
+  "source": "blender-mcp",
+  "bbox": [
+   1.5,
+   0.9,
+   0.89
+  ],
+  "cat": "scifi",
+  "place": "floor",
+  "tags": [
+   "table",
+   "holds-decor",
+   "wall-hug",
+   "desk"
+  ],
+  "light": 0.3,
+  "label": "Tactical",
+  "lightColor": "#ff5555",
+  "lightY": 1.2
+ },
+ "command_console_comms": {
+  "file": "command_console_comms.glb",
+  "source": "blender-mcp",
+  "bbox": [
+   1.2,
+   0.8,
+   1.31
+  ],
+  "cat": "scifi",
+  "place": "floor",
+  "tags": [
+   "table",
+   "holds-decor",
+   "wall-hug",
+   "desk"
+  ],
+  "light": 0.3,
+  "label": "Comms",
+  "lightColor": "#6dff8a",
+  "lightY": 1.2
+ },
+ "command_console_pilot_yoke": {
+  "file": "command_console_pilot_yoke.glb",
+  "source": "blender-mcp",
+  "bbox": [
+   1.1,
+   0.9,
+   1.4
+  ],
+  "cat": "scifi",
+  "place": "floor",
+  "tags": [
+   "table",
+   "holds-decor",
+   "wall-hug",
+   "desk"
+  ],
+  "light": 0.3,
+  "label": "Pilot Yoke",
+  "lightColor": "#ff4fb8",
+  "lightY": 1.2
+ },
+ "command_console_ops_desk": {
+  "file": "command_console_ops_desk.glb",
+  "source": "blender-mcp",
+  "bbox": [
+   1.4,
+   0.706,
+   1.07
+  ],
+  "cat": "scifi",
+  "place": "floor",
+  "tags": [
+   "table",
+   "holds-decor",
+   "wall-hug",
+   "desk"
+  ],
+  "light": 0.3,
+  "label": "Ops Desk",
+  "lightColor": "#6a8cff",
+  "lightY": 1.2
+ },
+ "holotable_round_map": {
+  "file": "holotable_round_map.glb",
+  "source": "blender-mcp",
+  "bbox": [
+   1.84,
+   1.84,
+   1.3
+  ],
+  "cat": "scifi",
+  "place": "floor",
+  "tags": [
+   "table",
+   "center",
+   "holds-decor",
+   "light",
+   "glow"
+  ],
+  "light": 0.54,
+  "label": "Round Map",
+  "lightColor": "#5fe6ff",
+  "lightY": 1.2
+ },
+ "holotable_square_grid": {
+  "file": "holotable_square_grid.glb",
+  "source": "blender-mcp",
+  "bbox": [
+   1.7,
+   1.7,
+   1.06
+  ],
+  "cat": "scifi",
+  "place": "floor",
+  "tags": [
+   "table",
+   "center",
+   "holds-decor",
+   "light",
+   "glow"
+  ],
+  "light": 0.54,
+  "label": "Square Grid",
+  "lightColor": "#6dff8a",
+  "lightY": 1.2
+ },
+ "holotable_planet_orrery": {
+  "file": "holotable_planet_orrery.glb",
+  "source": "blender-mcp",
+  "bbox": [
+   1.24,
+   1.24,
+   1.422
+  ],
+  "cat": "scifi",
+  "place": "floor",
+  "tags": [
+   "table",
+   "center",
+   "holds-decor",
+   "light",
+   "glow"
+  ],
+  "light": 0.54,
+  "label": "Planet Orrery",
+  "lightColor": "#ffb35a",
+  "lightY": 1.2
+ },
+ "holotable_ship_blueprint": {
+  "file": "holotable_ship_blueprint.glb",
+  "source": "blender-mcp",
+  "bbox": [
+   2.1,
+   1.1,
+   1.07
+  ],
+  "cat": "scifi",
+  "place": "floor",
+  "tags": [
+   "table",
+   "center",
+   "holds-decor",
+   "light",
+   "glow"
+  ],
+  "light": 0.54,
+  "label": "Ship Blueprint",
+  "lightColor": "#6a8cff",
+  "lightY": 1.2
+ },
+ "reactor_core_plasma_column": {
+  "file": "reactor_core_plasma_column.glb",
+  "source": "blender-mcp",
+  "bbox": [
+   1.6,
+   1.6,
+   2.47
+  ],
+  "cat": "scifi",
+  "place": "floor",
+  "tags": [
+   "decor",
+   "light",
+   "glow",
+   "focal"
+  ],
+  "light": 0.96,
+  "label": "Plasma Column",
+  "lightColor": "#5fe6ff",
+  "lightY": 1.2
+ },
+ "reactor_core_fusion_ring": {
+  "file": "reactor_core_fusion_ring.glb",
+  "source": "blender-mcp",
+  "bbox": [
+   1.64,
+   1.6,
+   1.82
+  ],
+  "cat": "scifi",
+  "place": "floor",
+  "tags": [
+   "decor",
+   "light",
+   "glow",
+   "focal"
+  ],
+  "light": 0.96,
+  "label": "Fusion Ring",
+  "lightColor": "#ffb35a",
+  "lightY": 1.2
+ },
+ "reactor_core_crystal_heart": {
+  "file": "reactor_core_crystal_heart.glb",
+  "source": "blender-mcp",
+  "bbox": [
+   1.6,
+   1.6,
+   1.52
+  ],
+  "cat": "scifi",
+  "place": "floor",
+  "tags": [
+   "decor",
+   "light",
+   "glow",
+   "focal"
+  ],
+  "light": 0.96,
+  "label": "Crystal Heart",
+  "lightColor": "#a56bff",
+  "lightY": 1.2
+ },
+ "server_rack_blade_full": {
+  "file": "server_rack_blade_full.glb",
+  "source": "blender-mcp",
+  "bbox": [
+   0.7,
+   0.926,
+   2.1
+  ],
+  "cat": "scifi",
+  "place": "floor",
+  "tags": [
+   "storage",
+   "wall-hug",
+   "tall",
+   "light",
+   "glow"
+  ],
+  "light": 0.3,
+  "label": "Blade Full",
+  "lightColor": "#6dff8a",
+  "lightY": 1.2
+ },
+ "server_rack_blade_cool": {
+  "file": "server_rack_blade_cool.glb",
+  "source": "blender-mcp",
+  "bbox": [
+   0.7,
+   0.926,
+   2.1
+  ],
+  "cat": "scifi",
+  "place": "floor",
+  "tags": [
+   "storage",
+   "wall-hug",
+   "tall",
+   "light",
+   "glow"
+  ],
+  "light": 0.3,
+  "label": "Blade Cool",
+  "lightColor": "#5fe6ff",
+  "lightY": 1.2
+ },
+ "server_rack_core_stack": {
+  "file": "server_rack_core_stack.glb",
+  "source": "blender-mcp",
+  "bbox": [
+   0.7,
+   0.926,
+   2.1
+  ],
+  "cat": "scifi",
+  "place": "floor",
+  "tags": [
+   "storage",
+   "wall-hug",
+   "tall",
+   "light",
+   "glow"
+  ],
+  "light": 0.3,
+  "label": "Core Stack",
+  "lightColor": "#ff4fb8",
+  "lightY": 1.2
+ },
+ "server_rack_patch_panel": {
+  "file": "server_rack_patch_panel.glb",
+  "source": "blender-mcp",
+  "bbox": [
+   0.7,
+   1.222,
+   2.1
+  ],
+  "cat": "scifi",
+  "place": "floor",
+  "tags": [
+   "storage",
+   "wall-hug",
+   "tall",
+   "light",
+   "glow"
+  ],
+  "light": 0.3,
+  "label": "Patch Panel",
+  "lightColor": "#ffb35a",
+  "lightY": 1.2
+ },
+ "server_rack_quantum_cabinet": {
+  "file": "server_rack_quantum_cabinet.glb",
+  "source": "blender-mcp",
+  "bbox": [
+   0.7,
+   0.93,
+   2.1
+  ],
+  "cat": "scifi",
+  "place": "floor",
+  "tags": [
+   "storage",
+   "wall-hug",
+   "tall",
+   "light",
+   "glow"
+  ],
+  "light": 0.3,
+  "label": "Quantum Cabinet",
+  "lightColor": "#a56bff",
+  "lightY": 1.2
+ },
+ "engineering_station_diagnostics": {
+  "file": "engineering_station_diagnostics.glb",
+  "source": "blender-mcp",
+  "bbox": [
+   1.3,
+   0.7,
+   1.5
+  ],
+  "cat": "scifi",
+  "place": "floor",
+  "tags": [
+   "wall-hug",
+   "decor",
+   "holds-decor",
+   "light",
+   "glow"
+  ],
+  "light": 0.3,
+  "label": "Diagnostics",
+  "lightColor": "#ffb35a",
+  "lightY": 1.2
+ },
+ "engineering_station_power_panel": {
+  "file": "engineering_station_power_panel.glb",
+  "source": "blender-mcp",
+  "bbox": [
+   1.3,
+   0.45,
+   2.1
+  ],
+  "cat": "scifi",
+  "place": "floor",
+  "tags": [
+   "wall-hug",
+   "decor",
+   "holds-decor",
+   "light",
+   "glow"
+  ],
+  "light": 0.3,
+  "label": "Power Panel",
+  "lightColor": "#ff5555",
+  "lightY": 1.2
+ },
+ "engineering_station_fabricator": {
+  "file": "engineering_station_fabricator.glb",
+  "source": "blender-mcp",
+  "bbox": [
+   1.2,
+   0.92,
+   1.4
+  ],
+  "cat": "scifi",
+  "place": "floor",
+  "tags": [
+   "wall-hug",
+   "decor",
+   "holds-decor",
+   "light",
+   "glow"
+  ],
+  "light": 0.3,
+  "label": "Fabricator",
+  "lightColor": "#5fe6ff",
+  "lightY": 1.2
+ },
+ "engineering_station_valve_wall": {
+  "file": "engineering_station_valve_wall.glb",
+  "source": "blender-mcp",
+  "bbox": [
+   1.5,
+   0.275,
+   2.598
+  ],
+  "cat": "scifi",
+  "place": "floor",
+  "tags": [
+   "wall-hug",
+   "decor",
+   "holds-decor",
+   "light",
+   "glow"
+  ],
+  "light": 0.3,
+  "label": "Valve Wall",
+  "lightColor": "#6dff8a",
+  "lightY": 1.2
+ },
+ "medbay_bed_scanner_bed": {
+  "file": "medbay_bed_scanner_bed.glb",
+  "source": "blender-mcp",
+  "bbox": [
+   1.32,
+   2.0,
+   1.66
+  ],
+  "cat": "scifi",
+  "place": "floor",
+  "tags": [
+   "bed",
+   "decor",
+   "light",
+   "glow"
+  ],
+  "light": 0.36,
+  "label": "Scanner Bed",
+  "lightColor": "#5fe6ff",
+  "lightY": 1.2
+ },
+ "medbay_bed_surgery_table": {
+  "file": "medbay_bed_surgery_table.glb",
+  "source": "blender-mcp",
+  "bbox": [
+   0.88,
+   1.9,
+   2.024
+  ],
+  "cat": "scifi",
+  "place": "floor",
+  "tags": [
+   "bed",
+   "decor",
+   "light",
+   "glow"
+  ],
+  "light": 0.36,
+  "label": "Surgery Table",
+  "lightColor": "#6dff8a",
+  "lightY": 1.2
+ },
+ "medbay_bed_regen_tank": {
+  "file": "medbay_bed_regen_tank.glb",
+  "source": "blender-mcp",
+  "bbox": [
+   1.1,
+   1.206,
+   2.1
+  ],
+  "cat": "scifi",
+  "place": "floor",
+  "tags": [
+   "bed",
+   "decor",
+   "light",
+   "glow"
+  ],
+  "light": 0.36,
+  "label": "Regen Tank",
+  "lightColor": "#6a8cff",
+  "lightY": 1.2
+ },
+ "scanner_arch_security_gate": {
+  "file": "scanner_arch_security_gate.glb",
+  "source": "blender-mcp",
+  "bbox": [
+   1.5,
+   1.015,
+   2.65
+  ],
+  "cat": "scifi",
+  "place": "floor",
+  "tags": [
+   "decor",
+   "light",
+   "glow"
+  ],
+  "light": 0.36,
+  "label": "Security Gate",
+  "lightColor": "#6dff8a",
+  "lightY": 1.2
+ },
+ "scanner_arch_body_scanner": {
+  "file": "scanner_arch_body_scanner.glb",
+  "source": "blender-mcp",
+  "bbox": [
+   1.5,
+   1.011,
+   2.65
+  ],
+  "cat": "scifi",
+  "place": "floor",
+  "tags": [
+   "decor",
+   "light",
+   "glow"
+  ],
+  "light": 0.36,
+  "label": "Body Scanner",
+  "lightColor": "#5fe6ff",
+  "lightY": 1.2
+ },
+ "robot_arm_assembly": {
+  "file": "robot_arm_assembly.glb",
+  "source": "blender-mcp",
+  "bbox": [
+   1.338,
+   0.6,
+   1.3
+  ],
+  "cat": "scifi",
+  "place": "floor",
+  "tags": [
+   "decor",
+   "light",
+   "glow"
+  ],
+  "light": 0.24,
+  "label": "Assembly",
+  "lightColor": "#ffb35a",
+  "lightY": 1.2
+ },
+ "robot_arm_ceiling_rail": {
+  "file": "robot_arm_ceiling_rail.glb",
+  "source": "blender-mcp",
+  "bbox": [
+   1.338,
+   0.6,
+   1.3
+  ],
+  "cat": "scifi",
+  "place": "floor",
+  "tags": [
+   "decor",
+   "light",
+   "glow"
+  ],
+  "light": 0.24,
+  "label": "Ceiling Rail",
+  "lightColor": "#5fe6ff",
+  "lightY": 1.2
+ },
+ "robot_arm_bar_arm": {
+  "file": "robot_arm_bar_arm.glb",
+  "source": "blender-mcp",
+  "bbox": [
+   1.338,
+   0.6,
+   1.3
+  ],
+  "cat": "scifi",
+  "place": "floor",
+  "tags": [
+   "decor",
+   "light",
+   "glow"
+  ],
+  "light": 0.24,
+  "label": "Bar Arm",
+  "lightColor": "#ff4fb8",
+  "lightY": 1.2
+ },
+ "drone_dock_quad": {
+  "file": "drone_dock_quad.glb",
+  "source": "blender-mcp",
+  "bbox": [
+   0.64,
+   0.64,
+   0.672
+  ],
+  "cat": "scifi",
+  "place": "floor",
+  "tags": [
+   "decor",
+   "light",
+   "glow"
+  ],
+  "light": 0.24,
+  "label": "Quad",
+  "lightColor": "#5fe6ff",
+  "lightY": 1.2
+ },
+ "drone_dock_orb_bot": {
+  "file": "drone_dock_orb_bot.glb",
+  "source": "blender-mcp",
+  "bbox": [
+   0.624,
+   0.624,
+   0.73
+  ],
+  "cat": "scifi",
+  "place": "floor",
+  "tags": [
+   "decor",
+   "light",
+   "glow"
+  ],
+  "light": 0.24,
+  "label": "Orb Bot",
+  "lightColor": "#ff4fb8",
+  "lightY": 1.2
+ },
+ "drone_dock_wall_charger": {
+  "file": "drone_dock_wall_charger.glb",
+  "source": "blender-mcp",
+  "bbox": [
+   0.624,
+   0.637,
+   1.0
+  ],
+  "cat": "scifi",
+  "place": "floor",
+  "tags": [
+   "decor",
+   "light",
+   "glow"
+  ],
+  "light": 0.24,
+  "label": "Wall Charger",
+  "lightColor": "#6dff8a",
+  "lightY": 1.2
+ },
+ "drone_dock_cleaner": {
+  "file": "drone_dock_cleaner.glb",
+  "source": "blender-mcp",
+  "bbox": [
+   0.624,
+   0.624,
+   0.24
+  ],
+  "cat": "scifi",
+  "place": "floor",
+  "tags": [
+   "decor",
+   "light",
+   "glow"
+  ],
+  "light": 0.24,
+  "label": "Cleaner",
+  "lightColor": "#ffb35a",
+  "lightY": 1.2
+ },
+ "vending_machine_snack_hex": {
+  "file": "vending_machine_snack_hex.glb",
+  "source": "blender-mcp",
+  "bbox": [
+   1.0,
+   0.89,
+   2.15
+  ],
+  "cat": "scifi",
+  "place": "floor",
+  "tags": [
+   "decor",
+   "wall-hug",
+   "tall",
+   "light",
+   "glow"
+  ],
+  "light": 0.54,
+  "label": "Snack Hex",
+  "lightColor": "#ff4fb8",
+  "lightY": 1.2
+ },
+ "vending_machine_drink_cooler": {
+  "file": "vending_machine_drink_cooler.glb",
+  "source": "blender-mcp",
+  "bbox": [
+   1.0,
+   0.89,
+   2.15
+  ],
+  "cat": "scifi",
+  "place": "floor",
+  "tags": [
+   "decor",
+   "wall-hug",
+   "tall",
+   "light",
+   "glow"
+  ],
+  "light": 0.54,
+  "label": "Drink Cooler",
+  "lightColor": "#5fe6ff",
+  "lightY": 1.2
+ },
+ "vending_machine_gear_vendor": {
+  "file": "vending_machine_gear_vendor.glb",
+  "source": "blender-mcp",
+  "bbox": [
+   1.0,
+   0.89,
+   2.15
+  ],
+  "cat": "scifi",
+  "place": "floor",
+  "tags": [
+   "decor",
+   "wall-hug",
+   "tall",
+   "light",
+   "glow"
+  ],
+  "light": 0.54,
+  "label": "Gear Vendor",
+  "lightColor": "#ffb35a",
+  "lightY": 1.2
+ },
+ "vending_machine_noodle_dispenser": {
+  "file": "vending_machine_noodle_dispenser.glb",
+  "source": "blender-mcp",
+  "bbox": [
+   1.0,
+   0.89,
+   2.15
+  ],
+  "cat": "scifi",
+  "place": "floor",
+  "tags": [
+   "decor",
+   "wall-hug",
+   "tall",
+   "light",
+   "glow"
+  ],
+  "light": 0.54,
+  "label": "Noodle Dispenser",
+  "lightColor": "#ff5555",
+  "lightY": 1.2
+ },
+ "hydroponic_bed_rack_tall": {
+  "file": "hydroponic_bed_rack_tall.glb",
+  "source": "blender-mcp",
+  "bbox": [
+   1.21,
+   0.6,
+   2.07
+  ],
+  "cat": "scifi",
+  "place": "floor",
+  "tags": [
+   "decor",
+   "plant",
+   "light",
+   "glow"
+  ],
+  "light": 0.48,
+  "label": "Rack Tall",
+  "lightColor": "#ff4fb8",
+  "lightY": 1.2
+ },
+ "hydroponic_bed_trough_long": {
+  "file": "hydroponic_bed_trough_long.glb",
+  "source": "blender-mcp",
+  "bbox": [
+   1.8,
+   0.611,
+   1.25
+  ],
+  "cat": "scifi",
+  "place": "floor",
+  "tags": [
+   "decor",
+   "plant",
+   "light",
+   "glow"
+  ],
+  "light": 0.48,
+  "label": "Trough Long",
+  "lightColor": "#ff4fb8",
+  "lightY": 1.2
+ },
+ "hydroponic_bed_tower_ring": {
+  "file": "hydroponic_bed_tower_ring.glb",
+  "source": "blender-mcp",
+  "bbox": [
+   0.797,
+   0.76,
+   2.0
+  ],
+  "cat": "scifi",
+  "place": "floor",
+  "tags": [
+   "decor",
+   "plant",
+   "light",
+   "glow"
+  ],
+  "light": 0.48,
+  "label": "Tower Ring",
+  "lightColor": "#a56bff",
+  "lightY": 1.2
+ },
+ "hydroponic_bed_herb_wall": {
+  "file": "hydroponic_bed_herb_wall.glb",
+  "source": "blender-mcp",
+  "bbox": [
+   1.4,
+   0.275,
+   1.67
+  ],
+  "cat": "scifi",
+  "place": "floor",
+  "tags": [
+   "decor",
+   "plant",
+   "light",
+   "glow"
+  ],
+  "light": 0.48,
+  "label": "Herb Wall",
+  "lightColor": "#ff4fb8",
+  "lightY": 1.2
+ },
+ "hydroponic_bed_algae_tank": {
+  "file": "hydroponic_bed_algae_tank.glb",
+  "source": "blender-mcp",
+  "bbox": [
+   1.2,
+   0.6,
+   1.33
+  ],
+  "cat": "scifi",
+  "place": "floor",
+  "tags": [
+   "decor",
+   "plant",
+   "light",
+   "glow"
+  ],
+  "light": 0.48,
+  "label": "Algae Tank",
+  "lightColor": "#6dff8a",
+  "lightY": 1.2
+ },
+ "teleporter_pad_ring_pad": {
+  "file": "teleporter_pad_ring_pad.glb",
+  "source": "blender-mcp",
+  "bbox": [
+   1.8,
+   1.8,
+   2.02
+  ],
+  "cat": "scifi",
+  "place": "floor",
+  "tags": [
+   "decor",
+   "light",
+   "glow",
+   "focal"
+  ],
+  "light": 0.6,
+  "label": "Ring Pad",
+  "lightColor": "#5fe6ff",
+  "lightY": 1.2
+ },
+ "teleporter_pad_booth": {
+  "file": "teleporter_pad_booth.glb",
+  "source": "blender-mcp",
+  "bbox": [
+   1.9,
+   1.9,
+   2.42
+  ],
+  "cat": "scifi",
+  "place": "floor",
+  "tags": [
+   "decor",
+   "light",
+   "glow",
+   "focal"
+  ],
+  "light": 0.6,
+  "label": "Booth",
+  "lightColor": "#a56bff",
+  "lightY": 1.2
+ },
+ "captain_chair_command_throne": {
+  "file": "captain_chair_command_throne.glb",
+  "source": "blender-mcp",
+  "bbox": [
+   0.96,
+   0.81,
+   2.05
+  ],
+  "cat": "scifi",
+  "place": "floor",
+  "tags": [
+   "seating",
+   "faces-center",
+   "focal",
+   "light",
+   "glow"
+  ],
+  "light": 0.24,
+  "label": "Command Throne",
+  "lightColor": "#ffb35a",
+  "lightY": 1.2
+ },
+ "captain_chair_pilot_seat": {
+  "file": "captain_chair_pilot_seat.glb",
+  "source": "blender-mcp",
+  "bbox": [
+   0.92,
+   0.8,
+   1.8
+  ],
+  "cat": "scifi",
+  "place": "floor",
+  "tags": [
+   "seating",
+   "faces-center",
+   "focal",
+   "light",
+   "glow"
+  ],
+  "light": 0.24,
+  "label": "Pilot Seat",
+  "lightColor": "#5fe6ff",
+  "lightY": 1.2
+ },
+ "captain_chair_gunner_seat": {
+  "file": "captain_chair_gunner_seat.glb",
+  "source": "blender-mcp",
+  "bbox": [
+   0.92,
+   0.91,
+   1.55
+  ],
+  "cat": "scifi",
+  "place": "floor",
+  "tags": [
+   "seating",
+   "faces-center",
+   "focal",
+   "light",
+   "glow"
+  ],
+  "light": 0.24,
+  "label": "Gunner Seat",
+  "lightColor": "#ff5555",
+  "lightY": 1.2
+ },
+ "star_map_wall_globe": {
+  "file": "star_map_wall_globe.glb",
+  "source": "blender-mcp",
+  "bbox": [
+   0.944,
+   0.902,
+   1.85
+  ],
+  "cat": "scifi",
+  "place": "floor",
+  "tags": [
+   "decor",
+   "light",
+   "glow",
+   "focal"
+  ],
+  "light": 0.54,
+  "label": "Wall Globe",
+  "lightColor": "#6a8cff",
+  "lightY": 1.2
+ },
+ "star_map_floor_sphere": {
+  "file": "star_map_floor_sphere.glb",
+  "source": "blender-mcp",
+  "bbox": [
+   1.26,
+   1.26,
+   1.63
+  ],
+  "cat": "scifi",
+  "place": "floor",
+  "tags": [
+   "decor",
+   "light",
+   "glow",
+   "focal"
+  ],
+  "light": 0.54,
+  "label": "Floor Sphere",
+  "lightColor": "#5fe6ff",
+  "lightY": 1.2
+ },
+ "cargo_crate_standard": {
+  "file": "cargo_crate_standard.glb",
+  "source": "blender-mcp",
+  "bbox": [
+   0.86,
+   0.846,
+   0.8
+  ],
+  "cat": "scifi",
+  "place": "floor",
+  "tags": [
+   "decor",
+   "wall-hug"
+  ],
+  "label": "Standard"
+ },
+ "cargo_crate_ribbed_large": {
+  "file": "cargo_crate_ribbed_large.glb",
+  "source": "blender-mcp",
+  "bbox": [
+   1.2,
+   0.841,
+   1.0
+  ],
+  "cat": "scifi",
+  "place": "floor",
+  "tags": [
+   "decor",
+   "wall-hug"
+  ],
+  "label": "Ribbed Large"
+ },
+ "cargo_crate_hazard": {
+  "file": "cargo_crate_hazard.glb",
+  "source": "blender-mcp",
+  "bbox": [
+   1.296,
+   0.846,
+   1.383
+  ],
+  "cat": "scifi",
+  "place": "floor",
+  "tags": [
+   "decor",
+   "wall-hug"
+  ],
+  "label": "Hazard"
+ },
+ "cargo_crate_medical": {
+  "file": "cargo_crate_medical.glb",
+  "source": "blender-mcp",
+  "bbox": [
+   0.84,
+   0.64,
+   0.6
+  ],
+  "cat": "scifi",
+  "place": "floor",
+  "tags": [
+   "decor",
+   "wall-hug"
+  ],
+  "label": "Medical"
+ },
+ "cargo_crate_stack_two": {
+  "file": "cargo_crate_stack_two.glb",
+  "source": "blender-mcp",
+  "bbox": [
+   0.8,
+   0.816,
+   1.1
+  ],
+  "cat": "scifi",
+  "place": "floor",
+  "tags": [
+   "decor",
+   "wall-hug"
+  ],
+  "label": "Stack Two"
+ },
+ "cargo_crate_cryo_case": {
+  "file": "cargo_crate_cryo_case.glb",
+  "source": "blender-mcp",
+  "bbox": [
+   1.0,
+   0.525,
+   0.55
+  ],
+  "cat": "scifi",
+  "place": "floor",
+  "tags": [
+   "decor",
+   "wall-hug"
+  ],
+  "label": "Cryo Case"
+ },
+ "cargo_crate_ammo_box": {
+  "file": "cargo_crate_ammo_box.glb",
+  "source": "blender-mcp",
+  "bbox": [
+   0.62,
+   0.395,
+   0.34
+  ],
+  "cat": "scifi",
+  "place": "floor",
+  "tags": [
+   "decor",
+   "wall-hug"
+  ],
+  "label": "Ammo Box"
+ },
+ "cargo_crate_open_loot": {
+  "file": "cargo_crate_open_loot.glb",
+  "source": "blender-mcp",
+  "bbox": [
+   0.8,
+   0.864,
+   0.836
+  ],
+  "cat": "scifi",
+  "place": "floor",
+  "tags": [
+   "decor",
+   "wall-hug"
+  ],
+  "label": "Open Loot"
+ },
+ "canister_gas_tall": {
+  "file": "canister_gas_tall.glb",
+  "source": "blender-mcp",
+  "bbox": [
+   0.4,
+   0.4,
+   1.44
+  ],
+  "cat": "scifi",
+  "place": "floor",
+  "tags": [
+   "decor",
+   "wall-hug"
+  ],
+  "label": "Gas Tall"
+ },
+ "canister_fuel_drum": {
+  "file": "canister_fuel_drum.glb",
+  "source": "blender-mcp",
+  "bbox": [
+   0.63,
+   0.63,
+   0.94
+  ],
+  "cat": "scifi",
+  "place": "floor",
+  "tags": [
+   "decor",
+   "wall-hug"
+  ],
+  "label": "Fuel Drum"
+ },
+ "canister_coolant": {
+  "file": "canister_coolant.glb",
+  "source": "blender-mcp",
+  "bbox": [
+   0.6,
+   0.6,
+   0.96
+  ],
+  "cat": "scifi",
+  "place": "floor",
+  "tags": [
+   "decor",
+   "wall-hug"
+  ],
+  "label": "Coolant"
+ },
+ "canister_toxic": {
+  "file": "canister_toxic.glb",
+  "source": "blender-mcp",
+  "bbox": [
+   0.56,
+   0.565,
+   0.8
+  ],
+  "cat": "scifi",
+  "place": "floor",
+  "tags": [
+   "decor",
+   "wall-hug"
+  ],
+  "label": "Toxic"
+ },
+ "noodle_stall_street_cart": {
+  "file": "noodle_stall_street_cart.glb",
+  "source": "blender-mcp",
+  "bbox": [
+   1.6,
+   1.015,
+   2.157
+  ],
+  "cat": "scifi",
+  "place": "floor",
+  "tags": [
+   "decor",
+   "wall-hug",
+   "light",
+   "glow",
+   "holds-decor"
+  ],
+  "light": 0.72,
+  "label": "Street Cart",
+  "lightColor": "#ff5555",
+  "lightY": 1.2
+ },
+ "noodle_stall_counter_bar": {
+  "file": "noodle_stall_counter_bar.glb",
+  "source": "blender-mcp",
+  "bbox": [
+   2.1,
+   0.7,
+   1.46
+  ],
+  "cat": "scifi",
+  "place": "floor",
+  "tags": [
+   "decor",
+   "wall-hug",
+   "light",
+   "glow",
+   "holds-decor"
+  ],
+  "light": 0.72,
+  "label": "Counter Bar",
+  "lightColor": "#ff4fb8",
+  "lightY": 1.2
+ },
+ "noodle_stall_ramen_booth": {
+  "file": "noodle_stall_ramen_booth.glb",
+  "source": "blender-mcp",
+  "bbox": [
+   2.0,
+   1.065,
+   2.3
+  ],
+  "cat": "scifi",
+  "place": "floor",
+  "tags": [
+   "decor",
+   "wall-hug",
+   "light",
+   "glow",
+   "holds-decor"
+  ],
+  "light": 0.72,
+  "label": "Ramen Booth",
+  "lightColor": "#ffb35a",
+  "lightY": 1.2
+ },
+ "suit_rack_eva_rack": {
+  "file": "suit_rack_eva_rack.glb",
+  "source": "blender-mcp",
+  "bbox": [
+   1.419,
+   0.506,
+   2.0
+  ],
+  "cat": "scifi",
+  "place": "floor",
+  "tags": [
+   "decor",
+   "wall-hug",
+   "light",
+   "glow"
+  ],
+  "light": 0.3,
+  "label": "Eva Rack",
+  "lightColor": "#5fe6ff",
+  "lightY": 1.2
+ },
+ "suit_rack_armor_stand": {
+  "file": "suit_rack_armor_stand.glb",
+  "source": "blender-mcp",
+  "bbox": [
+   0.719,
+   0.6,
+   1.82
+  ],
+  "cat": "scifi",
+  "place": "floor",
+  "tags": [
+   "decor",
+   "wall-hug",
+   "light",
+   "glow"
+  ],
+  "light": 0.3,
+  "label": "Armor Stand",
+  "lightColor": "#ff5555",
+  "lightY": 1.2
+ },
+ "suit_rack_helmet_shelf": {
+  "file": "suit_rack_helmet_shelf.glb",
+  "source": "blender-mcp",
+  "bbox": [
+   1.25,
+   0.311,
+   0.87
+  ],
+  "cat": "scifi",
+  "place": "floor",
+  "tags": [
+   "decor",
+   "wall-hug",
+   "light",
+   "glow"
+  ],
+  "light": 0.3,
+  "label": "Helmet Shelf",
+  "lightColor": "#6dff8a",
+  "lightY": 1.2
+ },
+ "locker_bank_gym_row": {
+  "file": "locker_bank_gym_row.glb",
+  "source": "blender-mcp",
+  "bbox": [
+   1.6,
+   0.526,
+   1.9
+  ],
+  "cat": "scifi",
+  "place": "floor",
+  "tags": [
+   "storage",
+   "wall-hug",
+   "tall"
+  ],
+  "label": "Gym Row"
+ },
+ "locker_bank_crew_cubbies": {
+  "file": "locker_bank_crew_cubbies.glb",
+  "source": "blender-mcp",
+  "bbox": [
+   1.6,
+   0.506,
+   1.9
+  ],
+  "cat": "scifi",
+  "place": "floor",
+  "tags": [
+   "storage",
+   "wall-hug",
+   "tall"
+  ],
+  "label": "Crew Cubbies"
+ },
+ "locker_bank_security_lockers": {
+  "file": "locker_bank_security_lockers.glb",
+  "source": "blender-mcp",
+  "bbox": [
+   1.6,
+   0.526,
+   1.9
+  ],
+  "cat": "scifi",
+  "place": "floor",
+  "tags": [
+   "storage",
+   "wall-hug",
+   "tall"
+  ],
+  "label": "Security Lockers"
+ },
+ "locker_bank_mail_wall": {
+  "file": "locker_bank_mail_wall.glb",
+  "source": "blender-mcp",
+  "bbox": [
+   1.6,
+   0.526,
+   1.9
+  ],
+  "cat": "scifi",
+  "place": "floor",
+  "tags": [
+   "storage",
+   "wall-hug",
+   "tall"
+  ],
+  "label": "Mail Wall"
+ },
+ "locker_bank_bio_vault": {
+  "file": "locker_bank_bio_vault.glb",
+  "source": "blender-mcp",
+  "bbox": [
+   1.6,
+   0.535,
+   1.9
+  ],
+  "cat": "scifi",
+  "place": "floor",
+  "tags": [
+   "storage",
+   "wall-hug",
+   "tall"
+  ],
+  "label": "Bio Vault"
+ },
+ "android_service_bot": {
+  "file": "android_service_bot.glb",
+  "source": "blender-mcp",
+  "bbox": [
+   0.658,
+   0.56,
+   1.3
+  ],
+  "cat": "scifi",
+  "place": "floor",
+  "tags": [
+   "decor",
+   "light",
+   "glow"
+  ],
+  "light": 0.24,
+  "label": "Service Bot",
+  "lightColor": "#5fe6ff",
+  "lightY": 1.2
+ },
+ "android_bartender": {
+  "file": "android_bartender.glb",
+  "source": "blender-mcp",
+  "bbox": [
+   0.8,
+   0.425,
+   1.89
+  ],
+  "cat": "scifi",
+  "place": "floor",
+  "tags": [
+   "decor",
+   "light",
+   "glow"
+  ],
+  "light": 0.24,
+  "label": "Bartender",
+  "lightColor": "#ff4fb8",
+  "lightY": 1.2
+ },
+ "android_guard_mech": {
+  "file": "android_guard_mech.glb",
+  "source": "blender-mcp",
+  "bbox": [
+   1.385,
+   0.676,
+   2.27
+  ],
+  "cat": "scifi",
+  "place": "floor",
+  "tags": [
+   "decor",
+   "light",
+   "glow"
+  ],
+  "light": 0.24,
+  "label": "Guard Mech",
+  "lightColor": "#ff5555",
+  "lightY": 1.2
+ },
+ "android_display_mannequin": {
+  "file": "android_display_mannequin.glb",
+  "source": "blender-mcp",
+  "bbox": [
+   0.776,
+   0.6,
+   1.67
+  ],
+  "cat": "scifi",
+  "place": "floor",
+  "tags": [
+   "decor",
+   "light",
+   "glow"
+  ],
+  "light": 0.24,
+  "label": "Display Mannequin",
+  "lightColor": "#a56bff",
+  "lightY": 1.2
+ },
+ "terminal_kiosk_info_pillar": {
+  "file": "terminal_kiosk_info_pillar.glb",
+  "source": "blender-mcp",
+  "bbox": [
+   0.56,
+   0.4,
+   1.78
+  ],
+  "cat": "scifi",
+  "place": "floor",
+  "tags": [
+   "decor",
+   "light",
+   "glow"
+  ],
+  "light": 0.36,
+  "label": "Info Pillar",
+  "lightColor": "#5fe6ff",
+  "lightY": 1.2
+ },
+ "terminal_kiosk_ticket_booth": {
+  "file": "terminal_kiosk_ticket_booth.glb",
+  "source": "blender-mcp",
+  "bbox": [
+   1.1,
+   0.81,
+   2.11
+  ],
+  "cat": "scifi",
+  "place": "floor",
+  "tags": [
+   "decor",
+   "light",
+   "glow"
+  ],
+  "light": 0.36,
+  "label": "Ticket Booth",
+  "lightColor": "#ffb35a",
+  "lightY": 1.2
+ },
+ "terminal_kiosk_map_kiosk": {
+  "file": "terminal_kiosk_map_kiosk.glb",
+  "source": "blender-mcp",
+  "bbox": [
+   1.0,
+   0.6,
+   2.141
+  ],
+  "cat": "scifi",
+  "place": "floor",
+  "tags": [
+   "decor",
+   "light",
+   "glow"
+  ],
+  "light": 0.36,
+  "label": "Map Kiosk",
+  "lightColor": "#6dff8a",
+  "lightY": 1.2
+ },
+ "terminal_kiosk_hack_deck": {
+  "file": "terminal_kiosk_hack_deck.glb",
+  "source": "blender-mcp",
+  "bbox": [
+   1.0,
+   0.782,
+   1.297
+  ],
+  "cat": "scifi",
+  "place": "floor",
+  "tags": [
+   "decor",
+   "light",
+   "glow"
+  ],
+  "light": 0.36,
+  "label": "Hack Deck",
+  "lightColor": "#ff4fb8",
+  "lightY": 1.2
+ },
+ "neon_sign_arrow": {
+  "file": "neon_sign_arrow.glb",
+  "source": "blender-mcp",
+  "bbox": [
+   1.0,
+   0.085,
+   0.6
+  ],
+  "cat": "light",
+  "place": "wall",
+  "y": 2.0,
+  "tags": [
+   "decor",
+   "light",
+   "glow",
+   "wallart"
+  ],
+  "light": 0.42,
+  "lightY": 0.0,
+  "label": "Arrow",
+  "lightColor": "#ff4fb8"
+ },
+ "neon_sign_bowl": {
+  "file": "neon_sign_bowl.glb",
+  "source": "blender-mcp",
+  "bbox": [
+   1.0,
+   0.085,
+   0.6
+  ],
+  "cat": "light",
+  "place": "wall",
+  "y": 2.0,
+  "tags": [
+   "decor",
+   "light",
+   "glow",
+   "wallart"
+  ],
+  "light": 0.42,
+  "lightY": 0.0,
+  "label": "Bowl",
+  "lightColor": "#ff5555"
+ },
+ "neon_sign_ring": {
+  "file": "neon_sign_ring.glb",
+  "source": "blender-mcp",
+  "bbox": [
+   1.0,
+   0.085,
+   0.6
+  ],
+  "cat": "light",
+  "place": "wall",
+  "y": 2.0,
+  "tags": [
+   "decor",
+   "light",
+   "glow",
+   "wallart"
+  ],
+  "light": 0.42,
+  "lightY": 0.0,
+  "label": "Ring",
+  "lightColor": "#5fe6ff"
+ },
+ "neon_sign_triangle": {
+  "file": "neon_sign_triangle.glb",
+  "source": "blender-mcp",
+  "bbox": [
+   1.0,
+   0.085,
+   0.6
+  ],
+  "cat": "light",
+  "place": "wall",
+  "y": 2.0,
+  "tags": [
+   "decor",
+   "light",
+   "glow",
+   "wallart"
+  ],
+  "light": 0.42,
+  "lightY": 0.0,
+  "label": "Triangle",
+  "lightColor": "#ffb35a"
+ },
+ "neon_sign_hex": {
+  "file": "neon_sign_hex.glb",
+  "source": "blender-mcp",
+  "bbox": [
+   1.0,
+   0.085,
+   0.704
+  ],
+  "cat": "light",
+  "place": "wall",
+  "y": 2.0,
+  "tags": [
+   "decor",
+   "light",
+   "glow",
+   "wallart"
+  ],
+  "light": 0.42,
+  "lightY": 0.0,
+  "label": "Hex",
+  "lightColor": "#6dff8a"
+ },
+ "neon_sign_bars": {
+  "file": "neon_sign_bars.glb",
+  "source": "blender-mcp",
+  "bbox": [
+   1.0,
+   0.07,
+   0.6
+  ],
+  "cat": "light",
+  "place": "wall",
+  "y": 2.0,
+  "tags": [
+   "decor",
+   "light",
+   "glow",
+   "wallart"
+  ],
+  "light": 0.42,
+  "lightY": 0.0,
+  "label": "Bars",
+  "lightColor": "#a56bff"
+ },
+ "neon_sign_glyphs": {
+  "file": "neon_sign_glyphs.glb",
+  "source": "blender-mcp",
+  "bbox": [
+   1.0,
+   0.085,
+   0.6
+  ],
+  "cat": "light",
+  "place": "wall",
+  "y": 2.0,
+  "tags": [
+   "decor",
+   "light",
+   "glow",
+   "wallart"
+  ],
+  "light": 0.42,
+  "lightY": 0.0,
+  "label": "Glyphs",
+  "lightColor": "#5fe6ff"
+ },
+ "neon_sign_cross": {
+  "file": "neon_sign_cross.glb",
+  "source": "blender-mcp",
+  "bbox": [
+   1.0,
+   0.085,
+   0.61
+  ],
+  "cat": "light",
+  "place": "wall",
+  "y": 2.0,
+  "tags": [
+   "decor",
+   "light",
+   "glow",
+   "wallart"
+  ],
+  "light": 0.42,
+  "lightY": 0.0,
+  "label": "Cross",
+  "lightColor": "#ff5555"
+ },
+ "light_strip_ceiling_bar": {
+  "file": "light_strip_ceiling_bar.glb",
+  "source": "blender-mcp",
+  "bbox": [
+   1.8,
+   0.16,
+   0.07
+  ],
+  "cat": "light",
+  "place": "ceiling",
+  "tags": [
+   "decor",
+   "light",
+   "glow",
+   "ceiling-decor"
+  ],
+  "light": 0.54,
+  "label": "Ceiling Bar",
+  "lightColor": "#fff1dc",
+  "lightY": 0.15
+ },
+ "light_strip_ceiling_cross": {
+  "file": "light_strip_ceiling_cross.glb",
+  "source": "blender-mcp",
+  "bbox": [
+   1.6,
+   1.6,
+   0.06
+  ],
+  "cat": "light",
+  "place": "ceiling",
+  "tags": [
+   "decor",
+   "light",
+   "glow",
+   "ceiling-decor"
+  ],
+  "light": 0.54,
+  "label": "Ceiling Cross",
+  "lightColor": "#5fe6ff",
+  "lightY": 0.15
+ },
+ "light_strip_wall_run": {
+  "file": "light_strip_wall_run.glb",
+  "source": "blender-mcp",
+  "bbox": [
+   2.0,
+   0.065,
+   0.1
+  ],
+  "cat": "light",
+  "place": "wall",
+  "tags": [
+   "decor",
+   "light",
+   "glow",
+   "ceiling-decor"
+  ],
+  "light": 0.54,
+  "y": 0.4,
+  "label": "Wall Run",
+  "lightColor": "#5fe6ff",
+  "lightY": 0.3
+ },
+ "light_strip_wall_stairs": {
+  "file": "light_strip_wall_stairs.glb",
+  "source": "blender-mcp",
+  "bbox": [
+   2.38,
+   0.04,
+   0.63
+  ],
+  "cat": "light",
+  "place": "wall",
+  "tags": [
+   "decor",
+   "light",
+   "glow",
+   "ceiling-decor"
+  ],
+  "light": 0.54,
+  "y": 1.0,
+  "label": "Wall Stairs",
+  "lightColor": "#ff4fb8",
+  "lightY": 0.3
+ },
+ "light_strip_ceiling_panel_row": {
+  "file": "light_strip_ceiling_panel_row.glb",
+  "source": "blender-mcp",
+  "bbox": [
+   2.3,
+   0.5,
+   0.05
+  ],
+  "cat": "light",
+  "place": "ceiling",
+  "tags": [
+   "decor",
+   "light",
+   "glow",
+   "ceiling-decor"
+  ],
+  "light": 0.54,
+  "label": "Ceiling Panel Row",
+  "lightColor": "#fff1dc",
+  "lightY": 0.15
+ },
+ "wall_light_box_sconce": {
+  "file": "wall_light_box_sconce.glb",
+  "source": "blender-mcp",
+  "bbox": [
+   0.2,
+   0.12,
+   0.3
+  ],
+  "cat": "light",
+  "place": "wall",
+  "y": 1.8,
+  "tags": [
+   "decor",
+   "light",
+   "glow"
+  ],
+  "light": 0.48,
+  "lightY": 0.0,
+  "label": "Box Sconce",
+  "lightColor": "#ffb35a"
+ },
+ "wall_light_round_lamp": {
+  "file": "wall_light_round_lamp.glb",
+  "source": "blender-mcp",
+  "bbox": [
+   0.24,
+   0.109,
+   0.24
+  ],
+  "cat": "light",
+  "place": "wall",
+  "y": 1.8,
+  "tags": [
+   "decor",
+   "light",
+   "glow"
+  ],
+  "light": 0.48,
+  "lightY": 0.0,
+  "label": "Round Lamp",
+  "lightColor": "#5fe6ff"
+ },
+ "wall_light_tube_pair": {
+  "file": "wall_light_tube_pair.glb",
+  "source": "blender-mcp",
+  "bbox": [
+   0.18,
+   0.06,
+   0.5
+  ],
+  "cat": "light",
+  "place": "wall",
+  "y": 1.8,
+  "tags": [
+   "decor",
+   "light",
+   "glow"
+  ],
+  "light": 0.48,
+  "lightY": 0.0,
+  "label": "Tube Pair",
+  "lightColor": "#fff1dc"
+ },
+ "wall_light_uplight_wing": {
+  "file": "wall_light_uplight_wing.glb",
+  "source": "blender-mcp",
+  "bbox": [
+   0.494,
+   0.1,
+   0.25
+  ],
+  "cat": "light",
+  "place": "wall",
+  "y": 1.8,
+  "tags": [
+   "decor",
+   "light",
+   "glow"
+  ],
+  "light": 0.48,
+  "lightY": 0.0,
+  "label": "Uplight Wing",
+  "lightColor": "#ff4fb8"
+ },
+ "wall_light_porthole_glow": {
+  "file": "wall_light_porthole_glow.glb",
+  "source": "blender-mcp",
+  "bbox": [
+   0.34,
+   0.06,
+   0.34
+  ],
+  "cat": "light",
+  "place": "wall",
+  "y": 1.8,
+  "tags": [
+   "decor",
+   "light",
+   "glow"
+  ],
+  "light": 0.48,
+  "lightY": 0.0,
+  "label": "Porthole Glow",
+  "lightColor": "#6dff8a"
+ },
+ "wall_light_slit": {
+  "file": "wall_light_slit.glb",
+  "source": "blender-mcp",
+  "bbox": [
+   0.6,
+   0.075,
+   0.09
+  ],
+  "cat": "light",
+  "place": "wall",
+  "y": 1.8,
+  "tags": [
+   "decor",
+   "light",
+   "glow"
+  ],
+  "light": 0.48,
+  "lightY": 0.0,
+  "label": "Slit",
+  "lightColor": "#ff5555"
+ },
+ "holo_lamp_cube": {
+  "file": "holo_lamp_cube.glb",
+  "source": "blender-mcp",
+  "bbox": [
+   0.214,
+   0.2,
+   0.287
+  ],
+  "cat": "light",
+  "place": "surface",
+  "tags": [
+   "decor",
+   "light",
+   "glow"
+  ],
+  "light": 0.3,
+  "lightY": 0.3,
+  "label": "Cube",
+  "lightColor": "#5fe6ff"
+ },
+ "holo_lamp_orbit": {
+  "file": "holo_lamp_orbit.glb",
+  "source": "blender-mcp",
+  "bbox": [
+   0.217,
+   0.2,
+   0.253
+  ],
+  "cat": "light",
+  "place": "surface",
+  "tags": [
+   "decor",
+   "light",
+   "glow"
+  ],
+  "light": 0.3,
+  "lightY": 0.3,
+  "label": "Orbit",
+  "lightColor": "#ff4fb8"
+ },
+ "holo_lamp_cone_beam": {
+  "file": "holo_lamp_cone_beam.glb",
+  "source": "blender-mcp",
+  "bbox": [
+   0.2,
+   0.2,
+   0.295
+  ],
+  "cat": "light",
+  "place": "surface",
+  "tags": [
+   "decor",
+   "light",
+   "glow"
+  ],
+  "light": 0.3,
+  "lightY": 0.3,
+  "label": "Cone Beam",
+  "lightColor": "#6dff8a"
+ },
+ "floor_uplight_wedge": {
+  "file": "floor_uplight_wedge.glb",
+  "source": "blender-mcp",
+  "bbox": [
+   0.299,
+   0.14,
+   1.6
+  ],
+  "cat": "light",
+  "place": "floor",
+  "tags": [
+   "decor",
+   "light",
+   "glow",
+   "corner"
+  ],
+  "light": 0.6,
+  "lightY": 1.2,
+  "label": "Wedge",
+  "lightColor": "#5fe6ff"
+ },
+ "floor_uplight_column": {
+  "file": "floor_uplight_column.glb",
+  "source": "blender-mcp",
+  "bbox": [
+   0.24,
+   0.24,
+   1.85
+  ],
+  "cat": "light",
+  "place": "floor",
+  "tags": [
+   "decor",
+   "light",
+   "glow",
+   "corner"
+  ],
+  "light": 0.6,
+  "lightY": 1.2,
+  "label": "Column",
+  "lightColor": "#ff4fb8"
+ },
+ "floor_uplight_ground_pod": {
+  "file": "floor_uplight_ground_pod.glb",
+  "source": "blender-mcp",
+  "bbox": [
+   0.5,
+   0.5,
+   0.2
+  ],
+  "cat": "light",
+  "place": "floor",
+  "tags": [
+   "decor",
+   "light",
+   "glow",
+   "corner"
+  ],
+  "light": 0.6,
+  "lightY": 1.2,
+  "label": "Ground Pod",
+  "lightColor": "#ffb35a"
+ },
+ "beacon_warning_red": {
+  "file": "beacon_warning_red.glb",
+  "source": "blender-mcp",
+  "bbox": [
+   0.14,
+   0.16,
+   0.14
+  ],
+  "cat": "light",
+  "place": "wall",
+  "tags": [
+   "decor",
+   "light",
+   "glow"
+  ],
+  "light": 0.36,
+  "y": 2.3,
+  "label": "Warning Red",
+  "lightColor": "#ff5555",
+  "lightY": 0.3
+ },
+ "beacon_rotary_amber": {
+  "file": "beacon_rotary_amber.glb",
+  "source": "blender-mcp",
+  "bbox": [
+   0.197,
+   0.2,
+   0.17
+  ],
+  "cat": "light",
+  "place": "ceiling",
+  "tags": [
+   "decor",
+   "light",
+   "glow"
+  ],
+  "light": 0.36,
+  "label": "Rotary Amber",
+  "lightColor": "#ffb35a",
+  "lightY": 0.15
+ },
+ "beacon_status_ring": {
+  "file": "beacon_status_ring.glb",
+  "source": "blender-mcp",
+  "bbox": [
+   0.24,
+   0.057,
+   0.24
+  ],
+  "cat": "light",
+  "place": "wall",
+  "tags": [
+   "decor",
+   "light",
+   "glow"
+  ],
+  "light": 0.36,
+  "y": 1.9,
+  "label": "Status Ring",
+  "lightColor": "#6dff8a",
+  "lightY": 0.3
+ },
+ "beacon_alarm_panel": {
+  "file": "beacon_alarm_panel.glb",
+  "source": "blender-mcp",
+  "bbox": [
+   0.35,
+   0.065,
+   0.25
+  ],
+  "cat": "light",
+  "place": "wall",
+  "tags": [
+   "decor",
+   "light",
+   "glow"
+  ],
+  "light": 0.36,
+  "y": 2.0,
+  "label": "Alarm Panel",
+  "lightColor": "#ff5555",
+  "lightY": 0.3
+ },
+ "holo_poster_planet": {
+  "file": "holo_poster_planet.glb",
+  "source": "blender-mcp",
+  "bbox": [
+   0.9,
+   0.4,
+   0.65
+  ],
+  "cat": "wallart",
+  "place": "wall",
+  "y": 1.45,
+  "tags": [
+   "wallart",
+   "decor",
+   "art",
+   "light",
+   "glow"
+  ],
+  "light": 0.15,
+  "lightY": 0.35,
+  "as": "painting",
+  "label": "Planet",
+  "lightColor": "#5fe6ff"
+ },
+ "holo_poster_skyline": {
+  "file": "holo_poster_skyline.glb",
+  "source": "blender-mcp",
+  "bbox": [
+   0.9,
+   0.066,
+   0.65
+  ],
+  "cat": "wallart",
+  "place": "wall",
+  "y": 1.45,
+  "tags": [
+   "wallart",
+   "decor",
+   "art",
+   "light",
+   "glow"
+  ],
+  "light": 0.15,
+  "lightY": 0.35,
+  "as": "painting",
+  "label": "Skyline",
+  "lightColor": "#ff4fb8"
+ },
+ "holo_poster_waveform": {
+  "file": "holo_poster_waveform.glb",
+  "source": "blender-mcp",
+  "bbox": [
+   0.9,
+   0.065,
+   0.65
+  ],
+  "cat": "wallart",
+  "place": "wall",
+  "y": 1.45,
+  "tags": [
+   "wallart",
+   "decor",
+   "art",
+   "light",
+   "glow"
+  ],
+  "light": 0.15,
+  "lightY": 0.35,
+  "as": "painting",
+  "label": "Waveform",
+  "lightColor": "#6dff8a"
+ },
+ "holo_poster_nebula": {
+  "file": "holo_poster_nebula.glb",
+  "source": "blender-mcp",
+  "bbox": [
+   0.9,
+   0.12,
+   0.65
+  ],
+  "cat": "wallart",
+  "place": "wall",
+  "y": 1.45,
+  "tags": [
+   "wallart",
+   "decor",
+   "art",
+   "light",
+   "glow"
+  ],
+  "light": 0.15,
+  "lightY": 0.35,
+  "as": "painting",
+  "label": "Nebula",
+  "lightColor": "#a56bff"
+ },
+ "holo_poster_ship": {
+  "file": "holo_poster_ship.glb",
+  "source": "blender-mcp",
+  "bbox": [
+   0.9,
+   0.065,
+   0.65
+  ],
+  "cat": "wallart",
+  "place": "wall",
+  "y": 1.45,
+  "tags": [
+   "wallart",
+   "decor",
+   "art",
+   "light",
+   "glow"
+  ],
+  "light": 0.15,
+  "lightY": 0.35,
+  "as": "painting",
+  "label": "Ship",
+  "lightColor": "#ffb35a"
+ },
+ "holo_poster_circuit": {
+  "file": "holo_poster_circuit.glb",
+  "source": "blender-mcp",
+  "bbox": [
+   0.9,
+   0.065,
+   0.65
+  ],
+  "cat": "wallart",
+  "place": "wall",
+  "y": 1.45,
+  "tags": [
+   "wallart",
+   "decor",
+   "art",
+   "light",
+   "glow"
+  ],
+  "light": 0.15,
+  "lightY": 0.35,
+  "as": "painting",
+  "label": "Circuit",
+  "lightColor": "#5fe6ff"
+ },
+ "holo_poster_mountains": {
+  "file": "holo_poster_mountains.glb",
+  "source": "blender-mcp",
+  "bbox": [
+   0.9,
+   0.065,
+   0.65
+  ],
+  "cat": "wallart",
+  "place": "wall",
+  "y": 1.45,
+  "tags": [
+   "wallart",
+   "decor",
+   "art",
+   "light",
+   "glow"
+  ],
+  "light": 0.15,
+  "lightY": 0.35,
+  "as": "painting",
+  "label": "Mountains",
+  "lightColor": "#6a8cff"
+ },
+ "holo_poster_eye": {
+  "file": "holo_poster_eye.glb",
+  "source": "blender-mcp",
+  "bbox": [
+   0.9,
+   0.105,
+   0.65
+  ],
+  "cat": "wallart",
+  "place": "wall",
+  "y": 1.45,
+  "tags": [
+   "wallart",
+   "decor",
+   "art",
+   "light",
+   "glow"
+  ],
+  "light": 0.15,
+  "lightY": 0.35,
+  "as": "painting",
+  "label": "Eye",
+  "lightColor": "#ff5555"
+ },
+ "wall_screen_wide_blue": {
+  "file": "wall_screen_wide_blue.glb",
+  "source": "blender-mcp",
+  "bbox": [
+   1.6,
+   0.053,
+   0.9
+  ],
+  "cat": "wallart",
+  "place": "wall",
+  "y": 1.3,
+  "tags": [
+   "wallart",
+   "decor",
+   "light",
+   "glow"
+  ],
+  "light": 0.21,
+  "lightY": 0.4,
+  "label": "Wide Blue",
+  "lightColor": "#6a8cff"
+ },
+ "wall_screen_tall_cyan": {
+  "file": "wall_screen_tall_cyan.glb",
+  "source": "blender-mcp",
+  "bbox": [
+   0.6,
+   0.053,
+   1.3
+  ],
+  "cat": "wallart",
+  "place": "wall",
+  "y": 1.3,
+  "tags": [
+   "wallart",
+   "decor",
+   "light",
+   "glow"
+  ],
+  "light": 0.21,
+  "lightY": 0.4,
+  "label": "Tall Cyan",
+  "lightColor": "#5fe6ff"
+ },
+ "wall_screen_triple": {
+  "file": "wall_screen_triple.glb",
+  "source": "blender-mcp",
+  "bbox": [
+   1.9,
+   0.053,
+   0.45
+  ],
+  "cat": "wallart",
+  "place": "wall",
+  "y": 1.3,
+  "tags": [
+   "wallart",
+   "decor",
+   "light",
+   "glow"
+  ],
+  "light": 0.21,
+  "lightY": 0.4,
+  "label": "Triple",
+  "lightColor": "#6dff8a"
+ },
+ "wall_screen_status_board": {
+  "file": "wall_screen_status_board.glb",
+  "source": "blender-mcp",
+  "bbox": [
+   1.2,
+   0.061,
+   0.8
+  ],
+  "cat": "wallart",
+  "place": "wall",
+  "y": 1.3,
+  "tags": [
+   "wallart",
+   "decor",
+   "light",
+   "glow"
+  ],
+  "light": 0.21,
+  "lightY": 0.4,
+  "label": "Status Board",
+  "lightColor": "#ffb35a"
+ },
+ "wall_screen_data_ticker": {
+  "file": "wall_screen_data_ticker.glb",
+  "source": "blender-mcp",
+  "bbox": [
+   1.6,
+   0.066,
+   0.22
+  ],
+  "cat": "wallart",
+  "place": "wall",
+  "y": 1.3,
+  "tags": [
+   "wallart",
+   "decor",
+   "light",
+   "glow"
+  ],
+  "light": 0.21,
+  "lightY": 0.4,
+  "label": "Data Ticker",
+  "lightColor": "#ff4fb8"
+ },
+ "wall_screen_radar": {
+  "file": "wall_screen_radar.glb",
+  "source": "blender-mcp",
+  "bbox": [
+   0.8,
+   0.068,
+   0.8
+  ],
+  "cat": "wallart",
+  "place": "wall",
+  "y": 1.3,
+  "tags": [
+   "wallart",
+   "decor",
+   "light",
+   "glow"
+  ],
+  "light": 0.21,
+  "lightY": 0.4,
+  "label": "Radar",
+  "lightColor": "#6dff8a"
+ },
+ "wall_vent_grille_square": {
+  "file": "wall_vent_grille_square.glb",
+  "source": "blender-mcp",
+  "bbox": [
+   0.6,
+   0.076,
+   0.6
+  ],
+  "cat": "decor",
+  "place": "wall",
+  "y": 0.5,
+  "tags": [
+   "decor",
+   "wallart"
+  ],
+  "label": "Grille Square"
+ },
+ "wall_vent_louver_wide": {
+  "file": "wall_vent_louver_wide.glb",
+  "source": "blender-mcp",
+  "bbox": [
+   1.2,
+   0.219,
+   0.35
+  ],
+  "cat": "decor",
+  "place": "wall",
+  "y": 0.5,
+  "tags": [
+   "decor",
+   "wallart"
+  ],
+  "label": "Louver Wide"
+ },
+ "wall_vent_fan_round": {
+  "file": "wall_vent_fan_round.glb",
+  "source": "blender-mcp",
+  "bbox": [
+   0.624,
+   0.124,
+   0.624
+  ],
+  "cat": "decor",
+  "place": "wall",
+  "y": 0.5,
+  "tags": [
+   "decor",
+   "wallart"
+  ],
+  "label": "Fan Round"
+ },
+ "wall_vent_duct_port": {
+  "file": "wall_vent_duct_port.glb",
+  "source": "blender-mcp",
+  "bbox": [
+   0.5,
+   0.311,
+   0.5
+  ],
+  "cat": "decor",
+  "place": "wall",
+  "y": 0.5,
+  "tags": [
+   "decor",
+   "wallart"
+  ],
+  "label": "Duct Port"
+ },
+ "wall_shelf_floating_plank": {
+  "file": "wall_shelf_floating_plank.glb",
+  "source": "blender-mcp",
+  "bbox": [
+   0.9,
+   0.206,
+   0.04
+  ],
+  "cat": "wallart",
+  "place": "wall",
+  "y": 1.4,
+  "tags": [
+   "wallart",
+   "decor",
+   "holds-decor"
+  ],
+  "as": "wall_shelf",
+  "label": "Floating Plank"
+ },
+ "wall_shelf_bracket_rack": {
+  "file": "wall_shelf_bracket_rack.glb",
+  "source": "blender-mcp",
+  "bbox": [
+   0.9,
+   0.206,
+   0.15
+  ],
+  "cat": "wallart",
+  "place": "wall",
+  "y": 1.4,
+  "tags": [
+   "wallart",
+   "decor",
+   "holds-decor"
+  ],
+  "as": "wall_shelf",
+  "label": "Bracket Rack"
+ },
+ "wall_shelf_glass_shelf": {
+  "file": "wall_shelf_glass_shelf.glb",
+  "source": "blender-mcp",
+  "bbox": [
+   0.9,
+   0.206,
+   0.113
+  ],
+  "cat": "wallart",
+  "place": "wall",
+  "y": 1.4,
+  "tags": [
+   "wallart",
+   "decor",
+   "holds-decor"
+  ],
+  "as": "wall_shelf",
+  "label": "Glass Shelf"
+ },
+ "wall_shelf_cargo_net": {
+  "file": "wall_shelf_cargo_net.glb",
+  "source": "blender-mcp",
+  "bbox": [
+   0.9,
+   0.206,
+   0.22
+  ],
+  "cat": "wallart",
+  "place": "wall",
+  "y": 1.4,
+  "tags": [
+   "wallart",
+   "decor",
+   "holds-decor"
+  ],
+  "as": "wall_shelf",
+  "label": "Cargo Net"
+ },
+ "pipe_run_horizontal_pair": {
+  "file": "pipe_run_horizontal_pair.glb",
+  "source": "blender-mcp",
+  "bbox": [
+   2.0,
+   0.127,
+   0.275
+  ],
+  "cat": "decor",
+  "place": "wall",
+  "y": 0.2,
+  "tags": [
+   "decor",
+   "wallart",
+   "wall-hug"
+  ],
+  "label": "Horizontal Pair"
+ },
+ "pipe_run_vertical_trunk": {
+  "file": "pipe_run_vertical_trunk.glb",
+  "source": "blender-mcp",
+  "bbox": [
+   0.312,
+   0.16,
+   2.4
+  ],
+  "cat": "decor",
+  "place": "wall",
+  "y": 0.2,
+  "tags": [
+   "decor",
+   "wallart",
+   "wall-hug"
+  ],
+  "label": "Vertical Trunk"
+ },
+ "pipe_run_corner_manifold": {
+  "file": "pipe_run_corner_manifold.glb",
+  "source": "blender-mcp",
+  "bbox": [
+   1.082,
+   0.16,
+   1.275
+  ],
+  "cat": "decor",
+  "place": "wall",
+  "y": 0.2,
+  "tags": [
+   "decor",
+   "wallart",
+   "wall-hug"
+  ],
+  "label": "Corner Manifold"
+ },
+ "pipe_run_valve_bank": {
+  "file": "pipe_run_valve_bank.glb",
+  "source": "blender-mcp",
+  "bbox": [
+   1.4,
+   0.215,
+   0.23
+  ],
+  "cat": "decor",
+  "place": "wall",
+  "y": 0.2,
+  "tags": [
+   "decor",
+   "wallart",
+   "wall-hug"
+  ],
+  "label": "Valve Bank"
+ },
+ "signage_exit_arrow": {
+  "file": "signage_exit_arrow.glb",
+  "source": "blender-mcp",
+  "bbox": [
+   0.6,
+   0.056,
+   0.22
+  ],
+  "cat": "wallart",
+  "place": "wall",
+  "y": 2.0,
+  "tags": [
+   "decor",
+   "wallart",
+   "light",
+   "glow"
+  ],
+  "light": 0.18,
+  "lightY": 0.0,
+  "label": "Exit Arrow",
+  "lightColor": "#6dff8a"
+ },
+ "signage_hazard_plate": {
+  "file": "signage_hazard_plate.glb",
+  "source": "blender-mcp",
+  "bbox": [
+   0.5,
+   0.065,
+   0.5
+  ],
+  "cat": "wallart",
+  "place": "wall",
+  "y": 2.0,
+  "tags": [
+   "decor",
+   "wallart",
+   "light",
+   "glow"
+  ],
+  "light": 0.18,
+  "lightY": 0.0,
+  "label": "Hazard Plate",
+  "lightColor": "#ffb35a"
+ },
+ "signage_deck_number": {
+  "file": "signage_deck_number.glb",
+  "source": "blender-mcp",
+  "bbox": [
+   0.5,
+   0.052,
+   0.3
+  ],
+  "cat": "wallart",
+  "place": "wall",
+  "y": 2.0,
+  "tags": [
+   "decor",
+   "wallart",
+   "light",
+   "glow"
+  ],
+  "light": 0.18,
+  "lightY": 0.0,
+  "label": "Deck Number",
+  "lightColor": "#5fe6ff"
+ },
+ "signage_no_entry": {
+  "file": "signage_no_entry.glb",
+  "source": "blender-mcp",
+  "bbox": [
+   0.4,
+   0.062,
+   0.4
+  ],
+  "cat": "wallart",
+  "place": "wall",
+  "y": 2.0,
+  "tags": [
+   "decor",
+   "wallart",
+   "light",
+   "glow"
+  ],
+  "light": 0.18,
+  "lightY": 0.0,
+  "label": "No Entry",
+  "lightColor": "#ff5555"
+ },
+ "signage_restricted_zone": {
+  "file": "signage_restricted_zone.glb",
+  "source": "blender-mcp",
+  "bbox": [
+   0.991,
+   0.056,
+   1.014
+  ],
+  "cat": "wallart",
+  "place": "wall",
+  "y": 2.0,
+  "tags": [
+   "decor",
+   "wallart",
+   "light",
+   "glow"
+  ],
+  "light": 0.18,
+  "lightY": 0.0,
+  "label": "Restricted Zone",
+  "lightColor": "#ff5555"
+ },
+ "control_panel_switch_bank": {
+  "file": "control_panel_switch_bank.glb",
+  "source": "blender-mcp",
+  "bbox": [
+   0.6,
+   0.09,
+   0.4
+  ],
+  "cat": "wallart",
+  "place": "wall",
+  "y": 1.1,
+  "tags": [
+   "decor",
+   "wallart",
+   "light",
+   "glow"
+  ],
+  "light": 0.18,
+  "lightY": 0.2,
+  "label": "Switch Bank",
+  "lightColor": "#ffb35a"
+ },
+ "control_panel_touch_slab": {
+  "file": "control_panel_touch_slab.glb",
+  "source": "blender-mcp",
+  "bbox": [
+   0.5,
+   0.051,
+   0.7
+  ],
+  "cat": "wallart",
+  "place": "wall",
+  "y": 1.1,
+  "tags": [
+   "decor",
+   "wallart",
+   "light",
+   "glow"
+  ],
+  "light": 0.18,
+  "lightY": 0.2,
+  "label": "Touch Slab",
+  "lightColor": "#5fe6ff"
+ },
+ "control_panel_door_keypad": {
+  "file": "control_panel_door_keypad.glb",
+  "source": "blender-mcp",
+  "bbox": [
+   0.22,
+   0.061,
+   0.34
+  ],
+  "cat": "wallart",
+  "place": "wall",
+  "y": 1.1,
+  "tags": [
+   "decor",
+   "wallart",
+   "light",
+   "glow"
+  ],
+  "light": 0.18,
+  "lightY": 0.2,
+  "label": "Door Keypad",
+  "lightColor": "#6dff8a"
+ },
+ "datapad_tablet": {
+  "file": "datapad_tablet.glb",
+  "source": "blender-mcp",
+  "bbox": [
+   0.22,
+   0.16,
+   0.015
+  ],
+  "cat": "decor",
+  "place": "surface",
+  "tags": [
+   "decor"
+  ],
+  "label": "Tablet"
+ },
+ "datapad_stack": {
+  "file": "datapad_stack.glb",
+  "source": "blender-mcp",
+  "bbox": [
+   0.23,
+   0.16,
+   0.045
+  ],
+  "cat": "decor",
+  "place": "surface",
+  "tags": [
+   "decor"
+  ],
+  "label": "Stack"
+ },
+ "datapad_folding": {
+  "file": "datapad_folding.glb",
+  "source": "blender-mcp",
+  "bbox": [
+   0.2,
+   0.148,
+   0.14
+  ],
+  "cat": "decor",
+  "place": "surface",
+  "tags": [
+   "decor"
+  ],
+  "label": "Folding"
+ },
+ "datapad_holo_slate": {
+  "file": "datapad_holo_slate.glb",
+  "source": "blender-mcp",
+  "bbox": [
+   0.14,
+   0.1,
+   0.164
+  ],
+  "cat": "decor",
+  "place": "surface",
+  "tags": [
+   "decor"
+  ],
+  "label": "Holo Slate"
+ },
+ "cup_mug": {
+  "file": "cup_mug.glb",
+  "source": "blender-mcp",
+  "bbox": [
+   0.122,
+   0.08,
+   0.092
+  ],
+  "cat": "decor",
+  "place": "surface",
+  "tags": [
+   "decor"
+  ],
+  "label": "Mug"
+ },
+ "cup_flask": {
+  "file": "cup_flask.glb",
+  "source": "blender-mcp",
+  "bbox": [
+   0.08,
+   0.079,
+   0.17
+  ],
+  "cat": "decor",
+  "place": "surface",
+  "tags": [
+   "decor"
+  ],
+  "label": "Flask"
+ },
+ "cup_tumbler": {
+  "file": "cup_tumbler.glb",
+  "source": "blender-mcp",
+  "bbox": [
+   0.09,
+   0.09,
+   0.12
+  ],
+  "cat": "decor",
+  "place": "surface",
+  "tags": [
+   "decor"
+  ],
+  "label": "Tumbler"
+ },
+ "holo_cube_rotating": {
+  "file": "holo_cube_rotating.glb",
+  "source": "blender-mcp",
+  "bbox": [
+   0.146,
+   0.153,
+   0.216
+  ],
+  "cat": "decor",
+  "place": "surface",
+  "tags": [
+   "decor",
+   "light",
+   "glow"
+  ],
+  "light": 0.18,
+  "lightY": 0.2,
+  "label": "Rotating",
+  "lightColor": "#5fe6ff"
+ },
+ "holo_cube_planet_proj": {
+  "file": "holo_cube_planet_proj.glb",
+  "source": "blender-mcp",
+  "bbox": [
+   0.208,
+   0.192,
+   0.2
+  ],
+  "cat": "decor",
+  "place": "surface",
+  "tags": [
+   "decor",
+   "light",
+   "glow"
+  ],
+  "light": 0.18,
+  "lightY": 0.2,
+  "label": "Planet Proj",
+  "lightColor": "#6a8cff"
+ },
+ "holo_cube_logo_prism": {
+  "file": "holo_cube_logo_prism.glb",
+  "source": "blender-mcp",
+  "bbox": [
+   0.14,
+   0.14,
+   0.16
+  ],
+  "cat": "decor",
+  "place": "surface",
+  "tags": [
+   "decor",
+   "light",
+   "glow"
+  ],
+  "light": 0.18,
+  "lightY": 0.2,
+  "label": "Logo Prism",
+  "lightColor": "#ff4fb8"
+ },
+ "minibot_crawler": {
+  "file": "minibot_crawler.glb",
+  "source": "blender-mcp",
+  "bbox": [
+   0.21,
+   0.21,
+   0.104
+  ],
+  "cat": "decor",
+  "place": "surface",
+  "tags": [
+   "decor"
+  ],
+  "label": "Crawler"
+ },
+ "minibot_ball": {
+  "file": "minibot_ball.glb",
+  "source": "blender-mcp",
+  "bbox": [
+   0.148,
+   0.159,
+   0.14
+  ],
+  "cat": "decor",
+  "place": "surface",
+  "tags": [
+   "decor"
+  ],
+  "label": "Ball"
+ },
+ "minibot_desk_buddy": {
+  "file": "minibot_desk_buddy.glb",
+  "source": "blender-mcp",
+  "bbox": [
+   0.169,
+   0.1,
+   0.16
+  ],
+  "cat": "decor",
+  "place": "surface",
+  "tags": [
+   "decor"
+  ],
+  "label": "Desk Buddy"
+ },
+ "vial_set_rack_of_four": {
+  "file": "vial_set_rack_of_four.glb",
+  "source": "blender-mcp",
+  "bbox": [
+   0.22,
+   0.07,
+   0.115
+  ],
+  "cat": "decor",
+  "place": "surface",
+  "tags": [
+   "decor"
+  ],
+  "label": "Rack Of Four"
+ },
+ "vial_set_sample_tray": {
+  "file": "vial_set_sample_tray.glb",
+  "source": "blender-mcp",
+  "bbox": [
+   0.24,
+   0.16,
+   0.045
+  ],
+  "cat": "decor",
+  "place": "surface",
+  "tags": [
+   "decor"
+  ],
+  "label": "Sample Tray"
+ },
+ "vial_set_single_ampoule": {
+  "file": "vial_set_single_ampoule.glb",
+  "source": "blender-mcp",
+  "bbox": [
+   0.038,
+   0.04,
+   0.13
+  ],
+  "cat": "decor",
+  "place": "surface",
+  "tags": [
+   "decor"
+  ],
+  "label": "Single Ampoule"
+ },
+ "ship_model_cruiser": {
+  "file": "ship_model_cruiser.glb",
+  "source": "blender-mcp",
+  "bbox": [
+   0.2,
+   0.29,
+   0.13
+  ],
+  "cat": "decor",
+  "place": "surface",
+  "tags": [
+   "decor"
+  ],
+  "label": "Cruiser"
+ },
+ "ship_model_fighter": {
+  "file": "ship_model_fighter.glb",
+  "source": "blender-mcp",
+  "bbox": [
+   0.199,
+   0.235,
+   0.12
+  ],
+  "cat": "decor",
+  "place": "surface",
+  "tags": [
+   "decor"
+  ],
+  "label": "Fighter"
+ },
+ "ship_model_station_ring": {
+  "file": "ship_model_station_ring.glb",
+  "source": "blender-mcp",
+  "bbox": [
+   0.244,
+   0.244,
+   0.16
+  ],
+  "cat": "decor",
+  "place": "surface",
+  "tags": [
+   "decor"
+  ],
+  "label": "Station Ring"
+ },
+ "cable_bundle_coil": {
+  "file": "cable_bundle_coil.glb",
+  "source": "blender-mcp",
+  "bbox": [
+   0.696,
+   0.388,
+   0.105
+  ],
+  "cat": "decor",
+  "place": "floor",
+  "tags": [
+   "decor",
+   "flat"
+  ],
+  "label": "Coil"
+ },
+ "cable_bundle_tangle_floor": {
+  "file": "cable_bundle_tangle_floor.glb",
+  "source": "blender-mcp",
+  "bbox": [
+   0.832,
+   0.865,
+   0.564
+  ],
+  "cat": "decor",
+  "place": "floor",
+  "tags": [
+   "decor",
+   "flat"
+  ],
+  "label": "Tangle Floor"
+ },
+ "cable_bundle_spool": {
+  "file": "cable_bundle_spool.glb",
+  "source": "blender-mcp",
+  "bbox": [
+   0.4,
+   0.4,
+   0.3
+  ],
+  "cat": "decor",
+  "place": "floor",
+  "tags": [
+   "decor",
+   "flat"
+  ],
+  "label": "Spool"
+ },
+ "pillar_plain_column": {
+  "file": "pillar_plain_column.glb",
+  "source": "blender-mcp",
+  "bbox": [
+   0.68,
+   0.68,
+   2.7
+  ],
+  "cat": "architecture",
+  "place": "floor",
+  "tags": [
+   "arch",
+   "pillar",
+   "decor"
+  ],
+  "label": "Plain Column"
+ },
+ "pillar_ribbed_support": {
+  "file": "pillar_ribbed_support.glb",
+  "source": "blender-mcp",
+  "bbox": [
+   0.64,
+   0.64,
+   2.7
+  ],
+  "cat": "architecture",
+  "place": "floor",
+  "tags": [
+   "arch",
+   "pillar",
+   "decor"
+  ],
+  "label": "Ribbed Support"
+ },
+ "pillar_hex_strut": {
+  "file": "pillar_hex_strut.glb",
+  "source": "blender-mcp",
+  "bbox": [
+   0.624,
+   0.72,
+   2.7
+  ],
+  "cat": "architecture",
+  "place": "floor",
+  "tags": [
+   "arch",
+   "pillar",
+   "decor"
+  ],
+  "label": "Hex Strut"
+ },
+ "pillar_conduit_pillar": {
+  "file": "pillar_conduit_pillar.glb",
+  "source": "blender-mcp",
+  "bbox": [
+   0.7,
+   0.689,
+   2.7
+  ],
+  "cat": "architecture",
+  "place": "floor",
+  "tags": [
+   "arch",
+   "pillar",
+   "decor"
+  ],
+  "label": "Conduit Pillar"
+ },
+ "pilaster_rib_panel": {
+  "file": "pilaster_rib_panel.glb",
+  "source": "blender-mcp",
+  "bbox": [
+   0.44,
+   0.181,
+   2.7
+  ],
+  "cat": "architecture",
+  "place": "wall",
+  "tags": [
+   "arch",
+   "pilaster",
+   "decor",
+   "wall-hug"
+  ],
+  "label": "Rib Panel",
+  "y": 0.0
+ },
+ "pilaster_strut_light": {
+  "file": "pilaster_strut_light.glb",
+  "source": "blender-mcp",
+  "bbox": [
+   0.3,
+   0.171,
+   2.7
+  ],
+  "cat": "architecture",
+  "place": "wall",
+  "tags": [
+   "arch",
+   "pilaster",
+   "decor",
+   "wall-hug"
+  ],
+  "label": "Strut Light",
+  "y": 0.0
+ },
+ "pilaster_bulkhead_post": {
+  "file": "pilaster_bulkhead_post.glb",
+  "source": "blender-mcp",
+  "bbox": [
+   0.5,
+   0.221,
+   2.7
+  ],
+  "cat": "architecture",
+  "place": "wall",
+  "tags": [
+   "arch",
+   "pilaster",
+   "decor",
+   "wall-hug"
+  ],
+  "label": "Bulkhead Post",
+  "y": 0.0
+ },
+ "door_surround_airlock_frame": {
+  "file": "door_surround_airlock_frame.glb",
+  "source": "blender-mcp",
+  "bbox": [
+   1.42,
+   0.151,
+   2.3
+  ],
+  "cat": "architecture",
+  "place": "wall",
+  "y": 0.0,
+  "tags": [
+   "arch",
+   "door-deco",
+   "decor"
+  ],
+  "label": "Airlock Frame"
+ },
+ "door_surround_slim_trim": {
+  "file": "door_surround_slim_trim.glb",
+  "source": "blender-mcp",
+  "bbox": [
+   1.22,
+   0.091,
+   2.16
+  ],
+  "cat": "architecture",
+  "place": "wall",
+  "y": 0.0,
+  "tags": [
+   "arch",
+   "door-deco",
+   "decor"
+  ],
+  "label": "Slim Trim"
+ },
+ "door_surround_bulkhead_arch": {
+  "file": "door_surround_bulkhead_arch.glb",
+  "source": "blender-mcp",
+  "bbox": [
+   1.5,
+   0.171,
+   2.1
+  ],
+  "cat": "architecture",
+  "place": "wall",
+  "y": 0.0,
+  "tags": [
+   "arch",
+   "door-deco",
+   "decor"
+  ],
+  "label": "Bulkhead Arch"
+ },
+ "window_surround_porthole_ring": {
+  "file": "window_surround_porthole_ring.glb",
+  "source": "blender-mcp",
+  "bbox": [
+   1.27,
+   0.114,
+   1.28
+  ],
+  "cat": "architecture",
+  "place": "wall",
+  "y": 0.9,
+  "tags": [
+   "arch",
+   "window-deco",
+   "decor"
+  ],
+  "label": "Porthole Ring"
+ },
+ "window_surround_slit_frame": {
+  "file": "window_surround_slit_frame.glb",
+  "source": "blender-mcp",
+  "bbox": [
+   1.75,
+   0.111,
+   1.5
+  ],
+  "cat": "architecture",
+  "place": "wall",
+  "y": 0.9,
+  "tags": [
+   "arch",
+   "window-deco",
+   "decor"
+  ],
+  "label": "Slit Frame"
+ },
+ "window_surround_panoramic_trim": {
+  "file": "window_surround_panoramic_trim.glb",
+  "source": "blender-mcp",
+  "bbox": [
+   1.83,
+   0.131,
+   1.46
+  ],
+  "cat": "architecture",
+  "place": "wall",
+  "y": 0.9,
+  "tags": [
+   "arch",
+   "window-deco",
+   "decor"
+  ],
+  "label": "Panoramic Trim"
+ },
+ "ceiling_detail_rib_vault": {
+  "file": "ceiling_detail_rib_vault.glb",
+  "source": "blender-mcp",
+  "bbox": [
+   3.07,
+   3.0,
+   0.2
+  ],
+  "cat": "architecture",
+  "place": "ceiling",
+  "tags": [
+   "arch",
+   "ceiling-decor",
+   "decor"
+  ],
+  "label": "Rib Vault"
+ },
+ "ceiling_detail_cable_tray": {
+  "file": "ceiling_detail_cable_tray.glb",
+  "source": "blender-mcp",
+  "bbox": [
+   0.4,
+   3.0,
+   0.14
+  ],
+  "cat": "architecture",
+  "place": "ceiling",
+  "tags": [
+   "arch",
+   "ceiling-decor",
+   "decor"
+  ],
+  "label": "Cable Tray"
+ },
+ "ceiling_detail_light_grid": {
+  "file": "ceiling_detail_light_grid.glb",
+  "source": "blender-mcp",
+  "bbox": [
+   2.8,
+   2.8,
+   0.055
+  ],
+  "cat": "architecture",
+  "place": "ceiling",
+  "tags": [
+   "arch",
+   "ceiling-decor",
+   "decor"
+  ],
+  "label": "Light Grid"
+ },
+ "ceiling_detail_duct_run": {
+  "file": "ceiling_detail_duct_run.glb",
+  "source": "blender-mcp",
+  "bbox": [
+   0.48,
+   3.0,
+   0.48
+  ],
+  "cat": "architecture",
+  "place": "ceiling",
+  "tags": [
+   "arch",
+   "ceiling-decor",
+   "decor"
+  ],
+  "label": "Duct Run"
+ },
+ "floor_decal_hazard_stripes": {
+  "file": "floor_decal_hazard_stripes.glb",
+  "source": "blender-mcp",
+  "bbox": [
+   2.614,
+   2.367,
+   0.012
+  ],
+  "cat": "architecture",
+  "place": "floor",
+  "tags": [
+   "arch",
+   "decal",
+   "flat",
+   "decor"
+  ],
+  "label": "Hazard Stripes",
+  "size": [
+   1.2,
+   0.5,
+   0.02
+  ]
+ },
+ "floor_decal_path_arrows": {
+  "file": "floor_decal_path_arrows.glb",
+  "source": "blender-mcp",
+  "bbox": [
+   1.915,
+   0.233,
+   0.044
+  ],
+  "cat": "architecture",
+  "place": "floor",
+  "tags": [
+   "arch",
+   "decal",
+   "flat",
+   "decor"
+  ],
+  "label": "Path Arrows",
+  "size": [
+   1.4,
+   0.3,
+   0.02
+  ]
+ },
+ "floor_decal_deck_ring": {
+  "file": "floor_decal_deck_ring.glb",
+  "source": "blender-mcp",
+  "bbox": [
+   1.86,
+   1.86,
+   0.057
+  ],
+  "cat": "architecture",
+  "place": "floor",
+  "tags": [
+   "arch",
+   "decal",
+   "flat",
+   "decor"
+  ],
+  "label": "Deck Ring",
+  "size": [
+   1.0,
+   1.0,
+   0.03
+  ]
+ }
+}

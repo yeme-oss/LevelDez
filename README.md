@@ -282,3 +282,6 @@ docs/screenshots/          images used in this README
 ## License
 
 Public domain under the [Unlicense](LICENSE): use, modify and sell it for any purpose, no attribution needed. (The Nano Banana images carry the caveat above.)
+
+## FOLLOW ME
+I'm on Patreon. I share insights about AI ventures, practical hands-on stuff. [No fluff](https://patreon.com/c/PierreIgorZarebski/).
